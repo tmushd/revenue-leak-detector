@@ -1,0 +1,215 @@
+cancellation_id,account_id,cancellation_date,tenure_months,refund_requested,cancellation_reason_text,churned_revenue,reason_type
+C00001,A00014,2025-01-29,5,False,User moved to Adobe Express for familiarity and existing workflows.,450,competitor_switch
+C00002,A00032,2026-02-25,7,False,Account cancelled due to pricing concerns relative to usage.,36,pricing
+C00003,A00053,2025-09-25,15,False,Account showed weak adoption and limited ongoing engagement.,48,low_usage
+C00004,A00054,2025-07-14,5,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00005,A00080,2025-09-02,7,False,Account churned after preferring a competitor's template ecosystem.,48,competitor_switch
+C00006,A00096,2025-12-31,19,True,Customer said the subscription cost no longer felt justified.,36,pricing
+C00007,A00100,2025-05-22,1,False,Customer reported repeated performance issues and slow editing experience.,180,performance
+C00008,A00101,2025-09-08,16,False,User cited budget pressure and reduced willingness to renew.,36,pricing
+C00009,A00107,2025-06-05,13,True,User moved to Adobe Express for familiarity and existing workflows.,48,competitor_switch
+C00010,A00113,2026-01-05,1,False,User cited budget pressure and reduced willingness to renew.,36,pricing
+C00011,A00119,2025-04-09,3,False,Account showed weak adoption and limited ongoing engagement.,12,low_usage
+C00012,A00125,2026-02-18,4,False,User cited budget pressure and reduced willingness to renew.,60,pricing
+C00013,A00137,2025-12-30,12,False,User moved to Adobe Express for familiarity and existing workflows.,48,competitor_switch
+C00014,A00146,2025-08-21,4,False,Account showed weak adoption and limited ongoing engagement.,24,low_usage
+C00015,A00180,2025-10-02,1,False,Customer said the subscription cost no longer felt justified.,240,pricing
+C00016,A00189,2025-09-01,4,False,Account churned after preferring a competitor's template ecosystem.,120,competitor_switch
+C00017,A00199,2025-07-19,13,True,User cited budget pressure and reduced willingness to renew.,150,pricing
+C00018,A00224,2025-12-27,5,False,User cited budget pressure and reduced willingness to renew.,12,pricing
+C00019,A00231,2025-08-30,15,False,Customer switched to Canva because the broader team already uses it.,180,competitor_switch
+C00020,A00233,2026-01-05,23,False,Account churned after unresolved speed and reliability complaints.,120,performance
+C00021,A00243,2025-01-10,1,False,Account churned after preferring a competitor's template ecosystem.,150,competitor_switch
+C00022,A00245,2025-01-21,3,True,Account churned after unresolved speed and reliability complaints.,24,performance
+C00023,A00251,2025-01-30,1,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00024,A00253,2025-01-14,11,False,User did not create enough projects to justify the subscription.,24,low_usage
+C00025,A00258,2026-03-08,3,True,User cited budget pressure and reduced willingness to renew.,36,pricing
+C00026,A00265,2025-09-29,6,False,User moved to Adobe Express for familiarity and existing workflows.,12,competitor_switch
+C00027,A00272,2025-08-19,17,False,Account churned after preferring a competitor's template ecosystem.,36,competitor_switch
+C00028,A00277,2025-09-10,3,False,Customer reported repeated performance issues and slow editing experience.,300,performance
+C00029,A00308,2026-03-09,11,False,Account showed weak adoption and limited ongoing engagement.,48,low_usage
+C00030,A00311,2026-03-08,2,False,User moved to Adobe Express for familiarity and existing workflows.,450,competitor_switch
+C00031,A00334,2026-03-11,1,True,User did not create enough projects to justify the subscription.,24,low_usage
+C00032,A00350,2025-07-13,1,True,Customer switched to Canva because the broader team already uses it.,48,competitor_switch
+C00033,A00369,2026-01-24,11,False,Customer reported repeated performance issues and slow editing experience.,180,performance
+C00034,A00376,2025-04-18,4,False,User cited lag and unstable exports as key reasons for cancellation.,48,performance
+C00035,A00383,2026-03-11,1,True,Account showed weak adoption and limited ongoing engagement.,180,low_usage
+C00036,A00390,2026-02-07,6,False,User cited budget pressure and reduced willingness to renew.,90,pricing
+C00037,A00399,2025-01-08,1,False,User moved to Adobe Express for familiarity and existing workflows.,12,competitor_switch
+C00038,A00403,2026-01-28,11,False,User moved to Adobe Express for familiarity and existing workflows.,24,competitor_switch
+C00039,A00412,2025-12-03,21,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00040,A00421,2025-07-22,3,True,User moved to Adobe Express for familiarity and existing workflows.,48,competitor_switch
+C00041,A00423,2026-02-12,5,True,Account churned after preferring a competitor's template ecosystem.,36,competitor_switch
+C00042,A00446,2026-02-10,18,False,Customer switched to Canva because the broader team already uses it.,48,competitor_switch
+C00043,A00454,2025-05-20,4,False,Account cancelled due to pricing concerns relative to usage.,48,pricing
+C00044,A00467,2025-03-18,2,False,User cited lag and unstable exports as key reasons for cancellation.,24,performance
+C00045,A00477,2025-10-04,5,False,Account churned after preferring a competitor's template ecosystem.,48,competitor_switch
+C00046,A00479,2025-08-02,17,True,User moved to Adobe Express for familiarity and existing workflows.,300,competitor_switch
+C00047,A00492,2025-11-09,4,True,Account churned after unresolved speed and reliability complaints.,48,performance
+C00048,A00495,2025-06-06,7,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00049,A00499,2026-02-22,1,True,Customer reported repeated performance issues and slow editing experience.,24,performance
+C00050,A00500,2025-10-20,1,False,Account churned after preferring a competitor's template ecosystem.,240,competitor_switch
+C00051,A00502,2026-02-02,2,False,User moved to Adobe Express for familiarity and existing workflows.,12,competitor_switch
+C00052,A00505,2025-10-10,2,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00053,A00508,2026-01-04,1,False,Customer cancelled after low product usage over the last month.,48,low_usage
+C00054,A00509,2025-10-03,11,False,User cited budget pressure and reduced willingness to renew.,12,pricing
+C00055,A00511,2025-01-28,3,True,Customer reported repeated performance issues and slow editing experience.,36,performance
+C00056,A00520,2025-08-28,15,False,Account churned after preferring a competitor's template ecosystem.,12,competitor_switch
+C00057,A00524,2025-05-25,1,True,Customer cancelled after low product usage over the last month.,36,low_usage
+C00058,A00534,2026-03-05,1,False,User did not create enough projects to justify the subscription.,120,low_usage
+C00059,A00536,2026-03-05,1,False,User did not create enough projects to justify the subscription.,240,low_usage
+C00060,A00541,2025-04-16,12,True,Customer reported repeated performance issues and slow editing experience.,150,performance
+C00061,A00544,2025-07-07,7,False,Account churned after preferring a competitor's template ecosystem.,36,competitor_switch
+C00062,A00549,2025-10-06,11,True,User cited lag and unstable exports as key reasons for cancellation.,48,performance
+C00063,A00556,2026-03-11,4,False,Account cancelled due to pricing concerns relative to usage.,48,pricing
+C00064,A00578,2025-01-22,8,True,User cited budget pressure and reduced willingness to renew.,24,pricing
+C00065,A00590,2025-03-06,1,False,Customer switched to Canva because the broader team already uses it.,36,competitor_switch
+C00066,A00600,2025-07-15,3,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00067,A00604,2025-01-04,4,True,Customer cancelled after low product usage over the last month.,150,low_usage
+C00068,A00607,2026-01-18,8,False,Customer reported repeated performance issues and slow editing experience.,48,performance
+C00069,A00620,2026-03-11,1,False,User did not create enough projects to justify the subscription.,36,low_usage
+C00070,A00630,2025-02-09,5,True,Account showed weak adoption and limited ongoing engagement.,12,low_usage
+C00071,A00634,2025-12-28,1,True,Customer switched to Canva because the broader team already uses it.,36,competitor_switch
+C00072,A00649,2025-10-18,1,True,User moved to Adobe Express for familiarity and existing workflows.,120,competitor_switch
+C00073,A00660,2025-10-29,6,False,User did not create enough projects to justify the subscription.,300,low_usage
+C00074,A00661,2025-07-26,12,False,Account showed weak adoption and limited ongoing engagement.,48,low_usage
+C00075,A00666,2026-02-14,1,True,Customer cancelled after low product usage over the last month.,36,low_usage
+C00076,A00670,2026-03-07,5,False,User cited budget pressure and reduced willingness to renew.,48,pricing
+C00077,A00677,2025-12-20,15,False,Account churned after preferring a competitor's template ecosystem.,24,competitor_switch
+C00078,A00681,2026-02-09,3,False,User cited budget pressure and reduced willingness to renew.,180,pricing
+C00079,A00698,2026-03-04,23,True,Account showed weak adoption and limited ongoing engagement.,240,low_usage
+C00080,A00699,2026-03-07,1,False,User did not create enough projects to justify the subscription.,24,low_usage
+C00081,A00703,2026-02-01,12,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00082,A00718,2026-01-17,1,False,User moved to Adobe Express for familiarity and existing workflows.,36,competitor_switch
+C00083,A00719,2026-01-21,2,False,Customer switched to Canva because the broader team already uses it.,450,competitor_switch
+C00084,A00732,2026-02-23,1,True,Account showed weak adoption and limited ongoing engagement.,90,low_usage
+C00085,A00738,2025-06-04,9,False,Account churned after unresolved speed and reliability complaints.,48,performance
+C00086,A00741,2026-02-16,2,False,Account churned after unresolved speed and reliability complaints.,36,performance
+C00087,A00755,2025-12-20,16,True,Customer said the subscription cost no longer felt justified.,90,pricing
+C00088,A00768,2025-04-12,11,False,Account cancelled due to pricing concerns relative to usage.,48,pricing
+C00089,A00769,2026-03-08,8,False,Account churned after preferring a competitor's template ecosystem.,12,competitor_switch
+C00090,A00780,2025-08-29,18,False,Customer cancelled after low product usage over the last month.,48,low_usage
+C00091,A00784,2025-12-19,7,False,Customer reported repeated performance issues and slow editing experience.,450,performance
+C00092,A00793,2026-01-07,1,False,Customer said the subscription cost no longer felt justified.,12,pricing
+C00093,A00803,2025-03-18,1,False,User cited lag and unstable exports as key reasons for cancellation.,24,performance
+C00094,A00810,2026-03-08,1,True,Account churned after preferring a competitor's template ecosystem.,36,competitor_switch
+C00095,A00828,2026-01-05,5,False,User moved to Adobe Express for familiarity and existing workflows.,12,competitor_switch
+C00096,A00830,2025-12-18,22,False,Customer cancelled after low product usage over the last month.,90,low_usage
+C00097,A00863,2026-02-25,1,False,Account showed weak adoption and limited ongoing engagement.,24,low_usage
+C00098,A00869,2025-11-08,16,True,User moved to Adobe Express for familiarity and existing workflows.,90,competitor_switch
+C00099,A00871,2026-01-13,7,False,Account churned after preferring a competitor's template ecosystem.,36,competitor_switch
+C00100,A00883,2025-09-09,9,False,Account churned after preferring a competitor's template ecosystem.,240,competitor_switch
+C00101,A00897,2025-05-20,14,False,Account churned after unresolved speed and reliability complaints.,60,performance
+C00102,A00900,2026-03-05,1,True,Customer switched to Canva because the broader team already uses it.,36,competitor_switch
+C00103,A00909,2025-02-17,8,False,Customer reported repeated performance issues and slow editing experience.,12,performance
+C00104,A00913,2026-02-20,2,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00105,A00925,2025-09-12,5,False,Account churned after preferring a competitor's template ecosystem.,180,competitor_switch
+C00106,A00927,2025-12-19,14,False,Account churned after preferring a competitor's template ecosystem.,180,competitor_switch
+C00107,A00935,2025-11-19,11,False,Customer cancelled after low product usage over the last month.,48,low_usage
+C00108,A00940,2026-01-02,1,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00109,A00943,2026-01-17,23,False,User moved to Adobe Express for familiarity and existing workflows.,24,competitor_switch
+C00110,A00950,2026-01-13,1,False,User moved to Adobe Express for familiarity and existing workflows.,12,competitor_switch
+C00111,A00982,2026-02-07,1,False,Customer reported repeated performance issues and slow editing experience.,240,performance
+C00112,A00985,2026-01-25,11,False,Customer cancelled after low product usage over the last month.,36,low_usage
+C00113,A00999,2025-05-06,11,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00114,A01003,2026-01-30,12,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00115,A01004,2026-02-25,1,True,Customer said the subscription cost no longer felt justified.,12,pricing
+C00116,A01005,2025-04-22,6,True,Account showed weak adoption and limited ongoing engagement.,12,low_usage
+C00117,A01024,2025-09-25,18,False,Customer reported repeated performance issues and slow editing experience.,12,performance
+C00118,A01041,2026-03-08,2,False,User cited lag and unstable exports as key reasons for cancellation.,24,performance
+C00119,A01047,2026-01-31,7,True,User did not create enough projects to justify the subscription.,36,low_usage
+C00120,A01070,2026-01-01,22,True,Customer cancelled after low product usage over the last month.,24,low_usage
+C00121,A01075,2025-12-13,15,False,Customer switched to Canva because the broader team already uses it.,12,competitor_switch
+C00122,A01078,2026-03-11,1,False,Account churned after unresolved speed and reliability complaints.,180,performance
+C00123,A01095,2025-06-09,7,False,Customer cancelled after low product usage over the last month.,36,low_usage
+C00124,A01128,2026-02-09,7,False,User did not create enough projects to justify the subscription.,36,low_usage
+C00125,A01149,2026-02-12,22,False,Customer said the subscription cost no longer felt justified.,36,pricing
+C00126,A01155,2026-02-07,1,True,User cited budget pressure and reduced willingness to renew.,240,pricing
+C00127,A01175,2026-03-06,1,False,Account churned after preferring a competitor's template ecosystem.,90,competitor_switch
+C00128,A01186,2025-11-09,14,False,Customer reported repeated performance issues and slow editing experience.,90,performance
+C00129,A01189,2025-01-25,8,False,Customer switched to Canva because the broader team already uses it.,120,competitor_switch
+C00130,A01198,2025-10-26,20,True,Customer said the subscription cost no longer felt justified.,120,pricing
+C00131,A01203,2025-08-18,2,False,User cited budget pressure and reduced willingness to renew.,36,pricing
+C00132,A01228,2025-08-30,15,True,Account churned after unresolved speed and reliability complaints.,12,performance
+C00133,A01244,2025-06-09,15,False,Account churned after preferring a competitor's template ecosystem.,12,competitor_switch
+C00134,A01246,2025-10-07,4,False,Account churned after preferring a competitor's template ecosystem.,450,competitor_switch
+C00135,A01247,2025-05-10,6,True,User moved to Adobe Express for familiarity and existing workflows.,12,competitor_switch
+C00136,A01250,2026-03-08,1,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00137,A01254,2026-01-19,5,True,User cited budget pressure and reduced willingness to renew.,24,pricing
+C00138,A01258,2026-02-27,1,False,Customer said the subscription cost no longer felt justified.,36,pricing
+C00139,A01260,2025-09-25,16,False,Account churned after unresolved speed and reliability complaints.,60,performance
+C00140,A01279,2025-10-22,5,False,Customer said the subscription cost no longer felt justified.,12,pricing
+C00141,A01293,2025-12-07,1,True,User moved to Adobe Express for familiarity and existing workflows.,24,competitor_switch
+C00142,A01312,2026-02-03,4,False,Account churned after preferring a competitor's template ecosystem.,150,competitor_switch
+C00143,A01326,2025-10-27,3,True,Customer said the subscription cost no longer felt justified.,150,pricing
+C00144,A01327,2025-05-18,3,False,User did not create enough projects to justify the subscription.,36,low_usage
+C00145,A01350,2025-12-31,8,False,Account churned after preferring a competitor's template ecosystem.,24,competitor_switch
+C00146,A01357,2025-09-24,1,False,Customer cancelled after low product usage over the last month.,24,low_usage
+C00147,A01362,2025-08-05,5,False,User moved to Adobe Express for familiarity and existing workflows.,48,competitor_switch
+C00148,A01365,2025-03-22,14,False,Account showed weak adoption and limited ongoing engagement.,120,low_usage
+C00149,A01371,2025-07-18,2,True,User did not create enough projects to justify the subscription.,300,low_usage
+C00150,A01386,2026-02-09,19,True,Customer said the subscription cost no longer felt justified.,24,pricing
+C00151,A01389,2025-01-03,3,False,User cited budget pressure and reduced willingness to renew.,180,pricing
+C00152,A01394,2025-09-15,1,False,Customer switched to Canva because the broader team already uses it.,12,competitor_switch
+C00153,A01435,2026-01-16,1,True,User did not create enough projects to justify the subscription.,12,low_usage
+C00154,A01467,2025-08-28,13,True,Account churned after unresolved speed and reliability complaints.,12,performance
+C00155,A01477,2026-03-03,1,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00156,A01489,2025-10-08,4,False,Customer switched to Canva because the broader team already uses it.,12,competitor_switch
+C00157,A01491,2025-08-16,1,True,User did not create enough projects to justify the subscription.,120,low_usage
+C00158,A01495,2026-01-11,11,False,Account showed weak adoption and limited ongoing engagement.,24,low_usage
+C00159,A01510,2025-04-25,12,True,Customer switched to Canva because the broader team already uses it.,90,competitor_switch
+C00160,A01513,2026-02-25,3,False,Customer cancelled after low product usage over the last month.,180,low_usage
+C00161,A01516,2025-07-03,1,True,Customer switched to Canva because the broader team already uses it.,24,competitor_switch
+C00162,A01531,2025-10-24,11,False,Account cancelled due to pricing concerns relative to usage.,36,pricing
+C00163,A01554,2026-01-20,1,False,Account churned after preferring a competitor's template ecosystem.,120,competitor_switch
+C00164,A01557,2025-10-02,15,False,Customer switched to Canva because the broader team already uses it.,12,competitor_switch
+C00165,A01558,2025-09-25,3,True,User did not create enough projects to justify the subscription.,60,low_usage
+C00166,A01567,2025-07-13,5,True,User cited budget pressure and reduced willingness to renew.,12,pricing
+C00167,A01574,2025-10-24,3,True,Customer said the subscription cost no longer felt justified.,300,pricing
+C00168,A01578,2026-02-16,17,False,Account cancelled due to pricing concerns relative to usage.,24,pricing
+C00169,A01588,2025-12-18,1,True,Account showed weak adoption and limited ongoing engagement.,12,low_usage
+C00170,A01604,2025-12-17,5,False,Account churned after unresolved speed and reliability complaints.,180,performance
+C00171,A01610,2025-11-03,16,False,Customer said the subscription cost no longer felt justified.,24,pricing
+C00172,A01615,2026-02-27,1,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00173,A01639,2026-01-05,11,True,User cited lag and unstable exports as key reasons for cancellation.,36,performance
+C00174,A01653,2026-01-27,4,False,Customer switched to Canva because the broader team already uses it.,300,competitor_switch
+C00175,A01655,2026-03-01,16,False,Account cancelled due to pricing concerns relative to usage.,48,pricing
+C00176,A01659,2025-10-11,2,False,User moved to Adobe Express for familiarity and existing workflows.,24,competitor_switch
+C00177,A01662,2026-01-16,19,False,Customer switched to Canva because the broader team already uses it.,24,competitor_switch
+C00178,A01693,2025-04-14,2,False,User cited budget pressure and reduced willingness to renew.,300,pricing
+C00179,A01699,2026-02-17,1,False,Account churned after unresolved speed and reliability complaints.,24,performance
+C00180,A01700,2025-05-15,1,False,Customer reported repeated performance issues and slow editing experience.,300,performance
+C00181,A01705,2025-11-07,17,False,Customer reported repeated performance issues and slow editing experience.,36,performance
+C00182,A01719,2026-02-14,5,False,Customer switched to Canva because the broader team already uses it.,12,competitor_switch
+C00183,A01723,2026-03-07,20,False,Customer cancelled after low product usage over the last month.,12,low_usage
+C00184,A01739,2026-01-30,21,False,User moved to Adobe Express for familiarity and existing workflows.,24,competitor_switch
+C00185,A01773,2025-08-19,7,False,Account showed weak adoption and limited ongoing engagement.,36,low_usage
+C00186,A01775,2025-01-02,8,True,Account cancelled due to pricing concerns relative to usage.,300,pricing
+C00187,A01776,2025-11-27,1,False,User did not create enough projects to justify the subscription.,48,low_usage
+C00188,A01784,2025-10-20,1,False,Account churned after preferring a competitor's template ecosystem.,24,competitor_switch
+C00189,A01785,2026-02-16,2,True,User cited budget pressure and reduced willingness to renew.,36,pricing
+C00190,A01786,2026-03-06,5,True,User cited lag and unstable exports as key reasons for cancellation.,180,performance
+C00191,A01802,2025-09-06,14,True,Account cancelled due to pricing concerns relative to usage.,300,pricing
+C00192,A01817,2025-03-08,5,True,User did not create enough projects to justify the subscription.,240,low_usage
+C00193,A01819,2025-08-19,14,True,User did not create enough projects to justify the subscription.,150,low_usage
+C00194,A01828,2025-11-03,14,False,Account churned after unresolved speed and reliability complaints.,48,performance
+C00195,A01832,2025-06-12,5,True,Account cancelled due to pricing concerns relative to usage.,12,pricing
+C00196,A01833,2025-03-29,1,False,Account showed weak adoption and limited ongoing engagement.,12,low_usage
+C00197,A01839,2026-03-03,5,False,Account churned after preferring a competitor's template ecosystem.,90,competitor_switch
+C00198,A01842,2025-11-01,4,True,Customer switched to Canva because the broader team already uses it.,36,competitor_switch
+C00199,A01843,2026-02-06,5,True,Customer said the subscription cost no longer felt justified.,24,pricing
+C00200,A01847,2025-11-01,2,True,Account churned after unresolved speed and reliability complaints.,120,performance
+C00201,A01855,2025-04-13,11,False,Account cancelled due to pricing concerns relative to usage.,24,pricing
+C00202,A01859,2026-02-11,9,True,Account cancelled due to pricing concerns relative to usage.,24,pricing
+C00203,A01884,2025-10-09,5,False,Account cancelled due to pricing concerns relative to usage.,36,pricing
+C00204,A01890,2025-05-05,1,False,Customer cancelled after low product usage over the last month.,48,low_usage
+C00205,A01898,2026-01-01,15,False,Account cancelled due to pricing concerns relative to usage.,60,pricing
+C00206,A01919,2025-04-04,2,False,Account churned after preferring a competitor's template ecosystem.,180,competitor_switch
+C00207,A01921,2025-04-14,12,False,Customer reported repeated performance issues and slow editing experience.,180,performance
+C00208,A01924,2025-07-26,14,False,Account cancelled due to pricing concerns relative to usage.,48,pricing
+C00209,A01927,2026-01-11,22,False,User moved to Adobe Express for familiarity and existing workflows.,12,competitor_switch
+C00210,A01935,2026-02-22,1,False,Customer reported repeated performance issues and slow editing experience.,12,performance
+C00211,A01937,2025-07-31,7,False,User did not create enough projects to justify the subscription.,48,low_usage
+C00212,A01976,2025-02-18,4,False,Customer switched to Canva because the broader team already uses it.,60,competitor_switch
+C00213,A01977,2025-03-10,3,False,Account showed weak adoption and limited ongoing engagement.,12,low_usage
+C00214,A01988,2025-11-15,1,False,Customer said the subscription cost no longer felt justified.,12,pricing

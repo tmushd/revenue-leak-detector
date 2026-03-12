@@ -1,0 +1,2001 @@
+account_id,company_size,industry,region,plan_type,signup_date,monthly_revenue
+A00001,small_business,tech_startup,Asia,pro,2025-10-16,12
+A00002,solo,ecommerce,North America,pro,2024-01-26,36
+A00003,small_business,media,North America,team,2024-09-07,90
+A00004,mid_market,ecommerce,North America,pro,2024-05-22,12
+A00005,solo,education,North America,free,2025-11-23,0
+A00006,small_business,ecommerce,North America,pro,2026-01-28,12
+A00007,small_business,media,North America,pro,2025-08-27,48
+A00008,small_business,ecommerce,Europe,free,2024-02-02,0
+A00009,solo,tech_startup,Latin America,pro,2024-01-31,12
+A00010,solo,ecommerce,Europe,free,2024-08-11,0
+A00011,solo,education,North America,pro,2024-08-26,12
+A00012,solo,media,North America,free,2025-07-28,0
+A00013,small_business,ecommerce,Latin America,team,2024-07-22,150
+A00014,mid_market,tech_startup,Europe,team,2024-08-13,450
+A00015,solo,ecommerce,North America,free,2025-08-26,0
+A00016,small_business,marketing_agency,Asia,pro,2024-10-11,12
+A00017,solo,real_estate,North America,pro,2026-02-16,24
+A00018,solo,tech_startup,Asia,free,2025-12-15,0
+A00019,solo,tech_startup,Asia,pro,2025-03-08,36
+A00020,small_business,ecommerce,North America,free,2024-10-11,0
+A00021,mid_market,real_estate,North America,pro,2024-06-08,24
+A00022,solo,marketing_agency,Asia,pro,2026-02-20,36
+A00023,mid_market,education,North America,team,2024-04-14,180
+A00024,small_business,real_estate,Asia,pro,2025-01-24,12
+A00025,small_business,education,North America,free,2025-01-02,0
+A00026,solo,real_estate,North America,free,2024-12-18,0
+A00027,mid_market,marketing_agency,North America,team,2025-09-10,300
+A00028,solo,ecommerce,North America,free,2024-02-14,0
+A00029,mid_market,tech_startup,Europe,team,2026-01-17,450
+A00030,mid_market,ecommerce,Asia,team,2025-07-03,180
+A00031,mid_market,tech_startup,North America,pro,2025-01-22,12
+A00032,solo,education,Asia,pro,2025-07-19,36
+A00033,solo,education,North America,free,2025-10-05,0
+A00034,solo,marketing_agency,Latin America,free,2025-09-25,0
+A00035,small_business,media,North America,team,2025-01-05,90
+A00036,mid_market,marketing_agency,Europe,team,2025-12-22,180
+A00037,solo,ecommerce,Europe,free,2024-02-16,0
+A00038,solo,marketing_agency,Latin America,free,2025-11-08,0
+A00039,solo,education,Latin America,free,2024-08-21,0
+A00040,small_business,media,North America,pro,2026-03-02,36
+A00041,small_business,real_estate,Europe,pro,2024-03-22,24
+A00042,solo,tech_startup,North America,free,2024-04-13,0
+A00043,solo,real_estate,Europe,free,2025-01-24,0
+A00044,small_business,marketing_agency,Europe,free,2024-10-11,0
+A00045,small_business,marketing_agency,Latin America,free,2025-04-09,0
+A00046,solo,ecommerce,Latin America,pro,2025-10-12,36
+A00047,solo,real_estate,Asia,pro,2024-06-15,36
+A00048,small_business,marketing_agency,North America,team,2024-12-29,90
+A00049,mid_market,real_estate,North America,team,2025-11-17,300
+A00050,small_business,tech_startup,Asia,team,2025-12-19,60
+A00051,small_business,ecommerce,North America,team,2025-09-15,90
+A00052,small_business,ecommerce,North America,pro,2025-06-30,24
+A00053,solo,ecommerce,Europe,pro,2024-06-16,48
+A00054,small_business,marketing_agency,Asia,pro,2025-01-23,36
+A00055,solo,media,Europe,pro,2025-10-17,24
+A00056,small_business,real_estate,North America,pro,2025-12-02,36
+A00057,solo,marketing_agency,Latin America,free,2026-02-25,0
+A00058,mid_market,real_estate,Asia,team,2026-03-05,180
+A00059,small_business,education,North America,pro,2024-08-22,12
+A00060,solo,ecommerce,Europe,free,2024-11-19,0
+A00061,mid_market,tech_startup,Latin America,team,2025-02-14,300
+A00062,solo,tech_startup,North America,pro,2024-03-08,24
+A00063,mid_market,tech_startup,North America,team,2025-08-03,300
+A00064,mid_market,marketing_agency,North America,team,2024-08-05,450
+A00065,mid_market,media,Europe,pro,2025-02-09,48
+A00066,small_business,tech_startup,North America,pro,2024-05-26,36
+A00067,mid_market,media,Europe,team,2024-05-22,240
+A00068,small_business,marketing_agency,Asia,team,2026-02-01,120
+A00069,mid_market,tech_startup,Europe,team,2026-02-03,450
+A00070,small_business,real_estate,Asia,team,2025-08-20,150
+A00071,mid_market,marketing_agency,North America,pro,2025-01-05,24
+A00072,small_business,ecommerce,Europe,pro,2024-05-21,48
+A00073,solo,real_estate,North America,free,2024-04-03,0
+A00074,mid_market,marketing_agency,North America,team,2026-02-12,180
+A00075,small_business,ecommerce,Europe,free,2024-04-22,0
+A00076,solo,education,Europe,pro,2024-06-05,24
+A00077,small_business,tech_startup,Europe,pro,2025-11-27,48
+A00078,small_business,marketing_agency,North America,free,2025-09-02,0
+A00079,solo,tech_startup,Asia,pro,2024-03-06,48
+A00080,small_business,ecommerce,North America,pro,2025-01-25,48
+A00081,small_business,media,Europe,pro,2025-06-25,36
+A00082,mid_market,media,Europe,team,2025-07-20,180
+A00083,small_business,marketing_agency,North America,team,2025-11-27,60
+A00084,solo,ecommerce,North America,free,2025-11-29,0
+A00085,mid_market,media,Europe,pro,2025-07-03,36
+A00086,small_business,education,North America,pro,2026-02-26,36
+A00087,small_business,real_estate,Europe,free,2024-04-24,0
+A00088,small_business,real_estate,Europe,team,2024-10-27,150
+A00089,small_business,ecommerce,North America,pro,2024-06-10,48
+A00090,solo,real_estate,Latin America,pro,2024-01-04,36
+A00091,small_business,real_estate,Europe,pro,2025-05-27,24
+A00092,mid_market,marketing_agency,Latin America,team,2025-06-03,180
+A00093,solo,ecommerce,North America,free,2025-10-02,0
+A00094,solo,media,North America,free,2024-11-01,0
+A00095,mid_market,ecommerce,Asia,team,2025-10-16,240
+A00096,solo,media,Europe,pro,2024-06-05,36
+A00097,small_business,tech_startup,North America,free,2026-02-19,0
+A00098,small_business,tech_startup,Latin America,pro,2024-06-14,12
+A00099,small_business,media,North America,team,2025-09-05,120
+A00100,mid_market,education,Asia,team,2025-05-15,180
+A00101,solo,tech_startup,Europe,pro,2024-04-24,36
+A00102,solo,tech_startup,North America,free,2024-11-10,0
+A00103,mid_market,ecommerce,North America,team,2024-09-02,180
+A00104,mid_market,real_estate,Europe,team,2024-09-03,180
+A00105,solo,marketing_agency,Europe,pro,2024-03-28,48
+A00106,small_business,media,North America,pro,2024-03-11,24
+A00107,solo,real_estate,North America,pro,2024-05-11,48
+A00108,small_business,ecommerce,North America,team,2025-07-16,90
+A00109,small_business,ecommerce,North America,pro,2024-09-28,48
+A00110,solo,tech_startup,Asia,free,2024-08-04,0
+A00111,solo,tech_startup,North America,free,2025-07-06,0
+A00112,mid_market,tech_startup,Latin America,team,2026-02-12,240
+A00113,small_business,ecommerce,Asia,pro,2025-12-31,36
+A00114,small_business,tech_startup,North America,pro,2025-02-12,36
+A00115,solo,education,North America,free,2025-03-24,0
+A00116,solo,real_estate,Asia,pro,2025-06-13,48
+A00117,mid_market,marketing_agency,North America,team,2024-05-03,240
+A00118,solo,tech_startup,North America,pro,2024-08-18,12
+A00119,solo,tech_startup,Europe,pro,2024-12-12,12
+A00120,solo,real_estate,Latin America,free,2025-08-25,0
+A00121,small_business,media,Europe,pro,2025-07-21,24
+A00122,small_business,tech_startup,North America,pro,2025-08-25,24
+A00123,mid_market,tech_startup,Europe,team,2024-01-08,180
+A00124,solo,ecommerce,Europe,free,2025-12-25,0
+A00125,small_business,ecommerce,Latin America,team,2025-10-08,60
+A00126,small_business,education,North America,team,2024-08-22,60
+A00127,small_business,ecommerce,Latin America,team,2024-02-02,120
+A00128,mid_market,media,Europe,team,2024-03-13,240
+A00129,mid_market,tech_startup,North America,pro,2024-10-12,48
+A00130,small_business,tech_startup,Latin America,free,2024-08-07,0
+A00131,small_business,marketing_agency,Latin America,team,2025-07-06,90
+A00132,mid_market,education,North America,team,2026-01-10,450
+A00133,solo,tech_startup,Asia,pro,2024-09-05,48
+A00134,mid_market,real_estate,Asia,team,2025-02-20,240
+A00135,mid_market,marketing_agency,Europe,pro,2024-04-06,12
+A00136,mid_market,real_estate,North America,team,2025-11-05,450
+A00137,small_business,marketing_agency,North America,pro,2024-12-28,48
+A00138,small_business,media,Europe,team,2025-02-24,150
+A00139,small_business,real_estate,Asia,pro,2026-01-16,12
+A00140,solo,ecommerce,Asia,pro,2025-11-20,12
+A00141,small_business,ecommerce,North America,free,2024-03-03,0
+A00142,small_business,real_estate,North America,pro,2025-02-16,36
+A00143,mid_market,marketing_agency,Europe,team,2024-04-21,240
+A00144,small_business,real_estate,Asia,team,2024-07-15,90
+A00145,solo,tech_startup,Europe,free,2025-07-03,0
+A00146,small_business,tech_startup,Europe,pro,2025-04-04,24
+A00147,small_business,marketing_agency,North America,free,2025-03-08,0
+A00148,solo,ecommerce,North America,pro,2024-07-06,36
+A00149,solo,marketing_agency,Asia,free,2025-04-18,0
+A00150,small_business,ecommerce,North America,free,2024-09-12,0
+A00151,solo,marketing_agency,North America,free,2024-03-18,0
+A00152,solo,education,North America,free,2025-03-29,0
+A00153,small_business,media,North America,team,2025-07-17,60
+A00154,small_business,ecommerce,Asia,team,2024-02-21,60
+A00155,solo,marketing_agency,Asia,pro,2024-04-05,24
+A00156,solo,ecommerce,North America,free,2024-06-19,0
+A00157,small_business,marketing_agency,Europe,pro,2025-02-20,48
+A00158,solo,marketing_agency,Asia,pro,2025-05-07,24
+A00159,small_business,education,North America,pro,2025-02-14,12
+A00160,small_business,marketing_agency,North America,pro,2024-06-17,48
+A00161,solo,marketing_agency,North America,free,2024-01-03,0
+A00162,solo,tech_startup,Europe,pro,2025-02-03,36
+A00163,small_business,education,North America,pro,2025-04-10,36
+A00164,small_business,media,North America,free,2025-03-09,0
+A00165,solo,marketing_agency,Europe,pro,2025-12-14,48
+A00166,small_business,tech_startup,Europe,pro,2024-06-07,24
+A00167,solo,ecommerce,North America,free,2024-10-30,0
+A00168,solo,marketing_agency,North America,pro,2024-08-10,12
+A00169,solo,education,North America,pro,2025-08-16,12
+A00170,solo,marketing_agency,Latin America,pro,2026-02-04,36
+A00171,mid_market,marketing_agency,North America,team,2024-02-28,180
+A00172,mid_market,real_estate,Europe,team,2025-08-21,450
+A00173,small_business,ecommerce,North America,pro,2025-05-29,24
+A00174,small_business,marketing_agency,North America,pro,2024-02-28,12
+A00175,solo,real_estate,North America,free,2024-07-09,0
+A00176,small_business,ecommerce,North America,free,2024-03-11,0
+A00177,solo,tech_startup,North America,pro,2025-09-01,12
+A00178,solo,media,Asia,pro,2025-11-22,24
+A00179,small_business,marketing_agency,North America,team,2025-02-17,60
+A00180,mid_market,tech_startup,North America,team,2025-08-06,240
+A00181,mid_market,ecommerce,North America,team,2025-08-15,180
+A00182,small_business,tech_startup,North America,team,2025-09-26,60
+A00183,solo,ecommerce,North America,pro,2025-03-05,36
+A00184,small_business,education,North America,team,2024-09-24,90
+A00185,small_business,tech_startup,North America,pro,2025-11-16,36
+A00186,small_business,marketing_agency,Asia,pro,2024-09-01,36
+A00187,solo,tech_startup,North America,free,2025-02-09,0
+A00188,mid_market,real_estate,North America,team,2024-05-14,300
+A00189,small_business,marketing_agency,North America,team,2025-04-13,120
+A00190,small_business,education,Asia,team,2026-02-08,60
+A00191,solo,marketing_agency,North America,pro,2024-01-10,48
+A00192,solo,real_estate,Asia,pro,2025-09-28,12
+A00193,solo,tech_startup,North America,pro,2024-03-16,24
+A00194,solo,marketing_agency,Asia,free,2025-06-02,0
+A00195,solo,media,Asia,pro,2024-09-28,24
+A00196,small_business,real_estate,North America,pro,2024-12-23,12
+A00197,solo,tech_startup,Europe,free,2024-09-07,0
+A00198,small_business,tech_startup,North America,pro,2025-01-13,36
+A00199,small_business,real_estate,North America,team,2024-06-10,150
+A00200,mid_market,real_estate,Europe,team,2025-07-10,300
+A00201,small_business,ecommerce,Europe,pro,2025-09-18,12
+A00202,small_business,media,Latin America,team,2025-11-14,120
+A00203,small_business,ecommerce,Latin America,team,2025-11-10,60
+A00204,solo,tech_startup,Asia,free,2024-05-17,0
+A00205,small_business,marketing_agency,North America,pro,2024-09-27,12
+A00206,mid_market,ecommerce,North America,team,2024-04-19,240
+A00207,small_business,tech_startup,North America,pro,2024-10-05,36
+A00208,small_business,education,North America,pro,2025-09-11,24
+A00209,solo,ecommerce,Europe,free,2026-01-04,0
+A00210,mid_market,marketing_agency,Europe,team,2024-12-17,240
+A00211,solo,media,North America,pro,2025-12-04,36
+A00212,solo,marketing_agency,North America,pro,2025-06-01,48
+A00213,small_business,real_estate,North America,pro,2024-09-14,12
+A00214,solo,tech_startup,North America,free,2024-04-04,0
+A00215,solo,education,Europe,free,2025-10-11,0
+A00216,small_business,education,Europe,pro,2025-03-09,36
+A00217,small_business,real_estate,North America,free,2024-02-15,0
+A00218,mid_market,tech_startup,North America,team,2024-01-04,300
+A00219,small_business,marketing_agency,North America,free,2026-02-28,0
+A00220,small_business,real_estate,North America,pro,2024-05-13,36
+A00221,solo,media,North America,free,2024-06-14,0
+A00222,small_business,ecommerce,Europe,pro,2026-01-29,48
+A00223,solo,marketing_agency,Asia,pro,2025-07-18,48
+A00224,mid_market,marketing_agency,Europe,pro,2025-07-28,12
+A00225,solo,tech_startup,North America,free,2024-04-24,0
+A00226,solo,ecommerce,North America,pro,2024-03-18,24
+A00227,small_business,tech_startup,Asia,pro,2025-07-12,12
+A00228,solo,marketing_agency,Europe,free,2025-01-13,0
+A00229,small_business,marketing_agency,Europe,pro,2025-08-19,24
+A00230,solo,tech_startup,Asia,free,2025-03-16,0
+A00231,mid_market,education,Asia,team,2024-05-10,180
+A00232,small_business,ecommerce,North America,pro,2024-11-11,36
+A00233,small_business,marketing_agency,North America,team,2024-02-10,120
+A00234,mid_market,education,North America,team,2024-08-03,240
+A00235,solo,tech_startup,North America,pro,2025-11-13,12
+A00236,solo,real_estate,Europe,pro,2024-12-28,48
+A00237,solo,ecommerce,North America,pro,2025-09-27,24
+A00238,mid_market,real_estate,Europe,team,2024-08-30,240
+A00239,solo,tech_startup,North America,free,2024-06-30,0
+A00240,small_business,ecommerce,North America,pro,2025-02-26,12
+A00241,solo,real_estate,North America,free,2024-07-02,0
+A00242,solo,marketing_agency,Asia,free,2026-01-24,0
+A00243,small_business,education,Europe,team,2024-12-06,150
+A00244,small_business,ecommerce,North America,pro,2025-11-16,24
+A00245,small_business,ecommerce,Europe,pro,2024-09-30,24
+A00246,solo,media,North America,free,2025-12-19,0
+A00247,small_business,education,Europe,pro,2024-04-20,48
+A00248,solo,tech_startup,Asia,pro,2024-02-09,48
+A00249,solo,real_estate,North America,free,2024-08-15,0
+A00250,mid_market,ecommerce,Latin America,team,2024-07-23,450
+A00251,solo,real_estate,Asia,pro,2024-12-24,36
+A00252,mid_market,real_estate,Europe,team,2024-08-21,240
+A00253,solo,education,North America,pro,2024-01-25,24
+A00254,mid_market,ecommerce,Asia,team,2025-02-12,300
+A00255,solo,real_estate,Latin America,free,2024-10-12,0
+A00256,small_business,marketing_agency,Latin America,team,2024-03-12,120
+A00257,mid_market,education,Asia,team,2024-12-25,450
+A00258,solo,tech_startup,North America,pro,2025-11-26,36
+A00259,solo,ecommerce,North America,pro,2024-01-29,12
+A00260,solo,media,North America,free,2024-09-24,0
+A00261,small_business,media,North America,pro,2024-07-01,36
+A00262,mid_market,real_estate,North America,pro,2024-02-09,12
+A00263,mid_market,ecommerce,Asia,team,2025-09-02,450
+A00264,mid_market,media,Latin America,team,2024-12-19,300
+A00265,small_business,marketing_agency,Europe,pro,2025-03-22,12
+A00266,mid_market,tech_startup,Asia,team,2025-01-29,240
+A00267,small_business,media,North America,free,2024-09-17,0
+A00268,small_business,marketing_agency,North America,pro,2024-02-15,48
+A00269,solo,ecommerce,Latin America,free,2024-01-02,0
+A00270,small_business,media,North America,team,2025-06-16,90
+A00271,small_business,ecommerce,North America,team,2025-01-07,150
+A00272,mid_market,education,Europe,pro,2024-03-12,36
+A00273,mid_market,marketing_agency,Latin America,team,2025-09-30,300
+A00274,small_business,education,North America,free,2025-11-10,0
+A00275,solo,ecommerce,Asia,free,2024-05-07,0
+A00276,solo,tech_startup,Asia,pro,2026-01-07,36
+A00277,mid_market,ecommerce,North America,team,2025-06-03,300
+A00278,small_business,ecommerce,Asia,pro,2025-11-13,48
+A00279,solo,education,Europe,pro,2024-11-30,48
+A00280,solo,tech_startup,North America,free,2025-12-14,0
+A00281,mid_market,tech_startup,Asia,team,2024-10-29,240
+A00282,small_business,real_estate,North America,pro,2024-07-15,48
+A00283,small_business,marketing_agency,Asia,pro,2025-11-11,48
+A00284,solo,marketing_agency,Europe,free,2025-11-24,0
+A00285,mid_market,education,Europe,team,2026-02-05,240
+A00286,mid_market,marketing_agency,Europe,team,2025-09-22,300
+A00287,solo,tech_startup,Asia,pro,2025-02-19,12
+A00288,mid_market,tech_startup,Asia,team,2024-11-07,300
+A00289,small_business,media,Europe,team,2024-08-03,150
+A00290,solo,tech_startup,Asia,free,2025-08-16,0
+A00291,mid_market,ecommerce,North America,team,2025-09-13,300
+A00292,solo,tech_startup,Asia,free,2025-04-21,0
+A00293,solo,marketing_agency,Europe,pro,2025-03-28,48
+A00294,small_business,marketing_agency,Europe,pro,2025-11-22,24
+A00295,small_business,ecommerce,Asia,pro,2025-06-07,48
+A00296,mid_market,marketing_agency,Europe,team,2026-01-23,240
+A00297,solo,tech_startup,Europe,free,2025-11-05,0
+A00298,solo,media,North America,pro,2024-03-27,36
+A00299,solo,real_estate,North America,pro,2025-06-11,36
+A00300,mid_market,tech_startup,Asia,pro,2024-04-05,24
+A00301,small_business,ecommerce,North America,pro,2025-11-19,36
+A00302,small_business,media,Europe,pro,2024-08-18,24
+A00303,solo,tech_startup,North America,free,2024-05-30,0
+A00304,solo,media,Europe,free,2024-01-26,0
+A00305,solo,media,Europe,free,2024-02-17,0
+A00306,mid_market,ecommerce,North America,team,2024-09-07,450
+A00307,small_business,real_estate,North America,pro,2025-09-17,12
+A00308,mid_market,marketing_agency,Asia,pro,2025-04-11,48
+A00309,solo,ecommerce,Europe,free,2025-10-06,0
+A00310,mid_market,education,Latin America,pro,2025-08-12,24
+A00311,mid_market,media,Asia,team,2026-01-05,450
+A00312,small_business,real_estate,North America,free,2025-05-21,0
+A00313,mid_market,real_estate,Asia,team,2025-02-13,240
+A00314,solo,ecommerce,Europe,free,2024-05-31,0
+A00315,solo,education,North America,pro,2025-11-02,12
+A00316,solo,media,North America,free,2026-02-07,0
+A00317,solo,ecommerce,North America,free,2026-02-27,0
+A00318,small_business,marketing_agency,Europe,team,2024-04-19,150
+A00319,small_business,ecommerce,Europe,free,2024-08-12,0
+A00320,solo,tech_startup,North America,free,2024-06-29,0
+A00321,small_business,media,Europe,free,2025-12-13,0
+A00322,solo,education,North America,free,2025-06-14,0
+A00323,solo,ecommerce,North America,free,2025-04-20,0
+A00324,small_business,media,Asia,pro,2024-02-21,24
+A00325,solo,ecommerce,Europe,pro,2024-05-04,48
+A00326,solo,tech_startup,North America,free,2024-05-16,0
+A00327,small_business,tech_startup,Asia,team,2025-04-20,120
+A00328,solo,tech_startup,North America,pro,2026-02-12,48
+A00329,small_business,tech_startup,Europe,pro,2025-09-19,48
+A00330,small_business,media,North America,free,2025-07-15,0
+A00331,solo,ecommerce,Asia,free,2025-04-01,0
+A00332,mid_market,marketing_agency,North America,team,2024-06-11,450
+A00333,small_business,education,Europe,pro,2025-04-05,36
+A00334,solo,tech_startup,Latin America,pro,2026-02-08,24
+A00335,solo,media,North America,free,2025-10-14,0
+A00336,solo,education,Asia,pro,2024-10-10,48
+A00337,small_business,education,North America,pro,2025-10-03,24
+A00338,mid_market,ecommerce,Asia,team,2024-10-08,450
+A00339,small_business,media,Europe,team,2024-03-20,120
+A00340,mid_market,education,North America,team,2024-08-28,300
+A00341,mid_market,ecommerce,Europe,team,2024-12-09,300
+A00342,small_business,ecommerce,Asia,team,2025-07-07,60
+A00343,solo,marketing_agency,Latin America,free,2024-05-21,0
+A00344,mid_market,education,North America,team,2024-06-03,240
+A00345,small_business,education,North America,pro,2025-01-27,24
+A00346,solo,marketing_agency,Latin America,free,2025-12-24,0
+A00347,small_business,marketing_agency,Asia,free,2024-08-07,0
+A00348,mid_market,education,North America,pro,2024-03-06,48
+A00349,solo,education,North America,pro,2025-02-21,36
+A00350,small_business,marketing_agency,Europe,pro,2025-07-09,48
+A00351,solo,ecommerce,North America,pro,2025-03-01,12
+A00352,small_business,education,Asia,team,2024-07-30,150
+A00353,small_business,tech_startup,North America,free,2025-02-02,0
+A00354,solo,ecommerce,Europe,pro,2026-02-27,12
+A00355,solo,ecommerce,Europe,pro,2026-02-22,48
+A00356,solo,education,North America,free,2025-05-03,0
+A00357,mid_market,tech_startup,North America,team,2024-01-07,300
+A00358,small_business,tech_startup,Europe,pro,2024-11-01,48
+A00359,small_business,media,North America,free,2025-03-05,0
+A00360,solo,media,North America,pro,2025-07-05,24
+A00361,mid_market,ecommerce,Europe,team,2025-05-14,240
+A00362,mid_market,ecommerce,Europe,team,2024-10-06,450
+A00363,mid_market,media,Europe,team,2025-05-12,180
+A00364,mid_market,real_estate,North America,team,2025-02-02,300
+A00365,small_business,media,North America,pro,2025-11-15,48
+A00366,small_business,real_estate,North America,pro,2026-01-11,24
+A00367,mid_market,ecommerce,Latin America,team,2025-04-23,240
+A00368,mid_market,media,Europe,team,2025-09-29,180
+A00369,mid_market,marketing_agency,North America,team,2025-02-07,180
+A00370,mid_market,media,Asia,team,2024-03-26,450
+A00371,mid_market,ecommerce,Europe,pro,2024-05-18,48
+A00372,solo,marketing_agency,North America,pro,2024-07-05,12
+A00373,small_business,education,North America,pro,2024-09-23,48
+A00374,solo,ecommerce,Europe,pro,2024-12-01,24
+A00375,small_business,education,North America,team,2025-04-10,120
+A00376,small_business,education,North America,pro,2024-12-11,48
+A00377,small_business,marketing_agency,Europe,pro,2024-10-11,48
+A00378,small_business,media,Asia,pro,2024-09-15,12
+A00379,mid_market,ecommerce,North America,pro,2025-04-26,12
+A00380,small_business,tech_startup,North America,team,2026-02-06,60
+A00381,solo,tech_startup,North America,free,2024-12-24,0
+A00382,small_business,marketing_agency,North America,pro,2024-08-17,12
+A00383,mid_market,education,North America,team,2026-03-10,180
+A00384,small_business,marketing_agency,North America,free,2026-02-11,0
+A00385,solo,media,North America,free,2024-02-01,0
+A00386,small_business,ecommerce,Europe,pro,2024-09-10,24
+A00387,mid_market,education,Asia,team,2024-01-21,240
+A00388,solo,real_estate,Latin America,pro,2024-09-01,24
+A00389,mid_market,tech_startup,North America,pro,2025-04-29,12
+A00390,small_business,marketing_agency,Asia,team,2025-07-31,90
+A00391,small_business,marketing_agency,Asia,pro,2025-04-21,36
+A00392,mid_market,education,Europe,pro,2026-02-24,36
+A00393,small_business,education,Europe,free,2024-06-20,0
+A00394,small_business,tech_startup,North America,free,2025-09-12,0
+A00395,solo,real_estate,Europe,free,2025-09-13,0
+A00396,solo,marketing_agency,Europe,free,2026-02-04,0
+A00397,mid_market,ecommerce,Europe,team,2026-01-05,180
+A00398,small_business,media,Europe,team,2026-03-07,90
+A00399,solo,ecommerce,Asia,pro,2024-11-14,12
+A00400,solo,ecommerce,North America,pro,2025-08-15,12
+A00401,solo,marketing_agency,North America,free,2024-11-15,0
+A00402,solo,education,North America,pro,2025-08-12,48
+A00403,solo,real_estate,Asia,pro,2025-02-10,24
+A00404,small_business,marketing_agency,North America,pro,2024-03-18,24
+A00405,mid_market,media,Europe,team,2024-04-14,300
+A00406,small_business,ecommerce,Europe,team,2025-12-01,60
+A00407,solo,media,North America,free,2025-08-02,0
+A00408,solo,education,Asia,free,2026-03-12,0
+A00409,small_business,media,Latin America,pro,2024-02-12,36
+A00410,small_business,ecommerce,Latin America,team,2025-06-29,150
+A00411,small_business,tech_startup,Europe,pro,2025-11-08,36
+A00412,solo,media,North America,pro,2024-03-11,36
+A00413,small_business,media,North America,pro,2024-01-13,48
+A00414,solo,marketing_agency,North America,pro,2025-05-16,12
+A00415,small_business,marketing_agency,North America,pro,2025-03-19,36
+A00416,small_business,education,Latin America,pro,2025-10-12,48
+A00417,mid_market,tech_startup,North America,team,2025-12-25,240
+A00418,solo,tech_startup,North America,pro,2025-03-21,24
+A00419,mid_market,tech_startup,Asia,team,2026-01-21,300
+A00420,solo,marketing_agency,North America,pro,2025-09-22,48
+A00421,solo,tech_startup,Europe,pro,2025-04-21,48
+A00422,solo,tech_startup,Latin America,free,2026-01-18,0
+A00423,small_business,media,North America,pro,2025-08-29,36
+A00424,small_business,ecommerce,North America,free,2024-11-26,0
+A00425,solo,ecommerce,Latin America,free,2024-09-08,0
+A00426,mid_market,education,North America,team,2024-03-29,300
+A00427,small_business,ecommerce,Europe,pro,2025-04-06,24
+A00428,small_business,real_estate,North America,free,2026-02-07,0
+A00429,small_business,education,North America,team,2025-04-20,150
+A00430,solo,media,Latin America,free,2024-12-10,0
+A00431,solo,ecommerce,North America,free,2024-01-30,0
+A00432,small_business,ecommerce,Europe,team,2025-05-21,120
+A00433,mid_market,real_estate,North America,team,2024-07-05,450
+A00434,small_business,education,North America,team,2024-08-05,120
+A00435,small_business,ecommerce,North America,pro,2024-09-21,36
+A00436,mid_market,media,Asia,pro,2024-10-13,36
+A00437,small_business,education,North America,pro,2025-07-23,12
+A00438,small_business,ecommerce,Europe,pro,2025-06-13,24
+A00439,solo,marketing_agency,Latin America,pro,2024-03-28,24
+A00440,mid_market,education,North America,team,2026-01-07,450
+A00441,small_business,tech_startup,North America,pro,2025-05-15,24
+A00442,solo,marketing_agency,Asia,free,2025-12-08,0
+A00443,small_business,marketing_agency,Europe,team,2025-05-02,150
+A00444,mid_market,tech_startup,Asia,team,2025-04-03,180
+A00445,small_business,education,North America,team,2024-04-05,120
+A00446,solo,tech_startup,Europe,pro,2024-08-14,48
+A00447,small_business,tech_startup,Europe,pro,2025-12-09,24
+A00448,solo,education,North America,pro,2024-11-09,36
+A00449,small_business,media,North America,free,2025-04-29,0
+A00450,small_business,ecommerce,North America,free,2025-07-20,0
+A00451,mid_market,media,North America,team,2025-06-27,300
+A00452,solo,media,Europe,free,2025-03-11,0
+A00453,solo,ecommerce,Europe,pro,2026-02-02,36
+A00454,solo,ecommerce,North America,pro,2024-12-26,48
+A00455,solo,media,Europe,free,2024-10-04,0
+A00456,solo,ecommerce,Europe,pro,2024-11-09,36
+A00457,small_business,education,North America,team,2024-08-24,60
+A00458,small_business,marketing_agency,Latin America,pro,2026-01-08,24
+A00459,small_business,media,Asia,pro,2024-11-19,12
+A00460,solo,marketing_agency,Latin America,free,2026-01-30,0
+A00461,small_business,education,North America,pro,2025-07-02,24
+A00462,mid_market,marketing_agency,North America,pro,2024-07-15,24
+A00463,mid_market,real_estate,North America,team,2026-01-26,450
+A00464,mid_market,tech_startup,Latin America,team,2024-10-10,300
+A00465,small_business,education,Asia,pro,2024-04-12,24
+A00466,small_business,real_estate,North America,pro,2024-10-30,24
+A00467,mid_market,tech_startup,North America,pro,2025-01-04,24
+A00468,solo,media,Asia,free,2024-11-05,0
+A00469,small_business,tech_startup,Asia,pro,2024-01-15,24
+A00470,small_business,education,North America,pro,2024-10-07,12
+A00471,small_business,tech_startup,Europe,team,2024-02-25,120
+A00472,solo,education,North America,free,2025-12-15,0
+A00473,small_business,tech_startup,North America,pro,2024-05-09,48
+A00474,mid_market,ecommerce,Europe,team,2024-04-15,180
+A00475,small_business,ecommerce,North America,team,2025-08-10,120
+A00476,small_business,ecommerce,Asia,free,2025-04-25,0
+A00477,small_business,ecommerce,Latin America,pro,2025-05-05,48
+A00478,solo,ecommerce,North America,pro,2024-12-14,24
+A00479,mid_market,marketing_agency,North America,team,2024-02-22,300
+A00480,mid_market,real_estate,North America,team,2025-05-04,180
+A00481,small_business,ecommerce,Europe,pro,2024-03-07,48
+A00482,small_business,ecommerce,Europe,pro,2025-05-18,12
+A00483,small_business,ecommerce,Europe,pro,2025-08-13,12
+A00484,small_business,real_estate,Europe,team,2024-06-04,90
+A00485,solo,tech_startup,Europe,free,2025-07-30,0
+A00486,solo,marketing_agency,Asia,pro,2024-11-07,12
+A00487,small_business,education,North America,free,2024-09-11,0
+A00488,solo,education,North America,free,2024-05-01,0
+A00489,small_business,media,Latin America,team,2025-07-25,150
+A00490,small_business,education,Europe,team,2025-09-12,90
+A00491,solo,marketing_agency,Asia,free,2026-03-05,0
+A00492,small_business,real_estate,North America,pro,2025-06-19,48
+A00493,solo,ecommerce,North America,pro,2025-04-06,48
+A00494,solo,education,North America,pro,2024-10-31,48
+A00495,solo,education,Asia,pro,2024-11-08,12
+A00496,solo,tech_startup,Europe,free,2025-09-16,0
+A00497,solo,ecommerce,Asia,free,2026-01-27,0
+A00498,small_business,media,Asia,free,2024-04-11,0
+A00499,small_business,ecommerce,Asia,pro,2026-02-20,24
+A00500,mid_market,ecommerce,North America,team,2025-10-02,240
+A00501,solo,marketing_agency,Latin America,free,2024-09-27,0
+A00502,solo,media,North America,pro,2025-11-07,12
+A00503,solo,education,North America,free,2024-06-09,0
+A00504,mid_market,ecommerce,Europe,team,2024-09-02,240
+A00505,solo,tech_startup,North America,pro,2025-07-19,12
+A00506,mid_market,real_estate,Latin America,pro,2024-06-09,12
+A00507,small_business,marketing_agency,Asia,team,2025-02-22,150
+A00508,solo,real_estate,North America,pro,2025-12-06,48
+A00509,small_business,tech_startup,Europe,pro,2024-10-25,12
+A00510,solo,ecommerce,North America,free,2024-08-25,0
+A00511,mid_market,real_estate,Europe,pro,2024-10-22,36
+A00512,mid_market,media,North America,team,2025-12-20,450
+A00513,small_business,ecommerce,Europe,pro,2024-03-13,24
+A00514,solo,tech_startup,Asia,pro,2024-09-27,24
+A00515,small_business,marketing_agency,Europe,pro,2025-03-11,12
+A00516,solo,education,Asia,free,2025-07-11,0
+A00517,solo,media,North America,free,2024-08-18,0
+A00518,solo,marketing_agency,Asia,free,2025-10-25,0
+A00519,solo,tech_startup,Asia,pro,2024-06-01,36
+A00520,solo,education,Latin America,pro,2024-05-25,12
+A00521,solo,ecommerce,Europe,pro,2024-03-02,24
+A00522,small_business,education,North America,pro,2024-11-10,36
+A00523,mid_market,marketing_agency,Asia,team,2025-03-25,180
+A00524,solo,education,North America,pro,2025-04-24,36
+A00525,small_business,real_estate,Asia,pro,2025-12-17,48
+A00526,mid_market,education,North America,team,2024-10-05,450
+A00527,small_business,marketing_agency,Asia,team,2025-03-24,60
+A00528,solo,tech_startup,North America,free,2025-09-04,0
+A00529,solo,tech_startup,Europe,free,2024-02-10,0
+A00530,small_business,real_estate,North America,team,2025-03-18,120
+A00531,mid_market,education,Latin America,team,2025-09-10,300
+A00532,mid_market,media,Europe,pro,2024-01-27,12
+A00533,mid_market,education,North America,pro,2024-08-22,12
+A00534,small_business,education,Asia,team,2026-02-22,120
+A00535,solo,media,North America,pro,2025-08-13,12
+A00536,mid_market,real_estate,Asia,team,2026-02-20,240
+A00537,small_business,tech_startup,Europe,pro,2025-04-26,48
+A00538,small_business,tech_startup,North America,free,2024-10-11,0
+A00539,small_business,tech_startup,North America,pro,2024-07-04,48
+A00540,solo,marketing_agency,Europe,pro,2025-10-12,48
+A00541,small_business,real_estate,North America,team,2024-04-03,150
+A00542,small_business,tech_startup,Europe,free,2024-12-22,0
+A00543,small_business,marketing_agency,Europe,free,2025-02-22,0
+A00544,solo,tech_startup,North America,pro,2024-12-07,36
+A00545,solo,real_estate,Europe,free,2025-11-17,0
+A00546,solo,ecommerce,North America,free,2024-04-17,0
+A00547,small_business,tech_startup,Asia,team,2024-06-13,120
+A00548,small_business,media,North America,team,2025-02-25,150
+A00549,small_business,real_estate,North America,pro,2024-10-22,48
+A00550,small_business,tech_startup,Europe,pro,2026-02-17,12
+A00551,mid_market,ecommerce,North America,pro,2025-04-10,12
+A00552,small_business,tech_startup,North America,team,2024-11-18,120
+A00553,solo,tech_startup,Asia,pro,2024-11-27,12
+A00554,solo,tech_startup,Asia,free,2026-03-02,0
+A00555,mid_market,marketing_agency,Asia,pro,2025-02-17,12
+A00556,small_business,real_estate,North America,pro,2025-11-04,48
+A00557,solo,education,North America,pro,2025-02-27,12
+A00558,solo,marketing_agency,Asia,free,2024-07-11,0
+A00559,mid_market,tech_startup,Europe,team,2025-06-14,300
+A00560,mid_market,ecommerce,North America,pro,2025-09-29,48
+A00561,small_business,ecommerce,Europe,team,2025-10-02,150
+A00562,mid_market,education,North America,team,2026-02-17,180
+A00563,small_business,ecommerce,North America,team,2024-07-27,120
+A00564,small_business,tech_startup,Asia,pro,2025-07-16,24
+A00565,small_business,education,North America,pro,2024-10-21,48
+A00566,small_business,real_estate,Asia,pro,2025-12-16,48
+A00567,small_business,real_estate,Europe,pro,2024-05-04,12
+A00568,solo,education,North America,free,2025-10-07,0
+A00569,small_business,real_estate,Latin America,pro,2025-09-15,24
+A00570,small_business,education,Europe,free,2025-12-27,0
+A00571,solo,marketing_agency,Europe,free,2024-06-11,0
+A00572,solo,marketing_agency,Latin America,free,2024-11-14,0
+A00573,small_business,ecommerce,Europe,pro,2025-07-18,12
+A00574,solo,education,North America,free,2025-07-19,0
+A00575,solo,ecommerce,North America,free,2025-02-21,0
+A00576,mid_market,real_estate,Europe,team,2024-04-05,240
+A00577,mid_market,marketing_agency,North America,team,2024-04-26,450
+A00578,solo,marketing_agency,Europe,pro,2024-04-30,24
+A00579,small_business,media,Latin America,free,2025-05-25,0
+A00580,solo,marketing_agency,North America,free,2026-01-03,0
+A00581,mid_market,media,Europe,team,2024-10-25,300
+A00582,mid_market,tech_startup,Asia,pro,2025-03-01,48
+A00583,small_business,ecommerce,North America,free,2025-04-28,0
+A00584,small_business,media,North America,pro,2024-09-06,48
+A00585,small_business,marketing_agency,North America,pro,2025-07-18,24
+A00586,small_business,ecommerce,North America,pro,2025-01-27,24
+A00587,mid_market,media,Europe,team,2025-09-05,240
+A00588,small_business,ecommerce,Europe,team,2024-03-12,120
+A00589,small_business,tech_startup,Asia,free,2026-03-02,0
+A00590,mid_market,ecommerce,Europe,pro,2025-02-28,36
+A00591,solo,education,North America,free,2025-06-03,0
+A00592,small_business,ecommerce,North America,pro,2024-09-30,12
+A00593,solo,media,Europe,pro,2024-10-16,36
+A00594,small_business,education,Europe,pro,2025-08-24,48
+A00595,solo,media,North America,pro,2024-06-01,48
+A00596,mid_market,tech_startup,Latin America,team,2025-07-05,450
+A00597,solo,real_estate,North America,pro,2024-12-19,36
+A00598,small_business,media,North America,free,2025-07-19,0
+A00599,small_business,ecommerce,Asia,pro,2026-02-20,48
+A00600,solo,ecommerce,Europe,pro,2025-04-11,36
+A00601,solo,ecommerce,North America,free,2024-07-12,0
+A00602,small_business,real_estate,North America,pro,2025-12-15,24
+A00603,mid_market,education,Europe,pro,2025-08-08,48
+A00604,small_business,ecommerce,Europe,team,2024-08-27,150
+A00605,small_business,ecommerce,North America,pro,2024-02-14,36
+A00606,solo,ecommerce,Asia,free,2026-02-01,0
+A00607,solo,tech_startup,North America,pro,2025-04-29,48
+A00608,solo,tech_startup,Europe,pro,2025-01-30,24
+A00609,mid_market,marketing_agency,Latin America,team,2025-05-22,180
+A00610,small_business,marketing_agency,Europe,free,2024-05-09,0
+A00611,small_business,real_estate,Asia,team,2025-05-29,120
+A00612,small_business,marketing_agency,North America,free,2024-04-12,0
+A00613,solo,marketing_agency,North America,pro,2025-03-26,12
+A00614,small_business,marketing_agency,Europe,free,2025-06-22,0
+A00615,small_business,real_estate,Europe,pro,2025-04-12,12
+A00616,mid_market,tech_startup,Europe,team,2026-01-09,240
+A00617,small_business,ecommerce,North America,free,2025-02-23,0
+A00618,small_business,real_estate,North America,team,2025-11-01,90
+A00619,mid_market,media,Europe,team,2024-03-17,450
+A00620,solo,media,North America,pro,2026-03-11,36
+A00621,solo,tech_startup,Latin America,free,2024-12-12,0
+A00622,small_business,tech_startup,Europe,team,2025-09-30,150
+A00623,small_business,marketing_agency,North America,pro,2025-10-27,12
+A00624,small_business,marketing_agency,Europe,pro,2024-12-02,48
+A00625,small_business,tech_startup,Latin America,pro,2024-11-20,48
+A00626,mid_market,media,Europe,team,2025-07-08,180
+A00627,solo,ecommerce,Asia,free,2025-09-24,0
+A00628,mid_market,tech_startup,North America,team,2024-03-11,240
+A00629,small_business,education,Europe,team,2025-10-08,120
+A00630,solo,education,Europe,pro,2024-08-20,12
+A00631,small_business,ecommerce,North America,pro,2025-03-20,12
+A00632,mid_market,marketing_agency,North America,team,2026-02-17,180
+A00633,solo,tech_startup,Europe,pro,2025-03-30,24
+A00634,solo,ecommerce,Asia,pro,2025-12-11,36
+A00635,small_business,ecommerce,Asia,team,2024-01-30,60
+A00636,small_business,media,Asia,pro,2024-11-28,12
+A00637,solo,education,North America,free,2024-10-27,0
+A00638,small_business,ecommerce,North America,free,2025-01-02,0
+A00639,mid_market,tech_startup,North America,team,2025-01-18,450
+A00640,small_business,marketing_agency,North America,pro,2024-05-29,24
+A00641,small_business,media,North America,free,2025-06-27,0
+A00642,small_business,marketing_agency,North America,pro,2025-02-25,24
+A00643,mid_market,tech_startup,North America,team,2024-06-23,240
+A00644,solo,education,North America,pro,2024-03-21,48
+A00645,mid_market,real_estate,North America,team,2025-09-26,240
+A00646,solo,tech_startup,Europe,free,2025-05-24,0
+A00647,small_business,real_estate,North America,pro,2025-08-20,24
+A00648,solo,media,Asia,pro,2024-08-25,48
+A00649,small_business,education,North America,team,2025-10-15,120
+A00650,solo,education,North America,free,2025-04-15,0
+A00651,small_business,ecommerce,Asia,pro,2024-09-18,12
+A00652,solo,education,North America,free,2025-04-21,0
+A00653,small_business,ecommerce,Asia,free,2024-10-21,0
+A00654,solo,media,North America,free,2025-11-24,0
+A00655,small_business,marketing_agency,Asia,pro,2025-07-13,24
+A00656,small_business,tech_startup,North America,team,2024-03-16,150
+A00657,small_business,tech_startup,North America,pro,2024-12-19,36
+A00658,small_business,marketing_agency,Europe,pro,2025-10-16,48
+A00659,solo,ecommerce,Asia,pro,2025-12-07,36
+A00660,mid_market,media,Latin America,team,2025-04-12,300
+A00661,solo,ecommerce,Asia,pro,2024-07-22,48
+A00662,solo,marketing_agency,Latin America,free,2025-05-09,0
+A00663,small_business,education,North America,pro,2024-04-19,24
+A00664,small_business,ecommerce,Asia,pro,2025-01-25,36
+A00665,mid_market,tech_startup,North America,team,2025-08-11,300
+A00666,small_business,tech_startup,North America,pro,2025-12-17,36
+A00667,small_business,marketing_agency,North America,pro,2024-01-23,48
+A00668,small_business,marketing_agency,Europe,pro,2024-10-08,12
+A00669,small_business,ecommerce,Asia,pro,2025-08-02,12
+A00670,small_business,ecommerce,North America,pro,2025-09-12,48
+A00671,solo,tech_startup,North America,free,2024-10-20,0
+A00672,solo,ecommerce,North America,free,2026-03-05,0
+A00673,small_business,marketing_agency,Europe,pro,2024-08-23,36
+A00674,solo,education,Latin America,free,2024-08-12,0
+A00675,small_business,marketing_agency,Asia,team,2025-10-13,90
+A00676,small_business,tech_startup,North America,free,2025-09-27,0
+A00677,small_business,tech_startup,North America,pro,2024-09-13,24
+A00678,solo,marketing_agency,Asia,free,2025-10-05,0
+A00679,solo,marketing_agency,North America,free,2024-04-09,0
+A00680,small_business,tech_startup,Asia,free,2025-10-04,0
+A00681,mid_market,media,Asia,team,2025-10-23,180
+A00682,small_business,marketing_agency,North America,pro,2024-11-12,48
+A00683,solo,education,Asia,free,2024-02-04,0
+A00684,solo,tech_startup,Latin America,pro,2025-08-16,36
+A00685,mid_market,real_estate,Latin America,pro,2026-01-19,24
+A00686,small_business,marketing_agency,North America,free,2024-04-02,0
+A00687,small_business,media,Europe,free,2024-10-29,0
+A00688,mid_market,real_estate,North America,team,2024-11-30,450
+A00689,solo,marketing_agency,Latin America,free,2024-06-28,0
+A00690,small_business,tech_startup,Asia,free,2024-07-24,0
+A00691,solo,ecommerce,Europe,free,2024-05-15,0
+A00692,solo,tech_startup,Europe,free,2025-07-06,0
+A00693,small_business,media,North America,pro,2025-01-09,36
+A00694,mid_market,education,Europe,team,2024-06-17,300
+A00695,solo,ecommerce,North America,free,2025-05-08,0
+A00696,solo,tech_startup,Latin America,pro,2024-10-29,36
+A00697,mid_market,marketing_agency,Latin America,pro,2024-04-27,48
+A00698,mid_market,tech_startup,Asia,team,2024-03-18,240
+A00699,small_business,marketing_agency,North America,pro,2026-02-11,24
+A00700,solo,real_estate,Latin America,free,2025-11-23,0
+A00701,small_business,tech_startup,Latin America,team,2026-01-11,150
+A00702,small_business,tech_startup,Asia,free,2025-07-24,0
+A00703,small_business,media,North America,pro,2025-01-09,12
+A00704,small_business,ecommerce,Europe,team,2025-02-08,60
+A00705,small_business,ecommerce,North America,pro,2024-09-27,12
+A00706,mid_market,marketing_agency,Europe,pro,2025-04-10,36
+A00707,solo,tech_startup,Asia,free,2025-11-19,0
+A00708,small_business,ecommerce,Europe,pro,2026-02-05,36
+A00709,solo,marketing_agency,North America,pro,2025-08-21,48
+A00710,mid_market,ecommerce,Asia,team,2025-10-15,300
+A00711,small_business,media,Latin America,team,2024-04-20,90
+A00712,small_business,marketing_agency,Asia,pro,2025-04-27,12
+A00713,small_business,marketing_agency,Europe,pro,2025-09-26,36
+A00714,solo,tech_startup,North America,free,2025-09-16,0
+A00715,solo,ecommerce,North America,free,2024-08-14,0
+A00716,mid_market,marketing_agency,Latin America,team,2025-10-25,180
+A00717,small_business,real_estate,Europe,team,2025-10-12,150
+A00718,solo,marketing_agency,Asia,pro,2025-12-18,36
+A00719,mid_market,marketing_agency,Asia,team,2025-10-26,450
+A00720,small_business,ecommerce,Europe,free,2024-04-29,0
+A00721,solo,tech_startup,North America,free,2024-05-23,0
+A00722,solo,tech_startup,Europe,free,2024-02-16,0
+A00723,mid_market,tech_startup,North America,team,2024-02-08,300
+A00724,small_business,real_estate,North America,team,2025-05-19,60
+A00725,small_business,marketing_agency,North America,free,2024-04-09,0
+A00726,solo,media,North America,free,2024-08-28,0
+A00727,small_business,ecommerce,Latin America,pro,2025-07-04,24
+A00728,solo,marketing_agency,North America,free,2025-02-01,0
+A00729,small_business,tech_startup,North America,pro,2025-04-09,36
+A00730,small_business,tech_startup,North America,pro,2025-11-17,48
+A00731,solo,media,Asia,free,2025-08-24,0
+A00732,small_business,tech_startup,Asia,team,2026-01-30,90
+A00733,small_business,marketing_agency,Europe,pro,2025-02-28,12
+A00734,solo,real_estate,Asia,free,2025-05-16,0
+A00735,small_business,real_estate,Latin America,free,2025-09-22,0
+A00736,solo,real_estate,North America,pro,2025-02-21,36
+A00737,small_business,ecommerce,Europe,pro,2024-02-03,36
+A00738,small_business,tech_startup,Asia,pro,2024-08-10,48
+A00739,small_business,education,Latin America,pro,2025-03-31,24
+A00740,small_business,tech_startup,North America,team,2025-01-06,60
+A00741,solo,marketing_agency,North America,pro,2025-12-03,36
+A00742,mid_market,media,Asia,team,2025-07-11,300
+A00743,mid_market,education,North America,pro,2024-03-03,48
+A00744,small_business,media,North America,free,2024-10-09,0
+A00745,mid_market,ecommerce,Asia,team,2024-07-13,180
+A00746,small_business,marketing_agency,Asia,team,2025-04-10,60
+A00747,small_business,tech_startup,North America,pro,2025-11-09,24
+A00748,small_business,tech_startup,North America,team,2025-10-19,60
+A00749,small_business,marketing_agency,North America,team,2024-02-21,120
+A00750,solo,marketing_agency,North America,pro,2024-09-06,24
+A00751,small_business,media,North America,pro,2025-08-01,24
+A00752,small_business,tech_startup,Latin America,free,2024-03-11,0
+A00753,small_business,ecommerce,Europe,pro,2026-02-22,24
+A00754,solo,marketing_agency,Europe,free,2025-08-23,0
+A00755,small_business,marketing_agency,North America,team,2024-08-09,90
+A00756,solo,education,Europe,free,2024-12-02,0
+A00757,solo,marketing_agency,Latin America,pro,2026-03-03,24
+A00758,small_business,real_estate,North America,pro,2025-09-02,12
+A00759,small_business,ecommerce,North America,pro,2024-10-10,24
+A00760,small_business,tech_startup,North America,pro,2024-05-13,36
+A00761,solo,tech_startup,North America,free,2024-06-27,0
+A00762,small_business,media,North America,pro,2024-04-22,12
+A00763,small_business,marketing_agency,North America,pro,2024-05-14,12
+A00764,solo,marketing_agency,Europe,pro,2025-01-01,24
+A00765,small_business,ecommerce,North America,team,2025-08-25,120
+A00766,solo,ecommerce,Europe,pro,2024-01-17,24
+A00767,small_business,marketing_agency,North America,team,2024-09-28,60
+A00768,solo,media,Asia,pro,2024-05-09,48
+A00769,solo,marketing_agency,Europe,pro,2025-06-22,12
+A00770,mid_market,ecommerce,North America,team,2026-02-02,180
+A00771,small_business,tech_startup,North America,pro,2025-05-02,48
+A00772,small_business,media,North America,free,2026-03-07,0
+A00773,small_business,marketing_agency,Europe,team,2025-01-05,60
+A00774,small_business,tech_startup,North America,pro,2025-04-07,24
+A00775,mid_market,ecommerce,North America,team,2025-09-21,180
+A00776,solo,media,Latin America,free,2026-01-14,0
+A00777,solo,education,Asia,free,2025-11-05,0
+A00778,small_business,real_estate,Europe,pro,2025-06-17,36
+A00779,small_business,ecommerce,North America,team,2025-04-14,60
+A00780,small_business,ecommerce,North America,pro,2024-03-03,48
+A00781,solo,marketing_agency,North America,free,2025-02-15,0
+A00782,small_business,real_estate,Europe,free,2025-03-12,0
+A00783,mid_market,tech_startup,Asia,team,2025-12-03,180
+A00784,mid_market,real_estate,North America,team,2025-05-17,450
+A00785,small_business,media,Europe,free,2024-03-16,0
+A00786,small_business,tech_startup,Europe,pro,2024-03-23,36
+A00787,solo,marketing_agency,Asia,pro,2025-09-14,24
+A00788,small_business,education,Europe,pro,2024-03-08,24
+A00789,small_business,education,North America,pro,2024-10-08,36
+A00790,mid_market,ecommerce,Asia,team,2025-01-25,300
+A00791,small_business,ecommerce,North America,pro,2025-04-09,48
+A00792,solo,education,Latin America,free,2024-04-11,0
+A00793,small_business,marketing_agency,Europe,pro,2025-12-19,12
+A00794,solo,ecommerce,North America,free,2025-11-01,0
+A00795,small_business,tech_startup,Asia,pro,2025-10-28,24
+A00796,solo,marketing_agency,North America,free,2025-03-16,0
+A00797,small_business,education,North America,pro,2025-04-07,24
+A00798,mid_market,media,North America,team,2025-02-27,300
+A00799,mid_market,marketing_agency,North America,team,2025-04-09,450
+A00800,mid_market,tech_startup,North America,team,2025-03-01,180
+A00801,small_business,education,North America,team,2024-11-16,150
+A00802,small_business,tech_startup,Asia,pro,2024-11-16,36
+A00803,small_business,real_estate,North America,pro,2025-01-18,24
+A00804,solo,media,North America,free,2025-12-04,0
+A00805,solo,ecommerce,Asia,pro,2025-04-30,12
+A00806,small_business,ecommerce,North America,free,2024-04-03,0
+A00807,solo,tech_startup,North America,free,2024-03-28,0
+A00808,solo,marketing_agency,Europe,pro,2024-04-05,48
+A00809,solo,ecommerce,North America,free,2024-04-08,0
+A00810,solo,tech_startup,Europe,pro,2026-02-01,36
+A00811,small_business,education,Europe,pro,2024-05-13,12
+A00812,small_business,ecommerce,Europe,pro,2025-08-23,36
+A00813,mid_market,real_estate,Europe,pro,2025-11-17,12
+A00814,small_business,ecommerce,North America,free,2025-02-24,0
+A00815,small_business,ecommerce,North America,team,2024-12-28,150
+A00816,solo,education,North America,free,2026-01-08,0
+A00817,small_business,ecommerce,Europe,pro,2024-02-22,36
+A00818,small_business,media,North America,free,2025-09-06,0
+A00819,small_business,education,Asia,team,2024-11-15,120
+A00820,mid_market,education,North America,team,2024-04-16,240
+A00821,small_business,ecommerce,Asia,team,2024-06-07,150
+A00822,small_business,ecommerce,North America,team,2024-08-17,60
+A00823,mid_market,ecommerce,North America,team,2024-12-24,300
+A00824,small_business,real_estate,Latin America,free,2024-04-27,0
+A00825,small_business,ecommerce,North America,team,2026-02-19,120
+A00826,small_business,tech_startup,Europe,pro,2025-08-10,24
+A00827,solo,marketing_agency,North America,free,2025-03-15,0
+A00828,small_business,education,Asia,pro,2025-07-28,12
+A00829,small_business,ecommerce,North America,pro,2025-09-15,36
+A00830,small_business,ecommerce,Asia,team,2024-01-30,90
+A00831,small_business,ecommerce,Asia,pro,2024-10-06,36
+A00832,small_business,media,Asia,pro,2024-12-13,36
+A00833,solo,media,Europe,pro,2024-01-07,24
+A00834,solo,ecommerce,Asia,pro,2024-05-26,48
+A00835,mid_market,media,Europe,team,2024-03-12,240
+A00836,mid_market,real_estate,Europe,pro,2026-01-28,12
+A00837,small_business,media,North America,pro,2024-04-03,24
+A00838,solo,marketing_agency,North America,free,2025-01-20,0
+A00839,mid_market,education,North America,pro,2025-03-05,48
+A00840,small_business,marketing_agency,Asia,pro,2024-12-15,24
+A00841,small_business,marketing_agency,Europe,pro,2025-01-13,36
+A00842,mid_market,real_estate,North America,team,2026-01-08,300
+A00843,solo,media,North America,pro,2026-03-06,12
+A00844,solo,media,Asia,pro,2024-02-23,24
+A00845,small_business,ecommerce,North America,pro,2024-06-10,12
+A00846,small_business,education,North America,pro,2025-11-21,12
+A00847,solo,tech_startup,North America,pro,2024-10-05,48
+A00848,solo,media,North America,pro,2025-11-08,48
+A00849,mid_market,marketing_agency,Latin America,team,2025-05-12,450
+A00850,mid_market,tech_startup,North America,team,2025-02-28,300
+A00851,solo,ecommerce,Latin America,free,2024-08-08,0
+A00852,small_business,tech_startup,Asia,team,2026-02-12,60
+A00853,solo,ecommerce,North America,free,2024-12-19,0
+A00854,solo,marketing_agency,Asia,pro,2025-03-16,12
+A00855,solo,real_estate,North America,free,2024-10-17,0
+A00856,small_business,real_estate,Asia,free,2025-11-25,0
+A00857,mid_market,real_estate,Europe,team,2025-11-25,450
+A00858,mid_market,real_estate,Europe,team,2025-06-23,300
+A00859,small_business,education,Asia,pro,2024-02-16,24
+A00860,solo,real_estate,Latin America,pro,2025-02-08,12
+A00861,solo,education,North America,pro,2024-01-08,24
+A00862,mid_market,real_estate,Asia,team,2024-11-04,240
+A00863,small_business,ecommerce,Europe,pro,2026-02-24,24
+A00864,small_business,marketing_agency,Latin America,free,2026-02-21,0
+A00865,small_business,media,Europe,pro,2024-09-18,36
+A00866,solo,ecommerce,Europe,pro,2024-12-01,12
+A00867,solo,media,Europe,pro,2024-01-08,48
+A00868,mid_market,ecommerce,North America,team,2026-02-03,450
+A00869,small_business,media,Asia,team,2024-06-28,90
+A00870,mid_market,education,Europe,team,2025-01-24,240
+A00871,solo,real_estate,North America,pro,2025-05-27,36
+A00872,small_business,real_estate,North America,free,2024-03-14,0
+A00873,solo,education,North America,pro,2025-02-10,12
+A00874,mid_market,tech_startup,Europe,pro,2025-03-22,12
+A00875,mid_market,tech_startup,North America,team,2025-04-15,180
+A00876,solo,tech_startup,Latin America,free,2024-11-16,0
+A00877,mid_market,real_estate,Latin America,team,2025-08-12,450
+A00878,mid_market,ecommerce,North America,pro,2025-08-10,48
+A00879,mid_market,tech_startup,Asia,team,2025-12-27,450
+A00880,solo,marketing_agency,North America,free,2024-10-23,0
+A00881,solo,education,North America,free,2024-04-27,0
+A00882,solo,ecommerce,Latin America,pro,2025-02-18,12
+A00883,mid_market,education,North America,team,2024-11-28,240
+A00884,solo,marketing_agency,North America,free,2025-09-24,0
+A00885,solo,marketing_agency,Europe,free,2025-04-16,0
+A00886,solo,tech_startup,North America,free,2025-12-07,0
+A00887,mid_market,ecommerce,North America,team,2025-01-05,180
+A00888,solo,real_estate,Asia,free,2025-03-23,0
+A00889,small_business,education,North America,pro,2024-04-18,24
+A00890,solo,education,North America,free,2025-03-22,0
+A00891,solo,tech_startup,North America,free,2025-08-26,0
+A00892,small_business,media,Europe,pro,2025-02-14,12
+A00893,small_business,tech_startup,North America,pro,2025-02-09,36
+A00894,mid_market,tech_startup,Asia,team,2026-02-02,300
+A00895,solo,education,Asia,free,2024-08-14,0
+A00896,small_business,tech_startup,North America,team,2024-12-07,90
+A00897,small_business,marketing_agency,Europe,team,2024-03-19,60
+A00898,solo,ecommerce,Latin America,free,2025-06-27,0
+A00899,small_business,real_estate,Europe,pro,2025-06-06,24
+A00900,solo,real_estate,North America,pro,2026-03-05,36
+A00901,solo,real_estate,North America,free,2024-12-25,0
+A00902,solo,ecommerce,Asia,free,2026-01-14,0
+A00903,mid_market,tech_startup,Europe,pro,2025-10-22,24
+A00904,small_business,media,North America,free,2024-08-29,0
+A00905,small_business,tech_startup,Asia,free,2024-04-15,0
+A00906,small_business,marketing_agency,North America,team,2024-05-29,120
+A00907,solo,marketing_agency,North America,pro,2024-07-21,24
+A00908,small_business,real_estate,Asia,free,2025-09-08,0
+A00909,small_business,marketing_agency,North America,pro,2024-06-05,12
+A00910,mid_market,ecommerce,North America,pro,2024-06-30,48
+A00911,solo,tech_startup,Europe,free,2025-04-20,0
+A00912,small_business,ecommerce,Europe,pro,2026-02-11,48
+A00913,small_business,tech_startup,Asia,pro,2025-11-28,36
+A00914,mid_market,ecommerce,North America,pro,2025-10-04,36
+A00915,solo,education,Europe,pro,2024-06-03,48
+A00916,small_business,education,North America,free,2024-03-10,0
+A00917,small_business,education,Asia,free,2025-04-25,0
+A00918,solo,education,North America,free,2025-03-28,0
+A00919,small_business,ecommerce,Europe,pro,2025-10-08,36
+A00920,solo,marketing_agency,Asia,free,2024-10-08,0
+A00921,small_business,ecommerce,Asia,pro,2025-08-28,12
+A00922,small_business,real_estate,Latin America,pro,2024-12-26,12
+A00923,solo,ecommerce,Asia,free,2024-11-13,0
+A00924,small_business,marketing_agency,North America,free,2025-04-17,0
+A00925,mid_market,media,Latin America,team,2025-04-07,180
+A00926,small_business,media,North America,team,2024-02-28,120
+A00927,mid_market,tech_startup,Asia,team,2024-10-20,180
+A00928,solo,tech_startup,North America,pro,2025-10-22,12
+A00929,small_business,real_estate,Latin America,pro,2025-09-21,48
+A00930,solo,ecommerce,North America,free,2025-04-18,0
+A00931,solo,tech_startup,Latin America,free,2025-08-17,0
+A00932,small_business,tech_startup,North America,free,2025-07-21,0
+A00933,solo,real_estate,North America,pro,2026-01-26,12
+A00934,small_business,education,North America,pro,2025-04-05,24
+A00935,small_business,media,Asia,pro,2024-11-25,48
+A00936,mid_market,tech_startup,Asia,pro,2025-05-28,24
+A00937,solo,ecommerce,Europe,free,2024-03-04,0
+A00938,small_business,tech_startup,Asia,team,2025-04-06,60
+A00939,solo,media,North America,free,2024-12-17,0
+A00940,solo,marketing_agency,North America,pro,2026-01-01,12
+A00941,solo,media,Europe,free,2025-05-31,0
+A00942,small_business,marketing_agency,Europe,pro,2025-10-23,24
+A00943,solo,ecommerce,Europe,pro,2024-02-10,24
+A00944,solo,media,Europe,pro,2025-12-25,48
+A00945,mid_market,real_estate,Europe,team,2025-03-25,240
+A00946,small_business,marketing_agency,North America,team,2025-01-07,120
+A00947,mid_market,ecommerce,Europe,team,2024-10-16,450
+A00948,solo,tech_startup,North America,free,2025-02-22,0
+A00949,small_business,media,North America,pro,2026-03-04,36
+A00950,small_business,ecommerce,North America,pro,2025-11-26,12
+A00951,solo,tech_startup,Asia,pro,2025-10-08,36
+A00952,solo,tech_startup,North America,free,2024-03-08,0
+A00953,solo,ecommerce,Europe,free,2024-12-03,0
+A00954,solo,real_estate,North America,pro,2024-04-06,48
+A00955,small_business,tech_startup,Asia,pro,2024-10-17,36
+A00956,small_business,marketing_agency,Asia,pro,2026-01-11,24
+A00957,solo,ecommerce,Europe,free,2024-12-07,0
+A00958,mid_market,marketing_agency,North America,team,2024-03-24,240
+A00959,mid_market,marketing_agency,Europe,team,2024-12-24,300
+A00960,mid_market,ecommerce,Latin America,team,2025-11-02,450
+A00961,small_business,ecommerce,Europe,pro,2024-05-12,12
+A00962,solo,real_estate,Latin America,pro,2024-11-13,48
+A00963,small_business,ecommerce,North America,free,2025-10-20,0
+A00964,small_business,tech_startup,Europe,free,2024-12-02,0
+A00965,small_business,real_estate,North America,team,2024-05-10,60
+A00966,mid_market,real_estate,North America,team,2025-10-23,450
+A00967,solo,marketing_agency,North America,pro,2025-06-04,36
+A00968,small_business,ecommerce,North America,free,2024-01-19,0
+A00969,solo,tech_startup,North America,free,2025-01-06,0
+A00970,solo,tech_startup,Europe,free,2024-11-12,0
+A00971,small_business,media,Latin America,pro,2024-07-03,24
+A00972,mid_market,tech_startup,Latin America,team,2024-12-15,450
+A00973,small_business,marketing_agency,Asia,pro,2024-07-15,24
+A00974,small_business,education,Asia,team,2024-05-20,90
+A00975,solo,tech_startup,Europe,pro,2024-03-20,36
+A00976,small_business,marketing_agency,Latin America,pro,2024-04-13,12
+A00977,mid_market,education,Europe,team,2025-11-08,300
+A00978,small_business,marketing_agency,North America,pro,2026-02-23,24
+A00979,solo,tech_startup,Latin America,free,2025-09-03,0
+A00980,small_business,marketing_agency,Europe,team,2025-01-20,90
+A00981,mid_market,marketing_agency,Asia,team,2024-06-15,240
+A00982,mid_market,ecommerce,Europe,team,2025-12-10,240
+A00983,small_business,ecommerce,Latin America,free,2026-01-08,0
+A00984,small_business,marketing_agency,North America,pro,2025-03-24,12
+A00985,small_business,ecommerce,North America,pro,2025-02-24,36
+A00986,small_business,tech_startup,North America,pro,2025-11-23,24
+A00987,solo,ecommerce,Europe,pro,2025-03-30,36
+A00988,solo,marketing_agency,North America,pro,2026-02-09,48
+A00989,mid_market,ecommerce,North America,team,2024-08-27,240
+A00990,mid_market,marketing_agency,North America,pro,2024-11-12,48
+A00991,small_business,marketing_agency,North America,pro,2024-07-17,36
+A00992,solo,media,North America,free,2025-11-25,0
+A00993,small_business,marketing_agency,Latin America,pro,2025-08-07,48
+A00994,solo,media,North America,pro,2025-04-17,36
+A00995,small_business,real_estate,North America,pro,2026-03-07,48
+A00996,mid_market,tech_startup,North America,pro,2025-05-29,48
+A00997,mid_market,tech_startup,North America,team,2024-06-14,240
+A00998,solo,tech_startup,North America,free,2025-09-11,0
+A00999,small_business,ecommerce,Europe,pro,2024-05-21,36
+A01000,solo,marketing_agency,Europe,free,2024-02-23,0
+A01001,small_business,tech_startup,Asia,free,2025-10-18,0
+A01002,solo,marketing_agency,North America,free,2025-05-07,0
+A01003,small_business,ecommerce,North America,pro,2025-01-15,12
+A01004,small_business,ecommerce,Europe,pro,2025-12-29,12
+A01005,mid_market,tech_startup,North America,pro,2024-10-18,12
+A01006,small_business,marketing_agency,Europe,team,2026-02-20,90
+A01007,small_business,tech_startup,North America,free,2024-10-06,0
+A01008,small_business,marketing_agency,Europe,pro,2025-04-05,24
+A01009,solo,tech_startup,North America,pro,2025-03-23,12
+A01010,mid_market,media,Europe,team,2024-08-15,450
+A01011,mid_market,marketing_agency,Europe,team,2024-12-23,180
+A01012,small_business,education,North America,pro,2025-02-28,12
+A01013,mid_market,ecommerce,Latin America,team,2025-02-09,300
+A01014,mid_market,real_estate,Asia,pro,2024-08-29,48
+A01015,mid_market,ecommerce,Asia,team,2024-03-24,300
+A01016,solo,ecommerce,Asia,free,2024-08-17,0
+A01017,mid_market,ecommerce,North America,team,2024-01-29,300
+A01018,small_business,tech_startup,North America,pro,2024-04-11,36
+A01019,small_business,real_estate,Europe,pro,2024-05-29,24
+A01020,small_business,marketing_agency,Asia,pro,2024-02-09,36
+A01021,small_business,marketing_agency,Europe,pro,2025-04-28,24
+A01022,solo,ecommerce,North America,pro,2026-02-16,48
+A01023,mid_market,ecommerce,Asia,team,2025-04-04,180
+A01024,small_business,tech_startup,North America,pro,2024-03-22,12
+A01025,solo,ecommerce,North America,free,2024-09-19,0
+A01026,small_business,education,Europe,free,2024-08-08,0
+A01027,solo,media,Latin America,free,2024-06-02,0
+A01028,mid_market,real_estate,Europe,team,2025-07-15,450
+A01029,solo,ecommerce,Europe,free,2024-04-23,0
+A01030,mid_market,marketing_agency,North America,team,2026-03-05,300
+A01031,solo,education,Europe,pro,2024-08-31,36
+A01032,small_business,media,Europe,team,2024-05-04,60
+A01033,solo,ecommerce,North America,free,2024-09-01,0
+A01034,small_business,real_estate,Europe,free,2025-03-05,0
+A01035,small_business,marketing_agency,Europe,pro,2025-10-16,48
+A01036,solo,ecommerce,North America,pro,2024-03-05,12
+A01037,mid_market,real_estate,North America,team,2025-05-26,180
+A01038,small_business,media,North America,free,2025-10-09,0
+A01039,small_business,marketing_agency,North America,free,2025-06-11,0
+A01040,small_business,tech_startup,Latin America,pro,2025-08-11,24
+A01041,small_business,ecommerce,Europe,pro,2026-01-05,24
+A01042,small_business,marketing_agency,North America,free,2024-10-25,0
+A01043,solo,ecommerce,North America,pro,2025-03-15,12
+A01044,small_business,education,Asia,team,2025-09-21,120
+A01045,small_business,tech_startup,North America,pro,2024-09-03,48
+A01046,small_business,media,Europe,pro,2024-07-10,12
+A01047,solo,real_estate,North America,pro,2025-06-20,36
+A01048,small_business,media,Asia,team,2024-03-10,60
+A01049,small_business,media,Europe,free,2025-02-03,0
+A01050,solo,marketing_agency,North America,pro,2025-04-26,12
+A01051,mid_market,ecommerce,North America,team,2025-10-12,450
+A01052,solo,education,Europe,free,2025-01-17,0
+A01053,solo,ecommerce,North America,pro,2024-09-16,12
+A01054,small_business,marketing_agency,Europe,team,2024-12-31,60
+A01055,solo,education,Europe,free,2024-12-19,0
+A01056,solo,real_estate,Asia,pro,2024-09-03,12
+A01057,small_business,media,North America,pro,2026-03-01,36
+A01058,small_business,ecommerce,Asia,pro,2024-05-16,12
+A01059,small_business,tech_startup,North America,pro,2024-12-26,36
+A01060,solo,media,Asia,free,2025-10-20,0
+A01061,small_business,marketing_agency,Asia,pro,2024-06-28,48
+A01062,small_business,tech_startup,North America,free,2025-12-13,0
+A01063,small_business,tech_startup,North America,free,2025-05-05,0
+A01064,solo,education,North America,pro,2025-10-08,24
+A01065,mid_market,education,North America,team,2024-05-18,180
+A01066,solo,tech_startup,North America,free,2026-01-03,0
+A01067,small_business,education,Europe,free,2026-03-05,0
+A01068,mid_market,tech_startup,Europe,team,2025-04-13,180
+A01069,solo,education,Europe,pro,2024-10-27,24
+A01070,small_business,marketing_agency,North America,pro,2024-02-14,24
+A01071,solo,media,North America,free,2024-02-12,0
+A01072,small_business,real_estate,Asia,pro,2024-11-19,36
+A01073,solo,tech_startup,Europe,free,2025-06-11,0
+A01074,small_business,tech_startup,North America,pro,2025-02-11,48
+A01075,solo,ecommerce,North America,pro,2024-09-16,12
+A01076,solo,tech_startup,Asia,pro,2026-02-10,24
+A01077,mid_market,ecommerce,Europe,team,2024-10-19,300
+A01078,mid_market,media,North America,team,2026-03-10,180
+A01079,solo,tech_startup,Latin America,free,2025-11-02,0
+A01080,small_business,ecommerce,North America,pro,2024-12-05,36
+A01081,small_business,tech_startup,Europe,pro,2024-05-07,36
+A01082,mid_market,tech_startup,North America,team,2025-03-23,450
+A01083,solo,tech_startup,North America,free,2026-01-31,0
+A01084,small_business,real_estate,North America,free,2025-03-26,0
+A01085,small_business,tech_startup,North America,pro,2025-01-30,36
+A01086,small_business,ecommerce,Asia,team,2024-07-10,150
+A01087,small_business,marketing_agency,Asia,pro,2025-12-09,48
+A01088,mid_market,real_estate,Asia,team,2025-01-11,300
+A01089,small_business,tech_startup,Europe,pro,2024-03-25,48
+A01090,solo,real_estate,Europe,free,2024-03-21,0
+A01091,solo,real_estate,Asia,free,2025-03-16,0
+A01092,solo,media,North America,free,2025-09-08,0
+A01093,solo,ecommerce,North America,free,2024-07-03,0
+A01094,solo,marketing_agency,Europe,free,2025-07-12,0
+A01095,small_business,tech_startup,North America,pro,2024-10-27,36
+A01096,solo,ecommerce,Europe,pro,2024-04-15,12
+A01097,mid_market,real_estate,Latin America,pro,2024-12-01,36
+A01098,solo,ecommerce,North America,free,2024-11-09,0
+A01099,small_business,ecommerce,Latin America,team,2025-04-01,150
+A01100,solo,ecommerce,North America,free,2024-06-19,0
+A01101,solo,education,North America,free,2025-12-07,0
+A01102,mid_market,media,Latin America,pro,2025-03-30,36
+A01103,small_business,real_estate,North America,free,2025-04-02,0
+A01104,small_business,real_estate,North America,pro,2024-02-13,36
+A01105,small_business,ecommerce,North America,free,2025-09-21,0
+A01106,solo,tech_startup,Europe,pro,2025-03-21,36
+A01107,solo,marketing_agency,North America,free,2025-10-16,0
+A01108,solo,media,Europe,free,2024-02-28,0
+A01109,small_business,tech_startup,North America,pro,2024-03-17,48
+A01110,solo,media,Latin America,free,2025-01-07,0
+A01111,mid_market,tech_startup,North America,team,2025-06-09,240
+A01112,small_business,tech_startup,North America,team,2024-02-01,90
+A01113,solo,media,North America,pro,2025-09-14,48
+A01114,mid_market,tech_startup,Asia,pro,2024-02-05,24
+A01115,small_business,ecommerce,North America,pro,2024-03-09,24
+A01116,small_business,education,Latin America,free,2026-03-08,0
+A01117,small_business,marketing_agency,North America,free,2025-10-22,0
+A01118,mid_market,tech_startup,Latin America,team,2025-01-10,300
+A01119,solo,marketing_agency,Europe,free,2025-01-27,0
+A01120,small_business,marketing_agency,Europe,pro,2025-08-03,12
+A01121,solo,education,Europe,pro,2025-09-11,24
+A01122,solo,media,North America,free,2025-11-26,0
+A01123,small_business,real_estate,North America,pro,2025-04-05,36
+A01124,small_business,media,Asia,pro,2025-01-15,48
+A01125,small_business,ecommerce,North America,pro,2026-02-20,12
+A01126,small_business,education,North America,free,2025-08-10,0
+A01127,small_business,marketing_agency,Asia,free,2024-05-20,0
+A01128,small_business,tech_startup,North America,pro,2025-06-26,36
+A01129,solo,real_estate,Europe,free,2025-02-11,0
+A01130,small_business,tech_startup,North America,free,2024-11-17,0
+A01131,mid_market,real_estate,Asia,team,2025-10-27,300
+A01132,mid_market,education,Asia,team,2024-09-12,180
+A01133,small_business,ecommerce,North America,free,2024-01-27,0
+A01134,solo,marketing_agency,Europe,pro,2026-01-23,24
+A01135,small_business,real_estate,North America,free,2025-05-26,0
+A01136,solo,education,North America,free,2025-06-14,0
+A01137,small_business,tech_startup,North America,pro,2025-01-31,12
+A01138,small_business,media,Latin America,free,2024-09-25,0
+A01139,solo,tech_startup,Europe,pro,2026-03-04,36
+A01140,small_business,media,Latin America,team,2025-12-21,150
+A01141,small_business,marketing_agency,Asia,free,2024-08-07,0
+A01142,solo,tech_startup,North America,free,2025-09-18,0
+A01143,solo,tech_startup,Europe,pro,2024-10-19,48
+A01144,solo,media,Asia,free,2024-07-23,0
+A01145,small_business,ecommerce,Latin America,pro,2024-05-05,24
+A01146,mid_market,marketing_agency,Asia,team,2024-03-16,450
+A01147,small_business,tech_startup,North America,free,2024-06-25,0
+A01148,small_business,media,Europe,pro,2025-12-31,48
+A01149,small_business,marketing_agency,North America,pro,2024-03-30,36
+A01150,small_business,marketing_agency,North America,pro,2025-11-14,36
+A01151,solo,media,Latin America,free,2025-12-27,0
+A01152,small_business,tech_startup,Asia,free,2024-03-07,0
+A01153,mid_market,marketing_agency,North America,pro,2025-07-17,36
+A01154,small_business,ecommerce,North America,pro,2024-11-03,24
+A01155,mid_market,tech_startup,North America,team,2025-12-29,240
+A01156,mid_market,media,North America,team,2025-01-05,240
+A01157,mid_market,media,North America,team,2024-05-04,240
+A01158,small_business,education,North America,pro,2024-05-22,24
+A01159,mid_market,tech_startup,North America,team,2025-05-20,180
+A01160,solo,media,Asia,pro,2025-01-04,36
+A01161,mid_market,marketing_agency,Asia,pro,2025-04-23,24
+A01162,small_business,media,Europe,pro,2025-09-18,12
+A01163,mid_market,ecommerce,North America,team,2024-03-08,300
+A01164,small_business,tech_startup,North America,free,2025-02-11,0
+A01165,mid_market,real_estate,North America,team,2026-01-04,450
+A01166,small_business,real_estate,Europe,team,2025-06-22,150
+A01167,mid_market,media,North America,team,2026-02-26,450
+A01168,small_business,media,North America,team,2025-08-11,60
+A01169,small_business,ecommerce,North America,team,2024-05-08,120
+A01170,solo,tech_startup,Europe,pro,2025-10-19,12
+A01171,solo,marketing_agency,Latin America,free,2025-04-05,0
+A01172,small_business,marketing_agency,North America,free,2025-04-22,0
+A01173,small_business,tech_startup,North America,pro,2025-11-27,36
+A01174,solo,education,North America,pro,2024-05-11,24
+A01175,small_business,education,North America,team,2026-02-25,90
+A01176,solo,ecommerce,Europe,pro,2025-03-19,12
+A01177,small_business,education,Asia,free,2024-05-07,0
+A01178,mid_market,real_estate,North America,team,2025-06-14,240
+A01179,solo,media,Europe,free,2024-11-07,0
+A01180,small_business,tech_startup,North America,team,2024-06-17,90
+A01181,solo,ecommerce,North America,free,2024-11-26,0
+A01182,solo,ecommerce,Latin America,pro,2025-12-27,24
+A01183,small_business,ecommerce,North America,free,2024-12-20,0
+A01184,small_business,tech_startup,North America,free,2025-06-15,0
+A01185,small_business,marketing_agency,North America,pro,2024-10-17,12
+A01186,small_business,ecommerce,North America,team,2024-09-13,90
+A01187,solo,ecommerce,North America,free,2025-10-12,0
+A01188,small_business,tech_startup,North America,pro,2025-07-18,36
+A01189,small_business,education,Asia,team,2024-05-08,120
+A01190,solo,media,Europe,pro,2025-09-21,12
+A01191,small_business,tech_startup,Asia,pro,2025-05-29,24
+A01192,small_business,tech_startup,Asia,free,2025-08-29,0
+A01193,small_business,marketing_agency,North America,pro,2025-08-17,24
+A01194,solo,tech_startup,North America,pro,2024-06-24,36
+A01195,solo,marketing_agency,North America,free,2025-07-31,0
+A01196,solo,ecommerce,Europe,free,2024-02-12,0
+A01197,small_business,marketing_agency,Asia,team,2024-01-30,60
+A01198,small_business,marketing_agency,North America,team,2024-02-16,120
+A01199,solo,marketing_agency,North America,free,2025-10-28,0
+A01200,solo,media,North America,pro,2024-08-03,48
+A01201,solo,ecommerce,Latin America,free,2025-09-24,0
+A01202,mid_market,real_estate,North America,team,2025-10-16,180
+A01203,solo,tech_startup,North America,pro,2025-05-24,36
+A01204,solo,education,Asia,pro,2025-10-19,36
+A01205,mid_market,tech_startup,Asia,pro,2025-05-09,24
+A01206,solo,marketing_agency,North America,free,2025-12-02,0
+A01207,small_business,ecommerce,Europe,free,2025-02-19,0
+A01208,solo,education,Asia,pro,2024-10-31,48
+A01209,small_business,ecommerce,Europe,free,2024-03-15,0
+A01210,small_business,marketing_agency,North America,pro,2025-12-06,12
+A01211,mid_market,tech_startup,North America,pro,2024-06-10,48
+A01212,solo,marketing_agency,Latin America,free,2025-03-01,0
+A01213,small_business,ecommerce,Latin America,pro,2025-05-10,48
+A01214,small_business,marketing_agency,Europe,free,2024-07-27,0
+A01215,solo,tech_startup,Latin America,pro,2024-12-14,24
+A01216,small_business,tech_startup,North America,pro,2024-11-16,36
+A01217,solo,real_estate,North America,free,2026-01-21,0
+A01218,small_business,tech_startup,North America,free,2024-12-19,0
+A01219,solo,marketing_agency,North America,pro,2025-02-12,24
+A01220,small_business,media,North America,team,2026-02-17,120
+A01221,solo,education,Asia,free,2025-06-11,0
+A01222,solo,tech_startup,North America,pro,2025-07-29,12
+A01223,solo,media,North America,free,2024-11-22,0
+A01224,small_business,marketing_agency,North America,free,2024-09-04,0
+A01225,solo,marketing_agency,North America,pro,2025-04-22,12
+A01226,solo,education,North America,free,2024-09-30,0
+A01227,mid_market,ecommerce,Latin America,pro,2025-04-05,24
+A01228,small_business,real_estate,Asia,pro,2024-05-24,12
+A01229,small_business,ecommerce,North America,team,2024-02-21,120
+A01230,solo,marketing_agency,Asia,free,2025-01-28,0
+A01231,mid_market,media,Europe,team,2025-09-22,450
+A01232,solo,marketing_agency,Europe,free,2024-09-11,0
+A01233,small_business,tech_startup,North America,pro,2024-06-12,36
+A01234,mid_market,education,Europe,team,2025-08-14,300
+A01235,mid_market,real_estate,Asia,team,2024-07-13,240
+A01236,solo,education,Asia,free,2025-05-25,0
+A01237,small_business,tech_startup,Europe,pro,2025-06-11,48
+A01238,mid_market,tech_startup,North America,pro,2025-05-25,36
+A01239,small_business,media,Europe,pro,2025-05-24,12
+A01240,small_business,real_estate,North America,pro,2024-04-02,48
+A01241,small_business,ecommerce,North America,pro,2025-06-01,48
+A01242,small_business,ecommerce,Latin America,pro,2024-09-03,24
+A01243,mid_market,education,Europe,team,2025-08-20,300
+A01244,small_business,media,North America,pro,2024-02-19,12
+A01245,solo,ecommerce,North America,free,2024-10-15,0
+A01246,mid_market,marketing_agency,Europe,team,2025-05-21,450
+A01247,small_business,ecommerce,Asia,pro,2024-10-19,12
+A01248,small_business,media,Latin America,pro,2024-04-20,48
+A01249,solo,real_estate,North America,pro,2024-05-17,36
+A01250,solo,marketing_agency,Asia,pro,2026-01-14,36
+A01251,small_business,education,Asia,pro,2026-02-21,48
+A01252,mid_market,ecommerce,Asia,team,2025-01-09,180
+A01253,solo,education,North America,pro,2025-02-14,12
+A01254,small_business,real_estate,North America,pro,2025-08-06,24
+A01255,solo,marketing_agency,Europe,pro,2025-01-06,36
+A01256,small_business,education,Latin America,pro,2024-03-16,48
+A01257,mid_market,education,North America,pro,2025-05-31,48
+A01258,small_business,ecommerce,North America,pro,2026-02-21,36
+A01259,small_business,real_estate,North America,pro,2025-09-30,12
+A01260,small_business,tech_startup,Asia,team,2024-05-11,60
+A01261,small_business,real_estate,North America,pro,2025-02-07,36
+A01262,small_business,real_estate,Europe,pro,2024-12-13,36
+A01263,solo,education,North America,pro,2026-02-12,24
+A01264,solo,ecommerce,North America,pro,2024-07-22,48
+A01265,small_business,marketing_agency,Europe,pro,2025-05-27,12
+A01266,mid_market,tech_startup,Europe,team,2024-02-16,180
+A01267,small_business,ecommerce,Europe,pro,2024-05-20,36
+A01268,mid_market,ecommerce,Europe,team,2025-04-30,450
+A01269,small_business,ecommerce,Latin America,pro,2024-06-01,24
+A01270,small_business,marketing_agency,Europe,pro,2024-12-01,36
+A01271,solo,ecommerce,Asia,free,2024-06-15,0
+A01272,solo,education,Asia,free,2025-02-06,0
+A01273,small_business,ecommerce,North America,free,2025-09-23,0
+A01274,mid_market,ecommerce,North America,team,2026-01-27,300
+A01275,mid_market,marketing_agency,North America,pro,2025-08-30,36
+A01276,small_business,real_estate,Europe,pro,2025-06-03,48
+A01277,solo,ecommerce,North America,free,2025-12-26,0
+A01278,small_business,tech_startup,Latin America,team,2025-07-30,120
+A01279,small_business,media,North America,pro,2025-05-01,12
+A01280,small_business,education,Asia,pro,2025-01-12,36
+A01281,solo,tech_startup,North America,free,2025-11-20,0
+A01282,mid_market,real_estate,Europe,pro,2024-04-22,48
+A01283,solo,tech_startup,Europe,free,2025-08-20,0
+A01284,solo,ecommerce,Latin America,free,2024-11-11,0
+A01285,small_business,ecommerce,Europe,team,2026-01-12,60
+A01286,small_business,ecommerce,Europe,team,2025-09-03,150
+A01287,small_business,tech_startup,Europe,team,2024-09-28,90
+A01288,small_business,ecommerce,North America,pro,2026-01-08,12
+A01289,mid_market,media,Europe,team,2025-08-20,450
+A01290,solo,media,Europe,free,2024-06-23,0
+A01291,small_business,ecommerce,North America,pro,2025-06-20,48
+A01292,solo,tech_startup,North America,free,2024-05-31,0
+A01293,solo,media,North America,pro,2025-11-28,24
+A01294,solo,ecommerce,North America,pro,2024-02-02,12
+A01295,mid_market,ecommerce,Europe,team,2024-07-14,180
+A01296,small_business,tech_startup,North America,team,2025-03-27,120
+A01297,small_business,tech_startup,Europe,pro,2025-03-04,24
+A01298,mid_market,marketing_agency,North America,team,2025-02-26,240
+A01299,small_business,tech_startup,North America,team,2025-02-24,150
+A01300,small_business,ecommerce,North America,pro,2026-01-23,12
+A01301,solo,tech_startup,Europe,pro,2025-12-23,24
+A01302,mid_market,marketing_agency,Asia,team,2025-06-15,240
+A01303,mid_market,ecommerce,Latin America,pro,2025-07-28,36
+A01304,solo,media,North America,pro,2025-11-09,48
+A01305,small_business,media,North America,free,2025-06-22,0
+A01306,solo,education,North America,free,2025-01-20,0
+A01307,small_business,ecommerce,Europe,team,2024-11-17,90
+A01308,solo,real_estate,Europe,free,2025-04-15,0
+A01309,small_business,marketing_agency,Europe,free,2025-06-29,0
+A01310,small_business,media,North America,pro,2024-12-16,36
+A01311,mid_market,education,Europe,team,2025-11-23,300
+A01312,small_business,real_estate,Asia,team,2025-09-16,150
+A01313,small_business,education,North America,team,2024-07-15,90
+A01314,small_business,ecommerce,Asia,pro,2024-10-12,36
+A01315,solo,real_estate,North America,pro,2024-08-18,36
+A01316,solo,tech_startup,Europe,free,2026-02-28,0
+A01317,mid_market,education,North America,team,2024-10-22,240
+A01318,mid_market,marketing_agency,North America,pro,2025-12-07,48
+A01319,solo,media,Europe,free,2024-11-20,0
+A01320,solo,marketing_agency,Latin America,free,2025-05-06,0
+A01321,mid_market,education,North America,team,2024-12-23,300
+A01322,small_business,media,Latin America,free,2024-10-21,0
+A01323,solo,media,North America,free,2024-05-04,0
+A01324,solo,ecommerce,Asia,free,2025-08-10,0
+A01325,small_business,real_estate,North America,free,2025-11-23,0
+A01326,small_business,ecommerce,Asia,team,2025-07-10,150
+A01327,small_business,education,Europe,pro,2025-02-08,36
+A01328,mid_market,tech_startup,North America,team,2026-03-02,240
+A01329,mid_market,tech_startup,Europe,team,2024-10-24,180
+A01330,solo,tech_startup,North America,pro,2024-10-21,12
+A01331,solo,marketing_agency,North America,pro,2024-12-20,48
+A01332,solo,real_estate,North America,free,2025-11-02,0
+A01333,small_business,education,North America,pro,2024-09-19,48
+A01334,solo,marketing_agency,Latin America,pro,2024-08-07,24
+A01335,solo,real_estate,Latin America,free,2025-07-05,0
+A01336,mid_market,tech_startup,North America,pro,2024-10-04,36
+A01337,mid_market,education,North America,team,2024-05-20,180
+A01338,small_business,media,Asia,team,2025-09-22,90
+A01339,solo,education,Europe,free,2024-09-05,0
+A01340,solo,tech_startup,Asia,free,2024-02-21,0
+A01341,small_business,marketing_agency,Europe,pro,2025-11-16,24
+A01342,small_business,tech_startup,Europe,pro,2025-10-15,24
+A01343,small_business,ecommerce,North America,pro,2024-02-23,12
+A01344,small_business,media,Europe,team,2025-02-27,120
+A01345,small_business,marketing_agency,Asia,pro,2026-01-04,48
+A01346,solo,education,North America,free,2024-04-12,0
+A01347,small_business,education,North America,team,2025-11-28,90
+A01348,small_business,tech_startup,North America,pro,2024-01-06,24
+A01349,mid_market,real_estate,Asia,team,2025-02-20,450
+A01350,solo,education,North America,pro,2025-05-03,24
+A01351,solo,tech_startup,Latin America,free,2026-02-13,0
+A01352,solo,tech_startup,Latin America,free,2024-10-21,0
+A01353,solo,education,Europe,free,2024-11-24,0
+A01354,small_business,ecommerce,North America,pro,2024-10-19,12
+A01355,small_business,marketing_agency,Europe,pro,2026-02-26,12
+A01356,solo,marketing_agency,Latin America,free,2025-10-29,0
+A01357,small_business,real_estate,Latin America,pro,2025-08-10,24
+A01358,small_business,media,Europe,free,2025-07-01,0
+A01359,small_business,ecommerce,Europe,pro,2026-01-26,12
+A01360,solo,tech_startup,North America,pro,2024-06-28,48
+A01361,small_business,ecommerce,North America,team,2024-06-29,60
+A01362,solo,ecommerce,North America,pro,2025-02-10,48
+A01363,small_business,ecommerce,North America,pro,2024-07-09,36
+A01364,solo,marketing_agency,Asia,free,2024-02-08,0
+A01365,small_business,marketing_agency,Latin America,team,2024-01-10,120
+A01366,mid_market,marketing_agency,North America,team,2025-08-04,180
+A01367,solo,education,Asia,pro,2024-12-09,36
+A01368,mid_market,marketing_agency,Europe,team,2025-04-10,450
+A01369,solo,media,North America,free,2024-05-17,0
+A01370,solo,media,Asia,free,2025-05-31,0
+A01371,mid_market,marketing_agency,North America,team,2025-04-24,300
+A01372,small_business,tech_startup,North America,pro,2024-07-16,12
+A01373,small_business,tech_startup,North America,team,2024-12-04,90
+A01374,small_business,marketing_agency,Europe,pro,2026-01-18,48
+A01375,small_business,tech_startup,Europe,pro,2025-10-25,36
+A01376,small_business,ecommerce,North America,pro,2026-01-05,24
+A01377,solo,ecommerce,Europe,free,2024-01-15,0
+A01378,solo,education,North America,pro,2026-01-24,36
+A01379,mid_market,media,North America,team,2024-10-29,240
+A01380,mid_market,media,North America,team,2024-06-28,450
+A01381,mid_market,real_estate,Europe,team,2025-03-13,300
+A01382,small_business,ecommerce,Europe,free,2024-03-29,0
+A01383,small_business,marketing_agency,Europe,free,2025-02-14,0
+A01384,small_business,media,North America,free,2025-11-16,0
+A01385,solo,tech_startup,Europe,free,2024-04-07,0
+A01386,solo,real_estate,Asia,pro,2024-07-08,24
+A01387,small_business,ecommerce,North America,free,2025-05-03,0
+A01388,solo,ecommerce,North America,free,2024-11-27,0
+A01389,mid_market,real_estate,Asia,team,2024-09-11,180
+A01390,solo,media,North America,pro,2024-09-24,48
+A01391,solo,tech_startup,North America,free,2024-08-29,0
+A01392,mid_market,ecommerce,Europe,team,2025-04-02,300
+A01393,mid_market,tech_startup,Latin America,pro,2024-12-03,36
+A01394,mid_market,real_estate,Europe,pro,2025-08-19,12
+A01395,small_business,tech_startup,Latin America,pro,2024-09-24,36
+A01396,solo,marketing_agency,Asia,pro,2025-12-10,24
+A01397,small_business,ecommerce,North America,pro,2024-03-04,12
+A01398,mid_market,real_estate,North America,team,2025-04-21,300
+A01399,solo,tech_startup,North America,free,2024-06-12,0
+A01400,small_business,media,Europe,pro,2025-02-19,36
+A01401,solo,marketing_agency,North America,pro,2025-12-07,12
+A01402,solo,real_estate,Asia,pro,2025-10-16,36
+A01403,small_business,education,North America,pro,2025-01-11,24
+A01404,mid_market,marketing_agency,North America,team,2024-08-12,240
+A01405,mid_market,marketing_agency,Europe,pro,2025-05-04,24
+A01406,solo,tech_startup,Asia,pro,2025-04-10,36
+A01407,solo,tech_startup,North America,free,2025-03-01,0
+A01408,small_business,ecommerce,Asia,pro,2025-12-19,48
+A01409,solo,ecommerce,North America,free,2026-02-14,0
+A01410,small_business,tech_startup,North America,free,2025-07-04,0
+A01411,small_business,tech_startup,North America,pro,2025-11-11,24
+A01412,small_business,marketing_agency,North America,pro,2026-02-19,24
+A01413,small_business,real_estate,Asia,pro,2025-11-27,12
+A01414,solo,marketing_agency,North America,free,2025-06-22,0
+A01415,small_business,tech_startup,Latin America,pro,2025-04-02,36
+A01416,solo,ecommerce,Asia,pro,2024-03-20,12
+A01417,small_business,media,Asia,team,2024-03-04,90
+A01418,solo,media,Asia,free,2025-08-09,0
+A01419,small_business,marketing_agency,Latin America,free,2025-07-03,0
+A01420,small_business,ecommerce,Asia,free,2024-06-02,0
+A01421,solo,education,Latin America,free,2024-06-17,0
+A01422,solo,media,Europe,pro,2024-12-01,48
+A01423,solo,real_estate,North America,free,2024-04-29,0
+A01424,small_business,real_estate,Asia,pro,2025-11-27,24
+A01425,small_business,marketing_agency,Latin America,pro,2026-01-04,48
+A01426,solo,marketing_agency,Europe,free,2024-04-03,0
+A01427,mid_market,marketing_agency,Asia,pro,2025-06-06,48
+A01428,small_business,tech_startup,North America,team,2024-02-26,150
+A01429,small_business,tech_startup,Europe,pro,2024-05-15,48
+A01430,solo,marketing_agency,North America,free,2025-04-12,0
+A01431,solo,education,Asia,free,2025-07-31,0
+A01432,solo,real_estate,North America,free,2024-02-29,0
+A01433,solo,tech_startup,Asia,free,2025-07-26,0
+A01434,small_business,education,Europe,pro,2025-04-18,36
+A01435,small_business,marketing_agency,North America,pro,2026-01-10,12
+A01436,mid_market,real_estate,Asia,team,2025-02-09,300
+A01437,solo,media,Europe,pro,2024-01-04,24
+A01438,mid_market,media,North America,team,2025-08-15,180
+A01439,solo,media,Latin America,free,2024-02-16,0
+A01440,small_business,education,North America,pro,2025-03-09,36
+A01441,small_business,tech_startup,Latin America,free,2025-12-18,0
+A01442,mid_market,media,North America,pro,2024-03-06,12
+A01443,solo,tech_startup,Europe,pro,2024-03-11,48
+A01444,solo,media,North America,free,2024-02-02,0
+A01445,small_business,ecommerce,Asia,pro,2024-10-20,48
+A01446,small_business,marketing_agency,Europe,free,2024-07-03,0
+A01447,solo,tech_startup,North America,pro,2026-02-26,24
+A01448,mid_market,ecommerce,North America,team,2026-02-23,450
+A01449,mid_market,tech_startup,Europe,team,2025-01-18,450
+A01450,solo,tech_startup,Latin America,free,2025-04-04,0
+A01451,solo,ecommerce,North America,pro,2025-01-21,48
+A01452,small_business,ecommerce,North America,team,2024-03-23,90
+A01453,small_business,marketing_agency,North America,team,2025-10-31,120
+A01454,mid_market,marketing_agency,North America,pro,2024-05-01,24
+A01455,solo,real_estate,Latin America,free,2025-07-04,0
+A01456,mid_market,education,Asia,team,2025-02-06,240
+A01457,solo,marketing_agency,Europe,free,2026-01-15,0
+A01458,small_business,education,Latin America,pro,2024-08-16,12
+A01459,mid_market,education,Asia,team,2026-02-13,180
+A01460,mid_market,marketing_agency,Europe,team,2024-11-01,450
+A01461,small_business,ecommerce,North America,free,2025-11-20,0
+A01462,mid_market,marketing_agency,North America,team,2026-01-06,450
+A01463,solo,education,North America,pro,2025-06-28,48
+A01464,mid_market,tech_startup,North America,team,2024-08-23,240
+A01465,solo,ecommerce,North America,pro,2025-04-16,36
+A01466,small_business,education,North America,pro,2024-06-07,36
+A01467,small_business,education,Asia,pro,2024-07-12,12
+A01468,mid_market,real_estate,North America,pro,2024-02-02,48
+A01469,small_business,tech_startup,North America,pro,2025-09-21,12
+A01470,mid_market,media,North America,team,2024-09-03,240
+A01471,solo,real_estate,North America,pro,2024-03-09,12
+A01472,small_business,education,Europe,team,2025-08-31,60
+A01473,mid_market,education,Asia,team,2025-04-02,180
+A01474,small_business,ecommerce,Europe,pro,2024-09-07,12
+A01475,mid_market,marketing_agency,Latin America,team,2025-02-15,450
+A01476,small_business,real_estate,North America,pro,2024-08-27,24
+A01477,solo,real_estate,North America,pro,2026-02-11,12
+A01478,solo,ecommerce,North America,pro,2024-05-23,36
+A01479,small_business,marketing_agency,Europe,free,2024-08-27,0
+A01480,mid_market,media,North America,team,2026-01-19,300
+A01481,solo,tech_startup,North America,pro,2025-08-14,36
+A01482,solo,media,Asia,pro,2024-08-30,36
+A01483,small_business,tech_startup,North America,pro,2024-05-26,24
+A01484,solo,tech_startup,North America,pro,2025-02-27,36
+A01485,small_business,ecommerce,North America,pro,2024-10-08,12
+A01486,small_business,marketing_agency,North America,team,2025-07-24,90
+A01487,mid_market,marketing_agency,North America,pro,2025-10-03,48
+A01488,small_business,tech_startup,North America,free,2025-07-23,0
+A01489,small_business,real_estate,North America,pro,2025-05-22,12
+A01490,solo,marketing_agency,Asia,pro,2024-12-18,48
+A01491,small_business,tech_startup,North America,team,2025-06-21,120
+A01492,small_business,tech_startup,Latin America,free,2025-12-14,0
+A01493,mid_market,tech_startup,Asia,pro,2025-03-02,48
+A01494,mid_market,tech_startup,North America,team,2024-06-01,300
+A01495,solo,ecommerce,Europe,pro,2025-01-20,24
+A01496,small_business,ecommerce,Latin America,free,2026-02-11,0
+A01497,solo,ecommerce,Europe,pro,2025-07-04,48
+A01498,small_business,tech_startup,North America,pro,2024-09-03,24
+A01499,small_business,education,North America,pro,2024-11-03,24
+A01500,small_business,media,Europe,free,2025-04-19,0
+A01501,small_business,ecommerce,Asia,pro,2024-02-29,48
+A01502,solo,tech_startup,Europe,free,2025-03-02,0
+A01503,small_business,marketing_agency,Asia,team,2025-07-24,90
+A01504,mid_market,education,Europe,team,2025-02-01,240
+A01505,solo,real_estate,Europe,free,2024-09-18,0
+A01506,small_business,tech_startup,Asia,free,2024-07-27,0
+A01507,solo,marketing_agency,Asia,free,2024-12-04,0
+A01508,small_business,ecommerce,Europe,pro,2025-10-24,12
+A01509,small_business,marketing_agency,Europe,pro,2025-04-05,36
+A01510,small_business,tech_startup,North America,team,2024-04-04,90
+A01511,small_business,ecommerce,North America,free,2024-02-22,0
+A01512,small_business,media,North America,pro,2024-10-01,48
+A01513,mid_market,tech_startup,Europe,team,2025-11-20,180
+A01514,small_business,marketing_agency,Asia,pro,2024-03-15,24
+A01515,small_business,education,Asia,team,2026-02-18,90
+A01516,small_business,marketing_agency,Europe,pro,2025-05-05,24
+A01517,solo,media,Europe,free,2024-12-06,0
+A01518,solo,marketing_agency,Latin America,free,2024-11-06,0
+A01519,solo,education,North America,free,2024-01-16,0
+A01520,solo,real_estate,Europe,free,2024-08-04,0
+A01521,small_business,tech_startup,North America,pro,2024-07-13,12
+A01522,solo,education,Asia,free,2026-02-03,0
+A01523,small_business,ecommerce,North America,team,2026-02-11,150
+A01524,solo,real_estate,North America,pro,2024-09-05,24
+A01525,solo,tech_startup,North America,pro,2025-02-10,24
+A01526,small_business,media,North America,team,2025-07-19,120
+A01527,solo,ecommerce,Europe,free,2026-03-05,0
+A01528,solo,tech_startup,Latin America,free,2024-10-16,0
+A01529,mid_market,real_estate,North America,team,2025-01-24,450
+A01530,small_business,tech_startup,North America,pro,2025-06-30,36
+A01531,solo,ecommerce,North America,pro,2024-11-11,36
+A01532,mid_market,media,Europe,team,2025-01-03,450
+A01533,solo,marketing_agency,North America,pro,2025-04-22,12
+A01534,small_business,ecommerce,North America,free,2026-01-09,0
+A01535,small_business,tech_startup,Europe,team,2025-04-25,120
+A01536,small_business,marketing_agency,North America,team,2024-07-27,120
+A01537,small_business,ecommerce,Europe,pro,2024-11-16,48
+A01538,small_business,tech_startup,Europe,pro,2024-02-16,24
+A01539,solo,ecommerce,North America,free,2026-01-29,0
+A01540,small_business,media,North America,team,2024-05-29,60
+A01541,solo,marketing_agency,North America,free,2024-09-24,0
+A01542,solo,education,North America,pro,2025-07-20,48
+A01543,solo,ecommerce,North America,pro,2024-10-29,24
+A01544,solo,tech_startup,Europe,free,2024-07-19,0
+A01545,small_business,ecommerce,North America,pro,2024-12-03,24
+A01546,small_business,ecommerce,North America,team,2025-01-23,90
+A01547,solo,tech_startup,Asia,free,2025-05-26,0
+A01548,solo,ecommerce,Europe,pro,2025-07-17,36
+A01549,small_business,tech_startup,Europe,free,2024-09-20,0
+A01550,solo,tech_startup,North America,free,2026-02-20,0
+A01551,small_business,marketing_agency,Latin America,pro,2025-05-15,48
+A01552,solo,tech_startup,North America,free,2025-04-16,0
+A01553,small_business,ecommerce,Europe,free,2024-06-21,0
+A01554,small_business,marketing_agency,Asia,team,2026-01-20,120
+A01555,solo,marketing_agency,North America,free,2024-06-22,0
+A01556,small_business,media,North America,pro,2024-05-23,48
+A01557,solo,real_estate,North America,pro,2024-07-07,12
+A01558,small_business,marketing_agency,Europe,team,2025-06-20,60
+A01559,small_business,ecommerce,North America,team,2024-03-17,60
+A01560,small_business,real_estate,Asia,team,2026-02-21,60
+A01561,mid_market,ecommerce,Europe,team,2025-02-26,240
+A01562,small_business,real_estate,North America,team,2025-10-07,90
+A01563,small_business,ecommerce,Europe,free,2024-03-10,0
+A01564,solo,ecommerce,North America,free,2025-12-25,0
+A01565,small_business,media,Asia,pro,2024-06-03,12
+A01566,solo,tech_startup,North America,pro,2024-08-11,48
+A01567,mid_market,education,Latin America,pro,2025-01-17,12
+A01568,solo,real_estate,North America,pro,2025-09-24,48
+A01569,solo,real_estate,Europe,pro,2025-11-06,48
+A01570,solo,marketing_agency,Asia,free,2024-01-17,0
+A01571,mid_market,real_estate,Asia,team,2024-01-07,450
+A01572,solo,real_estate,Asia,free,2024-01-13,0
+A01573,mid_market,education,North America,team,2024-01-18,300
+A01574,mid_market,marketing_agency,Asia,team,2025-07-02,300
+A01575,small_business,ecommerce,Asia,pro,2024-01-18,48
+A01576,small_business,education,Europe,team,2024-07-02,60
+A01577,small_business,education,North America,pro,2024-04-08,24
+A01578,small_business,tech_startup,North America,pro,2024-09-03,24
+A01579,small_business,marketing_agency,North America,team,2025-09-26,120
+A01580,small_business,real_estate,Europe,free,2024-12-28,0
+A01581,small_business,education,Europe,pro,2024-09-30,48
+A01582,solo,ecommerce,Latin America,free,2024-03-21,0
+A01583,small_business,ecommerce,North America,pro,2025-01-17,48
+A01584,small_business,education,North America,pro,2025-04-15,24
+A01585,solo,ecommerce,Europe,free,2025-12-14,0
+A01586,solo,real_estate,Europe,pro,2024-08-19,36
+A01587,small_business,ecommerce,North America,team,2025-12-01,60
+A01588,small_business,media,North America,pro,2025-10-31,12
+A01589,solo,real_estate,Latin America,pro,2024-04-05,48
+A01590,small_business,education,Latin America,pro,2025-01-23,48
+A01591,solo,education,North America,free,2025-07-19,0
+A01592,small_business,real_estate,North America,free,2025-05-02,0
+A01593,small_business,tech_startup,Europe,pro,2024-02-27,12
+A01594,mid_market,tech_startup,North America,pro,2025-12-20,24
+A01595,small_business,tech_startup,Latin America,team,2024-03-25,150
+A01596,small_business,education,North America,pro,2025-03-20,36
+A01597,small_business,real_estate,Europe,pro,2025-08-02,12
+A01598,solo,real_estate,North America,free,2025-06-24,0
+A01599,small_business,media,Latin America,pro,2024-02-13,24
+A01600,small_business,marketing_agency,North America,team,2024-08-04,150
+A01601,small_business,tech_startup,North America,team,2024-10-04,60
+A01602,solo,tech_startup,North America,free,2024-03-17,0
+A01603,small_business,tech_startup,North America,pro,2025-12-01,36
+A01604,mid_market,marketing_agency,North America,team,2025-07-10,180
+A01605,small_business,tech_startup,Asia,pro,2024-07-02,36
+A01606,mid_market,education,North America,team,2024-01-17,240
+A01607,small_business,ecommerce,Latin America,team,2025-08-24,90
+A01608,solo,real_estate,Asia,pro,2026-02-09,48
+A01609,mid_market,education,Asia,team,2024-03-19,300
+A01610,small_business,ecommerce,North America,pro,2024-06-15,24
+A01611,solo,ecommerce,Asia,free,2025-08-03,0
+A01612,small_business,education,Latin America,pro,2025-02-02,36
+A01613,solo,real_estate,Asia,pro,2025-01-28,24
+A01614,small_business,marketing_agency,Latin America,free,2025-12-06,0
+A01615,small_business,marketing_agency,North America,pro,2026-01-11,12
+A01616,solo,media,Latin America,free,2025-05-27,0
+A01617,mid_market,ecommerce,Europe,pro,2026-02-02,36
+A01618,mid_market,media,Europe,team,2024-02-24,180
+A01619,small_business,tech_startup,Asia,team,2025-03-23,90
+A01620,small_business,ecommerce,Europe,free,2024-03-18,0
+A01621,small_business,education,Europe,free,2024-12-14,0
+A01622,solo,education,Latin America,free,2025-09-11,0
+A01623,small_business,media,Europe,pro,2026-02-26,48
+A01624,small_business,ecommerce,Latin America,free,2026-03-03,0
+A01625,small_business,ecommerce,North America,team,2024-11-30,60
+A01626,solo,ecommerce,Europe,free,2025-10-11,0
+A01627,solo,tech_startup,Asia,pro,2024-10-06,48
+A01628,mid_market,media,North America,team,2025-05-17,240
+A01629,mid_market,media,Europe,pro,2024-12-30,48
+A01630,mid_market,media,Latin America,pro,2025-03-18,24
+A01631,solo,ecommerce,Asia,free,2025-11-27,0
+A01632,solo,tech_startup,North America,pro,2025-08-22,48
+A01633,small_business,tech_startup,Europe,team,2024-03-28,120
+A01634,mid_market,ecommerce,North America,team,2024-09-09,180
+A01635,small_business,tech_startup,Europe,pro,2024-03-25,36
+A01636,solo,tech_startup,Latin America,free,2024-06-06,0
+A01637,small_business,ecommerce,Europe,pro,2025-01-24,24
+A01638,solo,education,North America,free,2026-01-27,0
+A01639,small_business,ecommerce,Asia,pro,2025-02-02,36
+A01640,small_business,ecommerce,Asia,team,2025-01-04,60
+A01641,solo,marketing_agency,North America,pro,2024-04-03,12
+A01642,solo,marketing_agency,Europe,pro,2024-11-11,48
+A01643,small_business,education,Europe,free,2025-01-03,0
+A01644,solo,tech_startup,North America,pro,2026-02-18,36
+A01645,mid_market,marketing_agency,North America,team,2024-04-14,240
+A01646,mid_market,tech_startup,Asia,pro,2024-03-30,24
+A01647,small_business,marketing_agency,Europe,free,2025-03-17,0
+A01648,solo,media,Europe,free,2025-04-04,0
+A01649,small_business,tech_startup,Asia,pro,2025-07-24,48
+A01650,solo,marketing_agency,Latin America,pro,2024-04-15,12
+A01651,small_business,real_estate,North America,team,2024-04-01,120
+A01652,small_business,ecommerce,North America,pro,2025-07-21,12
+A01653,mid_market,marketing_agency,Asia,team,2025-09-03,300
+A01654,solo,ecommerce,North America,pro,2025-01-29,12
+A01655,solo,marketing_agency,Europe,pro,2024-10-25,48
+A01656,solo,marketing_agency,Europe,free,2025-02-01,0
+A01657,mid_market,ecommerce,Asia,team,2026-03-08,180
+A01658,small_business,media,North America,free,2026-01-12,0
+A01659,small_business,education,Europe,pro,2025-07-26,24
+A01660,mid_market,real_estate,North America,team,2025-08-08,240
+A01661,small_business,media,Europe,team,2025-12-02,150
+A01662,solo,marketing_agency,Asia,pro,2024-06-22,24
+A01663,small_business,tech_startup,North America,team,2024-10-02,120
+A01664,solo,ecommerce,North America,free,2024-10-01,0
+A01665,solo,marketing_agency,North America,free,2025-05-19,0
+A01666,small_business,education,North America,pro,2024-05-29,12
+A01667,mid_market,media,North America,team,2024-06-20,450
+A01668,solo,ecommerce,North America,pro,2024-10-09,48
+A01669,solo,ecommerce,North America,pro,2024-11-02,48
+A01670,small_business,marketing_agency,Europe,pro,2026-03-12,12
+A01671,small_business,marketing_agency,Asia,pro,2025-01-04,36
+A01672,small_business,ecommerce,North America,pro,2024-09-09,48
+A01673,small_business,ecommerce,Asia,pro,2025-08-31,24
+A01674,small_business,tech_startup,Europe,pro,2025-04-13,12
+A01675,small_business,marketing_agency,Asia,pro,2024-05-18,36
+A01676,small_business,media,North America,pro,2024-01-07,48
+A01677,small_business,tech_startup,Latin America,pro,2024-12-06,48
+A01678,small_business,tech_startup,North America,pro,2024-12-03,48
+A01679,small_business,tech_startup,Asia,pro,2024-12-08,48
+A01680,solo,education,North America,free,2025-10-28,0
+A01681,small_business,ecommerce,Asia,pro,2025-08-31,24
+A01682,small_business,ecommerce,North America,free,2024-11-03,0
+A01683,mid_market,tech_startup,Europe,pro,2024-11-24,24
+A01684,mid_market,marketing_agency,North America,team,2025-05-05,300
+A01685,mid_market,ecommerce,North America,team,2024-06-30,450
+A01686,solo,ecommerce,Europe,pro,2024-11-22,36
+A01687,small_business,tech_startup,Europe,free,2026-01-22,0
+A01688,mid_market,marketing_agency,North America,team,2025-12-12,450
+A01689,solo,ecommerce,North America,free,2025-08-12,0
+A01690,mid_market,real_estate,Latin America,team,2026-03-11,240
+A01691,solo,ecommerce,North America,free,2024-11-29,0
+A01692,small_business,tech_startup,Latin America,pro,2025-01-20,36
+A01693,mid_market,marketing_agency,North America,team,2025-02-06,300
+A01694,small_business,ecommerce,North America,pro,2024-04-26,24
+A01695,small_business,education,Latin America,free,2025-08-29,0
+A01696,small_business,education,Europe,pro,2025-07-12,24
+A01697,small_business,tech_startup,Latin America,team,2025-11-29,60
+A01698,mid_market,real_estate,Asia,team,2026-01-14,450
+A01699,small_business,marketing_agency,Europe,pro,2025-12-26,24
+A01700,mid_market,marketing_agency,North America,team,2025-03-24,300
+A01701,solo,ecommerce,North America,free,2025-12-10,0
+A01702,small_business,media,Asia,pro,2024-03-11,48
+A01703,solo,marketing_agency,Asia,free,2025-11-20,0
+A01704,solo,media,Europe,free,2025-05-26,0
+A01705,solo,tech_startup,Asia,pro,2024-05-22,36
+A01706,small_business,education,Latin America,team,2024-09-04,120
+A01707,solo,tech_startup,North America,free,2025-11-05,0
+A01708,small_business,marketing_agency,Latin America,free,2024-06-06,0
+A01709,small_business,tech_startup,Latin America,free,2026-01-02,0
+A01710,small_business,real_estate,North America,team,2025-03-09,150
+A01711,mid_market,ecommerce,North America,pro,2024-03-16,48
+A01712,mid_market,ecommerce,North America,team,2025-09-04,450
+A01713,small_business,ecommerce,North America,team,2025-08-19,150
+A01714,mid_market,media,North America,team,2025-07-01,450
+A01715,small_business,marketing_agency,Latin America,pro,2025-07-10,12
+A01716,solo,tech_startup,Latin America,free,2025-01-03,0
+A01717,small_business,marketing_agency,North America,free,2025-12-19,0
+A01718,small_business,tech_startup,Europe,free,2025-07-03,0
+A01719,small_business,marketing_agency,Asia,pro,2025-08-31,12
+A01720,solo,ecommerce,Asia,free,2024-04-21,0
+A01721,small_business,ecommerce,North America,pro,2026-02-26,24
+A01722,mid_market,tech_startup,North America,team,2025-11-04,300
+A01723,solo,education,Europe,pro,2024-06-19,12
+A01724,mid_market,marketing_agency,Europe,team,2025-07-30,450
+A01725,mid_market,ecommerce,North America,team,2026-02-09,300
+A01726,solo,ecommerce,North America,pro,2025-03-16,12
+A01727,solo,ecommerce,North America,pro,2024-01-11,12
+A01728,mid_market,education,North America,team,2024-09-21,240
+A01729,solo,ecommerce,North America,free,2025-06-06,0
+A01730,small_business,tech_startup,Europe,pro,2026-02-03,24
+A01731,mid_market,ecommerce,North America,team,2025-04-01,300
+A01732,small_business,ecommerce,North America,pro,2025-02-04,48
+A01733,small_business,real_estate,North America,free,2026-03-01,0
+A01734,small_business,ecommerce,Latin America,pro,2025-11-26,24
+A01735,solo,media,Europe,free,2024-12-19,0
+A01736,mid_market,tech_startup,Europe,pro,2024-01-26,48
+A01737,small_business,media,North America,pro,2024-04-17,36
+A01738,mid_market,ecommerce,Asia,team,2025-03-01,180
+A01739,small_business,ecommerce,Asia,pro,2024-04-28,24
+A01740,small_business,media,Asia,team,2024-12-22,120
+A01741,small_business,marketing_agency,Latin America,pro,2024-12-17,48
+A01742,solo,ecommerce,Asia,free,2024-07-30,0
+A01743,small_business,education,North America,pro,2025-06-17,48
+A01744,solo,marketing_agency,Europe,free,2024-12-22,0
+A01745,small_business,tech_startup,Asia,free,2025-05-02,0
+A01746,solo,education,Latin America,pro,2024-04-09,48
+A01747,mid_market,marketing_agency,North America,team,2026-01-09,450
+A01748,solo,ecommerce,Latin America,free,2024-11-22,0
+A01749,solo,ecommerce,Latin America,pro,2024-03-09,36
+A01750,small_business,tech_startup,North America,pro,2024-02-15,12
+A01751,solo,ecommerce,Asia,pro,2024-01-24,36
+A01752,small_business,marketing_agency,Europe,free,2025-10-25,0
+A01753,solo,ecommerce,North America,pro,2024-04-21,24
+A01754,solo,ecommerce,Europe,pro,2026-01-28,24
+A01755,solo,ecommerce,North America,pro,2025-06-12,24
+A01756,small_business,tech_startup,Latin America,team,2025-07-19,90
+A01757,small_business,education,North America,team,2024-12-04,150
+A01758,small_business,ecommerce,Europe,pro,2025-04-18,24
+A01759,small_business,real_estate,North America,team,2025-02-18,90
+A01760,solo,education,Europe,pro,2024-07-09,48
+A01761,small_business,marketing_agency,Europe,free,2025-02-09,0
+A01762,mid_market,marketing_agency,Asia,pro,2024-01-30,24
+A01763,solo,education,Asia,free,2025-04-05,0
+A01764,mid_market,education,Europe,pro,2025-08-29,48
+A01765,mid_market,marketing_agency,Asia,team,2025-02-02,180
+A01766,mid_market,education,Europe,team,2025-12-22,240
+A01767,solo,real_estate,North America,free,2024-07-29,0
+A01768,solo,ecommerce,North America,free,2024-10-12,0
+A01769,small_business,ecommerce,Europe,free,2026-02-09,0
+A01770,small_business,real_estate,Europe,pro,2025-12-21,12
+A01771,solo,media,North America,free,2025-08-14,0
+A01772,small_business,ecommerce,Europe,pro,2024-04-14,24
+A01773,solo,ecommerce,North America,pro,2025-01-09,36
+A01774,small_business,ecommerce,North America,pro,2024-07-20,48
+A01775,mid_market,ecommerce,North America,team,2024-04-26,300
+A01776,solo,ecommerce,Latin America,pro,2025-11-17,48
+A01777,solo,ecommerce,North America,free,2025-06-24,0
+A01778,mid_market,marketing_agency,Asia,team,2025-10-16,300
+A01779,small_business,ecommerce,Europe,team,2025-09-03,150
+A01780,mid_market,ecommerce,Europe,team,2025-09-17,450
+A01781,mid_market,ecommerce,Europe,team,2025-08-24,180
+A01782,small_business,education,North America,pro,2024-12-22,36
+A01783,solo,tech_startup,North America,free,2025-04-13,0
+A01784,small_business,ecommerce,Europe,pro,2025-09-24,24
+A01785,mid_market,real_estate,Europe,pro,2025-11-20,36
+A01786,mid_market,ecommerce,Asia,team,2025-09-21,180
+A01787,mid_market,media,Asia,pro,2025-11-19,24
+A01788,small_business,real_estate,Asia,free,2024-11-16,0
+A01789,mid_market,tech_startup,North America,team,2024-04-30,240
+A01790,small_business,education,North America,pro,2024-11-08,12
+A01791,small_business,marketing_agency,Europe,pro,2024-07-06,36
+A01792,small_business,ecommerce,Asia,pro,2025-12-11,24
+A01793,solo,marketing_agency,Europe,pro,2025-06-07,48
+A01794,small_business,media,North America,pro,2025-03-04,24
+A01795,mid_market,media,North America,team,2025-08-11,450
+A01796,solo,marketing_agency,Asia,pro,2025-03-09,24
+A01797,solo,tech_startup,Europe,free,2025-05-13,0
+A01798,small_business,real_estate,Europe,pro,2025-10-12,24
+A01799,small_business,ecommerce,Asia,pro,2025-07-22,24
+A01800,solo,media,Latin America,pro,2025-05-16,36
+A01801,small_business,ecommerce,Europe,free,2024-05-23,0
+A01802,mid_market,ecommerce,North America,team,2024-07-10,300
+A01803,small_business,media,Europe,free,2025-04-06,0
+A01804,solo,education,North America,pro,2025-09-26,12
+A01805,small_business,media,Latin America,team,2025-01-02,60
+A01806,mid_market,marketing_agency,North America,team,2025-05-11,240
+A01807,mid_market,tech_startup,Asia,pro,2024-07-18,48
+A01808,mid_market,education,North America,team,2025-07-29,450
+A01809,solo,real_estate,North America,free,2025-02-22,0
+A01810,small_business,tech_startup,Europe,pro,2025-12-02,48
+A01811,mid_market,tech_startup,North America,team,2025-03-01,450
+A01812,solo,ecommerce,Europe,pro,2025-05-15,24
+A01813,solo,tech_startup,Asia,pro,2024-03-25,12
+A01814,solo,tech_startup,North America,pro,2026-02-18,24
+A01815,solo,ecommerce,Asia,free,2024-10-26,0
+A01816,solo,ecommerce,Europe,free,2024-02-03,0
+A01817,mid_market,ecommerce,North America,team,2024-10-08,240
+A01818,small_business,marketing_agency,North America,team,2025-07-04,120
+A01819,small_business,ecommerce,North America,team,2024-06-21,150
+A01820,solo,ecommerce,Asia,pro,2025-08-02,48
+A01821,small_business,ecommerce,North America,pro,2025-07-16,12
+A01822,solo,education,Europe,free,2025-08-09,0
+A01823,mid_market,tech_startup,Asia,pro,2024-04-26,36
+A01824,solo,education,North America,pro,2026-03-04,36
+A01825,solo,education,North America,pro,2025-07-09,12
+A01826,solo,education,North America,pro,2026-02-17,48
+A01827,solo,tech_startup,Asia,free,2025-07-13,0
+A01828,small_business,ecommerce,Latin America,pro,2024-08-11,48
+A01829,solo,marketing_agency,North America,pro,2024-04-14,24
+A01830,solo,real_estate,North America,pro,2024-10-31,12
+A01831,solo,education,Europe,pro,2025-04-05,36
+A01832,solo,ecommerce,North America,pro,2024-12-22,12
+A01833,solo,real_estate,North America,pro,2025-03-25,12
+A01834,mid_market,education,North America,pro,2026-03-05,24
+A01835,solo,marketing_agency,Europe,free,2024-08-02,0
+A01836,mid_market,marketing_agency,Europe,team,2026-01-25,300
+A01837,small_business,marketing_agency,Europe,pro,2025-12-28,48
+A01838,small_business,tech_startup,North America,free,2024-06-18,0
+A01839,small_business,real_estate,North America,team,2025-09-22,90
+A01840,mid_market,tech_startup,North America,team,2024-07-30,240
+A01841,small_business,education,Europe,team,2024-03-01,120
+A01842,small_business,marketing_agency,Europe,pro,2025-06-29,36
+A01843,solo,tech_startup,Europe,pro,2025-09-03,24
+A01844,solo,real_estate,North America,free,2024-11-27,0
+A01845,small_business,marketing_agency,Europe,free,2025-12-21,0
+A01846,small_business,ecommerce,Latin America,pro,2024-10-26,36
+A01847,small_business,marketing_agency,North America,team,2025-08-09,120
+A01848,solo,education,Europe,free,2025-06-10,0
+A01849,mid_market,education,North America,pro,2025-11-26,12
+A01850,solo,tech_startup,Europe,free,2024-05-18,0
+A01851,solo,media,Europe,free,2026-02-07,0
+A01852,small_business,ecommerce,Europe,team,2025-02-25,60
+A01853,solo,real_estate,North America,free,2024-10-10,0
+A01854,solo,tech_startup,Europe,free,2025-11-02,0
+A01855,solo,ecommerce,North America,pro,2024-05-09,24
+A01856,solo,media,North America,free,2024-09-12,0
+A01857,small_business,marketing_agency,North America,pro,2024-05-29,36
+A01858,small_business,media,North America,pro,2024-09-10,48
+A01859,solo,ecommerce,North America,pro,2025-05-16,24
+A01860,solo,marketing_agency,North America,free,2025-08-14,0
+A01861,small_business,ecommerce,North America,pro,2025-10-09,36
+A01862,solo,media,Europe,free,2025-10-04,0
+A01863,small_business,ecommerce,Europe,pro,2025-02-28,48
+A01864,solo,real_estate,Asia,pro,2025-04-07,12
+A01865,small_business,marketing_agency,North America,pro,2025-10-10,12
+A01866,small_business,marketing_agency,Latin America,pro,2025-02-16,36
+A01867,small_business,marketing_agency,Asia,pro,2025-12-12,36
+A01868,small_business,marketing_agency,Asia,free,2025-04-10,0
+A01869,mid_market,education,North America,team,2025-05-14,300
+A01870,small_business,ecommerce,Asia,pro,2025-08-18,12
+A01871,solo,ecommerce,North America,free,2026-03-03,0
+A01872,small_business,media,North America,team,2026-01-20,60
+A01873,small_business,tech_startup,North America,pro,2026-01-18,48
+A01874,solo,real_estate,Asia,free,2025-10-12,0
+A01875,solo,tech_startup,North America,pro,2025-11-11,36
+A01876,small_business,tech_startup,North America,free,2024-03-05,0
+A01877,small_business,tech_startup,North America,pro,2025-07-01,48
+A01878,small_business,tech_startup,Asia,team,2024-08-11,150
+A01879,solo,ecommerce,Europe,pro,2024-08-04,48
+A01880,solo,marketing_agency,Asia,free,2024-10-01,0
+A01881,small_business,education,Europe,pro,2024-11-26,36
+A01882,small_business,real_estate,Europe,pro,2024-12-11,24
+A01883,small_business,marketing_agency,North America,free,2025-08-02,0
+A01884,solo,education,Asia,pro,2025-05-11,36
+A01885,small_business,marketing_agency,North America,pro,2025-11-29,12
+A01886,solo,ecommerce,Europe,pro,2024-02-17,12
+A01887,solo,ecommerce,Asia,free,2025-10-03,0
+A01888,mid_market,media,Latin America,team,2025-04-15,180
+A01889,small_business,education,Europe,pro,2024-05-07,24
+A01890,solo,education,Europe,pro,2025-03-27,48
+A01891,small_business,media,North America,pro,2024-01-01,48
+A01892,small_business,tech_startup,Latin America,free,2024-07-26,0
+A01893,mid_market,ecommerce,North America,team,2025-12-06,240
+A01894,solo,media,North America,free,2025-10-27,0
+A01895,small_business,media,Latin America,pro,2024-11-05,24
+A01896,small_business,marketing_agency,North America,free,2024-10-07,0
+A01897,small_business,media,North America,pro,2024-04-05,36
+A01898,small_business,ecommerce,North America,team,2024-09-13,60
+A01899,small_business,tech_startup,North America,team,2025-01-15,90
+A01900,solo,ecommerce,Latin America,free,2024-02-23,0
+A01901,small_business,ecommerce,Europe,team,2025-02-09,120
+A01902,solo,media,North America,pro,2026-01-13,24
+A01903,solo,ecommerce,North America,free,2025-03-15,0
+A01904,mid_market,marketing_agency,North America,team,2025-11-02,180
+A01905,solo,media,Latin America,free,2025-12-21,0
+A01906,mid_market,real_estate,North America,team,2024-04-07,180
+A01907,small_business,real_estate,Asia,pro,2024-08-06,48
+A01908,mid_market,media,Europe,team,2024-03-20,240
+A01909,solo,tech_startup,Europe,free,2025-08-30,0
+A01910,solo,real_estate,North America,free,2024-08-19,0
+A01911,small_business,marketing_agency,North America,pro,2025-06-15,48
+A01912,solo,media,Europe,free,2024-01-10,0
+A01913,solo,real_estate,North America,free,2024-01-09,0
+A01914,solo,tech_startup,Asia,pro,2025-12-13,36
+A01915,small_business,media,Europe,pro,2024-05-03,48
+A01916,solo,real_estate,Asia,free,2025-12-11,0
+A01917,small_business,marketing_agency,Europe,pro,2024-05-15,48
+A01918,mid_market,marketing_agency,Asia,team,2024-03-13,240
+A01919,mid_market,education,Europe,team,2025-01-27,180
+A01920,small_business,tech_startup,North America,free,2026-01-18,0
+A01921,mid_market,education,Europe,team,2024-04-14,180
+A01922,solo,media,Asia,free,2024-11-16,0
+A01923,solo,tech_startup,North America,pro,2025-01-11,36
+A01924,solo,real_estate,Latin America,pro,2024-05-20,48
+A01925,small_business,media,North America,pro,2026-03-03,24
+A01926,mid_market,media,Europe,team,2025-10-18,240
+A01927,solo,ecommerce,Europe,pro,2024-03-11,12
+A01928,small_business,tech_startup,North America,pro,2025-09-16,24
+A01929,solo,education,North America,pro,2025-03-26,36
+A01930,solo,tech_startup,North America,pro,2026-01-09,24
+A01931,small_business,tech_startup,North America,pro,2025-10-05,24
+A01932,mid_market,ecommerce,North America,team,2025-02-25,450
+A01933,mid_market,real_estate,Europe,pro,2024-08-10,12
+A01934,solo,tech_startup,North America,pro,2024-04-12,24
+A01935,mid_market,ecommerce,Europe,pro,2026-02-09,12
+A01936,small_business,ecommerce,Asia,pro,2025-08-26,48
+A01937,small_business,real_estate,North America,pro,2024-12-25,48
+A01938,solo,media,North America,pro,2024-11-18,24
+A01939,solo,education,North America,pro,2024-09-10,36
+A01940,solo,tech_startup,Asia,free,2025-10-22,0
+A01941,small_business,ecommerce,North America,pro,2024-03-27,24
+A01942,small_business,real_estate,North America,pro,2025-07-20,36
+A01943,solo,media,Europe,pro,2026-03-08,12
+A01944,solo,marketing_agency,North America,free,2025-11-05,0
+A01945,solo,tech_startup,Asia,free,2024-11-04,0
+A01946,small_business,ecommerce,Asia,free,2024-07-29,0
+A01947,mid_market,education,North America,team,2025-06-14,240
+A01948,solo,real_estate,Europe,free,2026-02-04,0
+A01949,small_business,real_estate,Asia,free,2025-02-05,0
+A01950,mid_market,ecommerce,North America,team,2024-10-29,180
+A01951,solo,ecommerce,Latin America,free,2024-09-02,0
+A01952,solo,ecommerce,Asia,pro,2025-05-21,48
+A01953,solo,ecommerce,North America,free,2024-04-25,0
+A01954,solo,education,North America,free,2024-09-03,0
+A01955,solo,tech_startup,Latin America,pro,2025-05-26,12
+A01956,small_business,marketing_agency,North America,pro,2025-06-24,12
+A01957,small_business,tech_startup,Latin America,pro,2025-01-04,36
+A01958,small_business,ecommerce,North America,pro,2024-05-15,48
+A01959,solo,tech_startup,North America,free,2025-08-05,0
+A01960,small_business,media,North America,team,2025-03-06,120
+A01961,small_business,education,North America,pro,2025-07-13,24
+A01962,mid_market,real_estate,Asia,team,2026-02-20,450
+A01963,solo,ecommerce,North America,pro,2026-02-27,12
+A01964,small_business,marketing_agency,Europe,pro,2024-01-18,12
+A01965,small_business,marketing_agency,North America,free,2024-01-15,0
+A01966,solo,ecommerce,North America,pro,2024-09-25,24
+A01967,solo,tech_startup,North America,free,2024-02-10,0
+A01968,small_business,ecommerce,Asia,free,2024-03-02,0
+A01969,mid_market,tech_startup,Europe,team,2025-02-11,300
+A01970,small_business,marketing_agency,Europe,free,2025-10-05,0
+A01971,solo,education,Europe,pro,2025-12-30,48
+A01972,solo,tech_startup,North America,free,2025-03-09,0
+A01973,solo,marketing_agency,North America,free,2025-12-19,0
+A01974,mid_market,education,Europe,team,2025-02-15,180
+A01975,small_business,education,North America,team,2025-10-17,90
+A01976,small_business,marketing_agency,North America,team,2024-10-11,60
+A01977,solo,tech_startup,North America,pro,2024-11-13,12
+A01978,small_business,education,Asia,pro,2025-06-07,24
+A01979,small_business,ecommerce,North America,pro,2024-06-08,36
+A01980,small_business,ecommerce,North America,pro,2025-02-04,12
+A01981,small_business,media,North America,free,2024-11-13,0
+A01982,mid_market,marketing_agency,Asia,team,2025-12-16,450
+A01983,small_business,ecommerce,Asia,team,2026-01-17,90
+A01984,small_business,marketing_agency,North America,free,2024-02-29,0
+A01985,small_business,real_estate,North America,pro,2024-09-07,12
+A01986,small_business,real_estate,Latin America,free,2025-03-20,0
+A01987,small_business,ecommerce,Europe,pro,2024-04-28,48
+A01988,mid_market,marketing_agency,Latin America,pro,2025-09-18,12
+A01989,small_business,ecommerce,Asia,pro,2024-11-12,24
+A01990,small_business,tech_startup,North America,free,2024-05-02,0
+A01991,mid_market,marketing_agency,North America,team,2024-01-13,240
+A01992,small_business,ecommerce,North America,free,2025-12-19,0
+A01993,small_business,tech_startup,Latin America,pro,2024-01-12,24
+A01994,solo,tech_startup,Europe,free,2025-05-23,0
+A01995,mid_market,media,Asia,team,2024-12-21,300
+A01996,solo,ecommerce,Europe,free,2024-06-19,0
+A01997,small_business,media,Asia,pro,2025-01-15,24
+A01998,small_business,tech_startup,Europe,pro,2026-02-06,36
+A01999,solo,marketing_agency,North America,free,2026-01-20,0
+A02000,solo,education,Latin America,free,2024-04-30,0
