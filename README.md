@@ -141,75 +141,77 @@ Revenue-Leak-Detector/
 
 ### 0) Run with Docker (no local Python required)
 
+This repo includes beginner-safe Docker scripts in `docker/`.
+
+#### Beginner-safe (recommended)
+
 ```bash
-docker build -t revenue-leak-detector .
-docker run --rm -p 8501:8501 revenue-leak-detector
+bash docker/build-image.sh
+bash docker/run-app.sh
 ```
 
 Open: [http://localhost:8501](http://localhost:8501)
 
-The container automatically runs the pipeline, then launches Streamlit.
+What this does:
+1. Builds the image.
+2. Runs the pipeline automatically.
+3. Launches Streamlit.
 
-Alternative:
+#### Manual Docker commands (advanced)
+
+```bash
+docker build -t revenue-leak-detector .
+docker run --rm -p 8501:8501 revenue-leak-detector
+```
+
+#### Docker Compose option
 
 ```bash
 docker compose up --build
 ```
 
-Detailed guide:
-- `docs/DOCKER_RUN_GUIDE.md`
+#### Common errors and fixes
 
-#### Detailed Docker setup (copy/paste)
-
-1. Install Docker Desktop (or Docker Engine + Compose plugin).
-
-2. Verify Docker:
-
-```bash
-docker --version
-docker compose version
-```
-
-3. Clone and enter repo:
-
-```bash
-git clone https://github.com/tmushd/revenue-leak-detector.git
-cd revenue-leak-detector
-```
-
-4. Build image:
-
-```bash
-docker build -t revenue-leak-detector .
-```
-
-5. Run full project (pipeline + app):
-
+1. `docker: invalid reference format`
+- Cause: command typo such as `docker run --rm - 8501:8501 ...`
+- Fix: use `-p` exactly:
 ```bash
 docker run --rm -p 8501:8501 revenue-leak-detector
 ```
 
-6. Open dashboard:
-- `http://localhost:8501`
-
-7. Stop:
-- Press `Ctrl + C` in terminal.
-
-Optional commands:
-
+2. `Unable to find image 'revenue-leak-detector:latest' locally`
+- Cause: image was not built yet.
+- Fix:
 ```bash
-# Docker Compose
-docker compose up --build
-
-# Run only pipeline
-docker run --rm revenue-leak-detector pipeline
-
-# Skip pipeline on startup
-docker run --rm -p 8501:8501 -e RUN_PIPELINE_ON_START=false revenue-leak-detector
-
-# Use different host port if 8501 is busy
-docker run --rm -p 8502:8501 revenue-leak-detector
+bash docker/build-image.sh
 ```
+
+3. `Usage: docker buildx build ...`
+- Cause: running `docker buildx build` without required args or without `--load`.
+- Fix:
+```bash
+docker build -t revenue-leak-detector .
+```
+or
+```bash
+docker buildx build --load -t revenue-leak-detector .
+```
+
+4. `Bind for 0.0.0.0:8501 failed: port is already allocated`
+- Cause: another process/container is already using port `8501`.
+- Fix:
+```bash
+PORT=8502 bash docker/run-app.sh
+```
+Then open `http://localhost:8502`.
+
+Optional (start app without rerunning pipeline):
+```bash
+RUN_PIPELINE_ON_START=false bash docker/run-app.sh
+```
+
+Detailed guide:
+- `docs/DOCKER_RUN_GUIDE.md`
 
 ### 1) Install dependencies
 
