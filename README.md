@@ -141,77 +141,33 @@ Revenue-Leak-Detector/
 
 ### 0) Run with Docker (no local Python required)
 
-This repo includes beginner-safe Docker scripts in `docker/`.
-
-#### Beginner-safe (recommended)
+#### Mac (Terminal)
 
 ```bash
-bash docker/build-image.sh
-bash docker/run-app.sh
+git clone https://github.com/tmushd/revenue-leak-detector.git
+cd revenue-leak-detector
+docker build -t revenue-leak-detector .
+docker run --rm -p 8501:8501 revenue-leak-detector
+```
+
+#### Windows (PowerShell)
+
+```powershell
+git clone https://github.com/tmushd/revenue-leak-detector.git
+cd revenue-leak-detector
+docker build -t revenue-leak-detector .
+docker run --rm -p 8501:8501 revenue-leak-detector
 ```
 
 Open: [http://localhost:8501](http://localhost:8501)
 
-What this does:
-1. Builds the image.
-2. Runs the pipeline automatically.
-3. Launches Streamlit.
-
-#### Manual Docker commands (advanced)
+If port `8501` is busy:
 
 ```bash
-docker build -t revenue-leak-detector .
-docker run --rm -p 8501:8501 revenue-leak-detector
+docker run --rm -p 8502:8501 revenue-leak-detector
 ```
 
-#### Docker Compose option
-
-```bash
-docker compose up --build
-```
-
-#### Common errors and fixes
-
-1. `docker: invalid reference format`
-- Cause: command typo such as `docker run --rm - 8501:8501 ...`
-- Fix: use `-p` exactly:
-```bash
-docker run --rm -p 8501:8501 revenue-leak-detector
-```
-
-2. `Unable to find image 'revenue-leak-detector:latest' locally`
-- Cause: image was not built yet.
-- Fix:
-```bash
-bash docker/build-image.sh
-```
-
-3. `Usage: docker buildx build ...`
-- Cause: running `docker buildx build` without required args or without `--load`.
-- Fix:
-```bash
-docker build -t revenue-leak-detector .
-```
-or
-```bash
-docker buildx build --load -t revenue-leak-detector .
-```
-
-4. `Bind for 0.0.0.0:8501 failed: port is already allocated`
-- Cause: another process/container is already using port `8501`.
-- Fix:
-```bash
-PORT=8502 bash docker/run-app.sh
-```
 Then open `http://localhost:8502`.
-
-Optional (start app without rerunning pipeline):
-```bash
-RUN_PIPELINE_ON_START=false bash docker/run-app.sh
-```
-
-Detailed guide:
-- `docs/DOCKER_RUN_GUIDE.md`
 
 ### 1) Install dependencies
 
