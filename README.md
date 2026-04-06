@@ -1,6 +1,7 @@
 # Revenue Leak Detector
 
 An end-to-end SaaS analytics system that explains **where revenue is leaking**, **why it is leaking**, and **which actions should be prioritized first**.
+
 Includes Streamlit deploymenet capabilities (Guide mentioned below)
 
 This repo implements the full scope in `project_spec.md`: synthetic data generation, text classification, churn-risk modeling, revenue impact quantification, and an interactive Streamlit dashboard.
