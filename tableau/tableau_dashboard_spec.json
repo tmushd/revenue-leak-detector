@@ -1,0 +1,84 @@
+{
+  "dashboard_name": "Revenue Leak Detector (Tableau)",
+  "source_streamlit_file": "app.py",
+  "data_exports_dir": "tableau/exports",
+  "filters": [
+    {
+      "name": "plan_type",
+      "type": "multi_select",
+      "source": "risk_scores_tableau.csv"
+    },
+    {
+      "name": "region",
+      "type": "multi_select",
+      "source": "risk_scores_tableau.csv"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "Risk Threshold",
+      "type": "float",
+      "min": 0.1,
+      "max": 0.9,
+      "step": 0.05,
+      "default": 0.5
+    }
+  ],
+  "sheets": [
+    {
+      "name": "KPI - Monthly Revenue at Risk",
+      "source": "risk_scores_tableau.csv",
+      "calc": "SUM([estimated_monthly_revenue_at_risk])"
+    },
+    {
+      "name": "KPI - High-Risk Accounts",
+      "source": "risk_scores_tableau.csv",
+      "calc": "SUM(IF [churn_probability] >= [Risk Threshold] THEN 1 ELSE 0 END)"
+    },
+    {
+      "name": "Revenue Loss Breakdown",
+      "source": "revenue_loss_breakdown_tableau.csv",
+      "chart": "grouped_bar"
+    },
+    {
+      "name": "Revenue Loss Trend",
+      "source": "revenue_loss_trend_long_tableau.csv",
+      "chart": "line"
+    },
+    {
+      "name": "At-Risk Accounts",
+      "source": "risk_scores_tableau.csv",
+      "chart": "table"
+    },
+    {
+      "name": "Most Affected Segments",
+      "source": "segment_loss_tableau.csv",
+      "chart": "bar_and_table"
+    },
+    {
+      "name": "Model Quality",
+      "source": "model_metrics_tableau.csv",
+      "chart": "kpi_strip"
+    },
+    {
+      "name": "Recommended Actions",
+      "source": "recommendations_tableau.csv",
+      "chart": "table"
+    },
+    {
+      "name": "Evidence - Cancellations",
+      "source": "evidence_cancellations_tableau.csv",
+      "chart": "table"
+    },
+    {
+      "name": "Evidence - Support",
+      "source": "evidence_support_tickets_tableau.csv",
+      "chart": "table"
+    },
+    {
+      "name": "Evidence - Sales Notes",
+      "source": "evidence_sales_notes_tableau.csv",
+      "chart": "table"
+    }
+  ]
+}

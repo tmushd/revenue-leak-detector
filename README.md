@@ -4,6 +4,8 @@ An end-to-end SaaS analytics system that explains **where revenue is leaking**, 
 
 This repo implements the full scope in `project_spec.md`: synthetic data generation, text classification, churn-risk modeling, revenue impact quantification, and an interactive Streamlit dashboard.
 
+It now also includes a Tableau conversion pack (`tableau/`) that mirrors the Streamlit dashboard sections with Tableau-ready exports, calculated field definitions, and a one-to-one worksheet/dashboard build guide.
+
 ## 30-second pitch
 
 I built a full revenue intelligence system for a SaaS company simulation. It combines product usage, support tickets, sales notes, and cancellations to detect root causes of revenue leakage, score churn risk, estimate revenue at risk, and prioritize high-impact operational fixes in an interactive dashboard.
@@ -160,6 +162,16 @@ Outputs created:
 ```bash
 streamlit run app.py
 ```
+
+### 5) Export Tableau-ready dashboard assets
+
+```bash
+python -m src.export_tableau_assets
+```
+
+Then follow:
+- `tableau/dashboard_build_guide.md`
+- `tableau/tableau_dashboard_spec.json`
 
 ## How to read the dashboard
 

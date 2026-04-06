@@ -1,0 +1,73 @@
+plan_type,region,industry,churn_revenue_lost,churn_events,lost_deal_value,lost_deal_events,total_revenue_loss,segment
+team,North America,ecommerce,1680.0,8.0,102198.0,77,103878.0,team | North America | ecommerce
+team,North America,marketing_agency,2190.0,12.0,86340.0,59,88530.0,team | North America | marketing_agency
+team,North America,tech_startup,690.0,4.0,86196.0,61,86886.0,team | North America | tech_startup
+team,North America,education,630.0,4.0,68628.0,49,69258.0,team | North America | education
+team,Europe,media,0.0,0.0,66444.0,43,66444.0,team | Europe | media
+team,North America,real_estate,840.0,4.0,56262.0,43,57102.0,team | North America | real_estate
+pro,North America,ecommerce,504.0,16.0,53805.0,115,54309.0,pro | North America | ecommerce
+pro,North America,tech_startup,384.0,14.0,53448.0,118,53832.0,pro | North America | tech_startup
+team,Europe,ecommerce,390.0,2.0,50730.0,38,51120.0,team | Europe | ecommerce
+team,North America,media,180.0,1.0,49356.0,42,49536.0,team | North America | media
+team,Europe,tech_startup,630.0,2.0,46122.0,26,46752.0,team | Europe | tech_startup
+team,Asia,ecommerce,420.0,3.0,38136.0,30,38556.0,team | Asia | ecommerce
+pro,North America,education,132.0,4.0,36207.0,88,36339.0,pro | North America | education
+team,Europe,real_estate,0.0,0.0,36072.0,22,36072.0,team | Europe | real_estate
+team,Asia,tech_startup,570.0,4.0,34914.0,32,35484.0,team | Asia | tech_startup
+team,Asia,real_estate,570.0,3.0,33222.0,18,33792.0,team | Asia | real_estate
+pro,North America,marketing_agency,216.0,9.0,32883.0,76,33099.0,pro | North America | marketing_agency
+team,Europe,education,510.0,3.0,32106.0,20,32616.0,team | Europe | education
+team,Asia,marketing_agency,1260.0,5.0,30534.0,29,31794.0,team | Asia | marketing_agency
+pro,Asia,tech_startup,120.0,3.0,29994.0,44,30114.0,pro | Asia | tech_startup
+team,Latin America,tech_startup,0.0,0.0,29892.0,16,29892.0,team | Latin America | tech_startup
+pro,Europe,ecommerce,336.0,13.0,26940.0,75,27276.0,pro | Europe | ecommerce
+pro,Europe,tech_startup,240.0,8.0,26289.0,67,26529.0,pro | Europe | tech_startup
+team,Europe,marketing_agency,570.0,3.0,25944.0,19,26514.0,team | Europe | marketing_agency
+pro,Europe,marketing_agency,252.0,10.0,25182.0,67,25434.0,pro | Europe | marketing_agency
+team,Asia,education,600.0,4.0,24756.0,21,25356.0,team | Asia | education
+pro,Europe,real_estate,84.0,3.0,25239.0,28,25323.0,pro | Europe | real_estate
+pro,North America,real_estate,492.0,15.0,23337.0,63,23829.0,pro | North America | real_estate
+team,Latin America,marketing_agency,120.0,1.0,22194.0,16,22314.0,team | Latin America | marketing_agency
+pro,North America,media,192.0,9.0,20937.0,71,21129.0,pro | North America | media
+pro,Asia,marketing_agency,192.0,6.0,19602.0,45,19794.0,pro | Asia | marketing_agency
+team,Latin America,ecommerce,60.0,1.0,19386.0,18,19446.0,team | Latin America | ecommerce
+pro,Europe,media,36.0,1.0,19107.0,34,19143.0,pro | Europe | media
+free,North America,ecommerce,0.0,0.0,16500.0,83,16500.0,free | North America | ecommerce
+pro,Latin America,media,0.0,0.0,15738.0,14,15738.0,pro | Latin America | media
+free,North America,tech_startup,0.0,0.0,15204.0,71,15204.0,free | North America | tech_startup
+pro,Europe,education,168.0,6.0,13587.0,29,13755.0,pro | Europe | education
+team,Asia,media,720.0,3.0,12828.0,9,13548.0,team | Asia | media
+pro,Asia,ecommerce,228.0,8.0,12327.0,38,12555.0,pro | Asia | ecommerce
+pro,Latin America,marketing_agency,12.0,1.0,12336.0,22,12348.0,pro | Latin America | marketing_agency
+free,Europe,marketing_agency,0.0,0.0,11475.0,38,11475.0,free | Europe | marketing_agency
+pro,Latin America,real_estate,72.0,2.0,11319.0,19,11391.0,pro | Latin America | real_estate
+free,North America,marketing_agency,0.0,0.0,11064.0,55,11064.0,free | North America | marketing_agency
+free,North America,media,0.0,0.0,10650.0,54,10650.0,free | North America | media
+pro,Asia,real_estate,96.0,4.0,10491.0,35,10587.0,pro | Asia | real_estate
+pro,Asia,media,96.0,2.0,10398.0,20,10494.0,pro | Asia | media
+pro,Latin America,tech_startup,24.0,1.0,9354.0,22,9378.0,pro | Latin America | tech_startup
+team,Latin America,media,480.0,2.0,8850.0,6,9330.0,team | Latin America | media
+free,Asia,tech_startup,0.0,0.0,9162.0,32,9162.0,free | Asia | tech_startup
+free,Europe,ecommerce,0.0,0.0,9063.0,41,9063.0,free | Europe | ecommerce
+free,North America,education,0.0,0.0,8580.0,54,8580.0,free | North America | education
+team,Latin America,education,0.0,0.0,8130.0,4,8130.0,team | Latin America | education
+free,North America,real_estate,0.0,0.0,7209.0,34,7209.0,free | North America | real_estate
+pro,Latin America,ecommerce,144.0,3.0,6438.0,16,6582.0,pro | Latin America | ecommerce
+free,Asia,ecommerce,0.0,0.0,6087.0,27,6087.0,free | Asia | ecommerce
+free,Latin America,marketing_agency,0.0,0.0,5664.0,30,5664.0,free | Latin America | marketing_agency
+free,Europe,media,0.0,0.0,5271.0,31,5271.0,free | Europe | media
+pro,Asia,education,108.0,5.0,5130.0,20,5238.0,pro | Asia | education
+free,Latin America,tech_startup,0.0,0.0,5211.0,20,5211.0,free | Latin America | tech_startup
+free,Europe,education,0.0,0.0,5124.0,20,5124.0,free | Europe | education
+free,Europe,tech_startup,0.0,0.0,4446.0,26,4446.0,free | Europe | tech_startup
+team,Latin America,real_estate,0.0,0.0,4260.0,2,4260.0,team | Latin America | real_estate
+free,Asia,marketing_agency,0.0,0.0,4224.0,23,4224.0,free | Asia | marketing_agency
+free,Europe,real_estate,0.0,0.0,3780.0,18,3780.0,free | Europe | real_estate
+pro,Latin America,education,24.0,2.0,3630.0,9,3654.0,pro | Latin America | education
+free,Asia,real_estate,0.0,0.0,3285.0,10,3285.0,free | Asia | real_estate
+free,Latin America,media,0.0,0.0,2505.0,13,2505.0,free | Latin America | media
+free,Asia,education,0.0,0.0,2448.0,19,2448.0,free | Asia | education
+free,Latin America,ecommerce,0.0,0.0,2289.0,15,2289.0,free | Latin America | ecommerce
+free,Latin America,education,0.0,0.0,1740.0,10,1740.0,free | Latin America | education
+free,Asia,media,0.0,0.0,1224.0,13,1224.0,free | Asia | media
+free,Latin America,real_estate,0.0,0.0,669.0,6,669.0,free | Latin America | real_estate

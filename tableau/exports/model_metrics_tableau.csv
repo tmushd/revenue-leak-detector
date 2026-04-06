@@ -1,0 +1,8 @@
+metric,metric_label,metric_value
+roc_auc,ROC_AUC,0.6539
+pr_auc,PR_AUC,0.1568
+accuracy,ACCURACY,0.516
+recall,RECALL,0.9057
+f1,F1,0.284
+optimal_threshold,OPTIMAL_THRESHOLD,0.27
+positive_rate,POSITIVE_RATE,0.107

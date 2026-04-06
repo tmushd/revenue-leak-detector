@@ -1,0 +1,47 @@
+{
+  "generated_at_utc": "2026-04-06T05:14:35.875026+00:00",
+  "source_dir": "/Users/vayu/Documents/Playground/Revenue-Leak-Detector/data/processed",
+  "export_dir": "/Users/vayu/Documents/Playground/Revenue-Leak-Detector/tableau/exports",
+  "files": {
+    "risk_scores_tableau.csv": {
+      "rows": 2000,
+      "columns": 9
+    },
+    "revenue_loss_breakdown_tableau.csv": {
+      "rows": 14,
+      "columns": 6
+    },
+    "revenue_loss_trend_long_tableau.csv": {
+      "rows": 51,
+      "columns": 4
+    },
+    "segment_loss_tableau.csv": {
+      "rows": 72,
+      "columns": 9
+    },
+    "model_metrics_tableau.csv": {
+      "rows": 7,
+      "columns": 3
+    },
+    "kpi_snapshot_tableau.csv": {
+      "rows": 1,
+      "columns": 6
+    },
+    "recommendations_tableau.csv": {
+      "rows": 5,
+      "columns": 5
+    },
+    "evidence_cancellations_tableau.csv": {
+      "rows": 214,
+      "columns": 12
+    },
+    "evidence_support_tickets_tableau.csv": {
+      "rows": 2763,
+      "columns": 13
+    },
+    "evidence_sales_notes_tableau.csv": {
+      "rows": 8995,
+      "columns": 9
+    }
+  }
+}

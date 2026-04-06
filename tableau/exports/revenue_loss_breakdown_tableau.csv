@@ -1,0 +1,15 @@
+category,subcategory,source,source_records,lost_revenue,pct_of_total_loss
+Product,missing_templates,lost_deal,1041,650007.0,39.46
+Product,missing_features,lost_deal,526,350904.0,21.3
+Competitive,competitor_switch,lost_deal,546,312054.0,18.94
+Commercial,pricing_concerns,lost_deal,232,160347.0,9.73
+Operational,onboarding_confusion,lost_deal,233,156780.0,9.52
+Commercial,pricing_concerns,churn,48,3732.0,0.23
+Product,performance_reliability,churn,23,2634.0,0.16
+Product,missing_templates,churn,25,2574.0,0.16
+Adoption / Value Realization,low_usage,churn,18,1854.0,0.11
+Competitive,competitor_advantage,churn,22,1842.0,0.11
+Competitive,competitor_switch,churn,19,1548.0,0.09
+Operational,onboarding_confusion,churn,24,1206.0,0.07
+Operational,support_quality,churn,14,972.0,0.06
+Uncategorized,unclear_signal,churn,21,900.0,0.05

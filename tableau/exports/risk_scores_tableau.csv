@@ -1,0 +1,2001 @@
+account_id,monthly_revenue,plan_type,region,industry,churn_probability,risk_tier,estimated_monthly_revenue_at_risk,risk_threshold_default
+A00719,450,team,Asia,marketing_agency,0.6536101614093648,High,294.12,0.5
+A00784,450,team,North America,real_estate,0.6189196376538948,High,278.51,0.5
+A00014,450,team,Europe,tech_startup,0.5889149455858339,High,265.01,0.5
+A00311,450,team,Asia,media,0.5145272899717117,High,231.54,0.5
+A00479,300,team,North America,marketing_agency,0.6581929085164603,High,197.46,0.5
+A01371,300,team,North America,marketing_agency,0.6170102113666369,High,185.1,0.5
+A01802,300,team,North America,ecommerce,0.5854071952283288,High,175.62,0.5
+A01574,300,team,Asia,marketing_agency,0.5579334487476594,High,167.38,0.5
+A00277,300,team,North America,ecommerce,0.5451205016716656,High,163.54,0.5
+A00849,450,team,Latin America,marketing_agency,0.3598740999172141,Medium,161.94,0.5
+A00257,450,team,Asia,education,0.359806456522321,Medium,161.91,0.5
+A01688,450,team,North America,marketing_agency,0.329862902029876,Medium,148.44,0.5
+A01051,450,team,North America,ecommerce,0.3287145293056902,Medium,147.92,0.5
+A01246,450,team,Europe,marketing_agency,0.327025632753509,Medium,147.16,0.5
+A00180,240,team,North America,tech_startup,0.6113623983666117,High,146.73,0.5
+A00500,240,team,North America,ecommerce,0.6045326310884599,High,145.09,0.5
+A00536,240,team,Asia,real_estate,0.6035531065465976,High,144.85,0.5
+A00698,240,team,Asia,tech_startup,0.6020100728022324,High,144.48,0.5
+A00332,450,team,North America,marketing_agency,0.3123770881477378,Medium,140.57,0.5
+A00883,240,team,North America,education,0.5638003548911792,High,135.31,0.5
+A00064,450,team,North America,marketing_agency,0.2963255326515055,Medium,133.35,0.5
+A01155,240,team,North America,tech_startup,0.5522577255106503,High,132.54,0.5
+A01724,450,team,Europe,marketing_agency,0.2867887197061952,Medium,129.05,0.5
+A00338,450,team,Asia,ecommerce,0.2838092597485912,Medium,127.71,0.5
+A01529,450,team,North America,real_estate,0.2768039177216186,Medium,124.56,0.5
+A00069,450,team,Europe,tech_startup,0.2751359594738016,Medium,123.81,0.5
+A01714,450,team,North America,media,0.270961394907539,Medium,121.93,0.5
+A01780,450,team,Europe,ecommerce,0.2664521711491902,Medium,119.9,0.5
+A01165,450,team,North America,real_estate,0.2661300910376078,Medium,119.76,0.5
+A01349,450,team,Asia,real_estate,0.2654371450263308,Medium,119.45,0.5
+A01982,450,team,Asia,marketing_agency,0.2637126618042366,Medium,118.67,0.5
+A00960,450,team,Latin America,ecommerce,0.2624278446488669,Medium,118.09,0.5
+A01684,300,team,North America,marketing_agency,0.3883088201345908,Medium,116.49,0.5
+A01693,300,team,North America,marketing_agency,0.3816158957306006,Medium,114.48,0.5
+A00231,180,team,Asia,education,0.6323537621727896,High,113.82,0.5
+A00879,450,team,Asia,tech_startup,0.251914677869624,Medium,113.36,0.5
+A00370,450,team,Asia,media,0.2487198291655759,Low,111.92,0.5
+A00433,450,team,North America,real_estate,0.2472500601322474,Low,111.26,0.5
+A00172,450,team,Europe,real_estate,0.2463424132970604,Low,110.85,0.5
+A01786,180,team,Asia,ecommerce,0.6042981907619471,High,108.77,0.5
+A00799,450,team,North America,marketing_agency,0.240938320174321,Low,108.42,0.5
+A01289,450,team,Europe,media,0.2398331314857875,Low,107.92,0.5
+A01932,450,team,North America,ecommerce,0.2375403414214546,Low,106.89,0.5
+A01808,450,team,North America,education,0.2374816404747727,Low,106.87,0.5
+A00369,180,team,North America,marketing_agency,0.5918453343079799,High,106.53,0.5
+A01700,300,team,North America,marketing_agency,0.3548215779236886,Medium,106.45,0.5
+A00619,450,team,Europe,media,0.2353269998529712,Low,105.9,0.5
+A00868,450,team,North America,ecommerce,0.2341061227938599,Low,105.35,0.5
+A01532,450,team,Europe,media,0.2322019152534177,Low,104.49,0.5
+A00639,450,team,North America,tech_startup,0.2316528042539698,Low,104.24,0.5
+A00596,450,team,Latin America,tech_startup,0.2311581595182131,Low,104.02,0.5
+A00383,180,team,North America,education,0.5725785997487074,High,103.06,0.5
+A01628,240,team,North America,media,0.4289804264240851,Medium,102.96,0.5
+A01389,180,team,Asia,real_estate,0.5711198673403931,High,102.8,0.5
+A01712,450,team,North America,ecommerce,0.2271963313881796,Low,102.24,0.5
+A00526,450,team,North America,education,0.2264296088459357,Low,101.89,0.5
+A01111,240,team,North America,tech_startup,0.4214264587452914,Medium,101.14,0.5
+A01146,450,team,Asia,marketing_agency,0.2243002951490593,Low,100.94,0.5
+A00681,180,team,Asia,media,0.5575702565555387,High,100.36,0.5
+A01398,300,team,North America,real_estate,0.3334807696788369,Medium,100.04,0.5
+A01460,450,team,Europe,marketing_agency,0.2221415049849144,Low,99.96,0.5
+A01380,450,team,North America,media,0.2202304693820428,Low,99.1,0.5
+A00710,300,team,Asia,ecommerce,0.3275613843628971,Medium,98.27,0.5
+A01919,180,team,Europe,education,0.5429461742221581,High,97.73,0.5
+A01819,150,team,North America,ecommerce,0.6483884234883106,High,97.26,0.5
+A01609,300,team,Asia,education,0.3212781271877408,Medium,96.38,0.5
+A00981,240,team,Asia,marketing_agency,0.3998490428574118,Medium,95.96,0.5
+A00925,180,team,Latin America,media,0.5312039665237156,High,95.62,0.5
+A01604,180,team,North America,marketing_agency,0.5283258047466282,High,95.1,0.5
+A01312,150,team,Asia,real_estate,0.6331305692496207,High,94.97,0.5
+A00541,150,team,North America,real_estate,0.6321390264767962,High,94.82,0.5
+A00972,450,team,Latin America,tech_startup,0.2102964686222413,Low,94.63,0.5
+A01660,240,team,North America,real_estate,0.3920327278327389,Medium,94.09,0.5
+A01088,300,team,Asia,real_estate,0.3112948962838784,Medium,93.39,0.5
+A01448,450,team,North America,ecommerce,0.2075315113125599,Low,93.39,0.5
+A00218,300,team,North America,tech_startup,0.310032390848813,Medium,93.01,0.5
+A01795,450,team,North America,media,0.2059612361214972,Low,92.68,0.5
+A01082,450,team,North America,tech_startup,0.2045457716680656,Low,92.05,0.5
+A00263,450,team,Asia,ecommerce,0.2030320132719633,Low,91.36,0.5
+A00029,450,team,Europe,tech_startup,0.1994626030600107,Low,89.76,0.5
+A01028,450,team,Europe,real_estate,0.1987094795271132,Low,89.42,0.5
+A00604,150,team,Europe,ecommerce,0.5924824981482577,High,88.87,0.5
+A01690,240,team,Latin America,real_estate,0.369757916792121,Medium,88.74,0.5
+A00877,450,team,Latin America,real_estate,0.1963790578668247,Low,88.37,0.5
+A00243,150,team,Europe,education,0.5885850885249243,High,88.29,0.5
+A00723,300,team,North America,tech_startup,0.2929502917512107,Medium,87.89,0.5
+A01015,300,team,Asia,ecommerce,0.2900395463192647,Medium,87.01,0.5
+A01969,300,team,Europe,tech_startup,0.2890423324649562,Medium,86.71,0.5
+A00250,450,team,Latin America,ecommerce,0.1918862467562084,Low,86.35,0.5
+A00199,150,team,North America,real_estate,0.573072815375536,High,85.96,0.5
+A00790,300,team,Asia,ecommerce,0.2863636800606663,Medium,85.91,0.5
+A01131,300,team,Asia,real_estate,0.285244205060213,Medium,85.57,0.5
+A00688,450,team,North America,real_estate,0.1900455826767019,Low,85.52,0.5
+A01840,240,team,North America,tech_startup,0.3560810883571889,Medium,85.46,0.5
+A00440,450,team,North America,education,0.1887940595349294,Low,84.96,0.5
+A01189,120,team,Asia,education,0.7003231484455236,High,84.04,0.5
+A01436,300,team,Asia,real_estate,0.2799141802596775,Medium,83.97,0.5
+A00291,300,team,North America,ecommerce,0.2781962037832926,Medium,83.46,0.5
+A01475,450,team,Latin America,marketing_agency,0.1849978175745334,Low,83.25,0.5
+A01554,120,team,Asia,marketing_agency,0.6908307013139775,High,82.9,0.5
+A01163,300,team,North America,ecommerce,0.2760344503351408,Medium,82.81,0.5
+A01778,300,team,Asia,marketing_agency,0.2741039979690653,Medium,82.23,0.5
+A01494,300,team,North America,tech_startup,0.2694165167861541,Medium,80.82,0.5
+A00254,300,team,Asia,ecommerce,0.2686255929785506,Medium,80.59,0.5
+A01178,240,team,North America,real_estate,0.3341282245373298,Medium,80.19,0.5
+A01847,120,team,North America,marketing_agency,0.6646145111437495,High,79.75,0.5
+A01653,300,team,Asia,marketing_agency,0.2651034711500777,Medium,79.53,0.5
+A00288,300,team,Asia,tech_startup,0.2647296188883404,Medium,79.42,0.5
+A01962,450,team,Asia,real_estate,0.1754587993365099,Low,78.96,0.5
+A00463,450,team,North America,real_estate,0.1729570926137247,Low,77.83,0.5
+A00858,300,team,Europe,real_estate,0.2585237406055187,Medium,77.56,0.5
+A00095,240,team,Asia,ecommerce,0.3226982939003371,Medium,77.45,0.5
+A00405,300,team,Europe,media,0.2581699101899954,Medium,77.45,0.5
+A01078,180,team,North America,media,0.4287661667548226,Medium,77.18,0.5
+A01775,300,team,North America,ecommerce,0.2539167825659246,Medium,76.18,0.5
+A00296,240,team,Europe,marketing_agency,0.3166985508530028,Medium,76.01,0.5
+A00189,120,team,North America,marketing_agency,0.6302027179346135,High,75.62,0.5
+A00233,120,team,North America,marketing_agency,0.6278523570914467,High,75.34,0.5
+A01817,240,team,North America,ecommerce,0.3135867198319738,Medium,75.26,0.5
+A01010,450,team,Europe,media,0.1671686350688884,Low,75.23,0.5
+A01462,450,team,North America,marketing_agency,0.1665398824456478,Low,74.94,0.5
+A00210,240,team,Europe,marketing_agency,0.3107334931974534,Medium,74.58,0.5
+A00966,450,team,North America,real_estate,0.1648820825814619,Low,74.2,0.5
+A00870,240,team,Europe,education,0.3090891295394626,Medium,74.18,0.5
+A00581,300,team,Europe,media,0.2459968062399895,Low,73.8,0.5
+A01491,120,team,North America,tech_startup,0.6139144973148298,High,73.67,0.5
+A00027,300,team,North America,marketing_agency,0.2455506885217899,Low,73.67,0.5
+A01836,300,team,Europe,marketing_agency,0.2447784931265052,Low,73.43,0.5
+A00694,300,team,Europe,education,0.2442976937997893,Low,73.29,0.5
+A00134,240,team,Asia,real_estate,0.3049844793730202,Medium,73.2,0.5
+A01198,120,team,North America,marketing_agency,0.6084199490546719,High,73.01,0.5
+A00775,180,team,North America,ecommerce,0.4022418848059098,Medium,72.4,0.5
+A01037,180,team,North America,real_estate,0.3989731510747445,Medium,71.82,0.5
+A01365,120,team,Latin America,marketing_agency,0.5942459721379026,High,71.31,0.5
+A01298,240,team,North America,marketing_agency,0.2966784210082798,Medium,71.2,0.5
+A00842,300,team,North America,real_estate,0.2363099155983268,Low,70.89,0.5
+A01268,450,team,Europe,ecommerce,0.1568102407567012,Low,70.56,0.5
+A01600,150,team,North America,marketing_agency,0.4695739804383804,Medium,70.44,0.5
+A00945,240,team,Europe,real_estate,0.2932006634705427,Medium,70.37,0.5
+A00419,300,team,Asia,tech_startup,0.2335976077244578,Low,70.08,0.5
+A01657,180,team,Asia,ecommerce,0.3848724839392446,Medium,69.28,0.5
+A00344,240,team,North America,education,0.2880871843310704,Medium,69.14,0.5
+A01722,300,team,North America,tech_startup,0.2303814621150217,Low,69.11,0.5
+A00264,300,team,Latin America,media,0.2299350854189083,Low,68.98,0.5
+A01234,300,team,Europe,education,0.2291608293741316,Low,68.75,0.5
+A00362,450,team,Europe,ecommerce,0.1512402425376916,Low,68.06,0.5
+A01504,240,team,Europe,education,0.2830532364092423,Medium,67.93,0.5
+A01765,180,team,Asia,marketing_agency,0.3768759390984185,Medium,67.84,0.5
+A01366,180,team,North America,marketing_agency,0.3753156384752847,Medium,67.56,0.5
+A01404,240,team,North America,marketing_agency,0.2814935069489972,Medium,67.56,0.5
+A00559,300,team,Europe,tech_startup,0.2229710282665288,Low,66.89,0.5
+A00820,240,team,North America,education,0.2779406510370198,Medium,66.71,0.5
+A00862,240,team,Asia,real_estate,0.2756767819346076,Medium,66.16,0.5
+A00429,150,team,North America,education,0.4397749994417314,Medium,65.97,0.5
+A01317,240,team,North America,education,0.2744206068297443,Medium,65.86,0.5
+A01077,300,team,Europe,ecommerce,0.2181076691561878,Low,65.43,0.5
+A00206,240,team,North America,ecommerce,0.2678260600209249,Medium,64.28,0.5
+A01995,300,team,Asia,media,0.2140236296051831,Low,64.21,0.5
+A01947,240,team,North America,education,0.2673008202799403,Medium,64.15,0.5
+A01243,300,team,Europe,education,0.2133014411729211,Low,63.99,0.5
+A00340,300,team,North America,education,0.2129388986913197,Low,63.88,0.5
+A00132,450,team,North America,education,0.141160591360695,Low,63.52,0.5
+A00755,90,team,North America,marketing_agency,0.7022208096127681,High,63.2,0.5
+A00443,150,team,Europe,marketing_agency,0.4204844270296955,Medium,63.07,0.5
+A01118,300,team,Latin America,tech_startup,0.2098735594247669,Low,62.96,0.5
+A00821,150,team,Asia,ecommerce,0.4194859485425962,Medium,62.92,0.5
+A01747,450,team,North America,marketing_agency,0.1383085731242523,Low,62.24,0.5
+A01157,240,team,North America,media,0.2592968527912125,Medium,62.23,0.5
+A00063,300,team,North America,tech_startup,0.2072653622151463,Low,62.18,0.5
+A00286,300,team,Europe,marketing_agency,0.2068075943781812,Low,62.04,0.5
+A00266,240,team,Asia,tech_startup,0.2580330001066473,Medium,61.93,0.5
+A00049,300,team,North America,real_estate,0.2064496973800956,Low,61.93,0.5
+A01698,450,team,Asia,real_estate,0.1368856223733671,Low,61.6,0.5
+A00341,300,team,Europe,ecommerce,0.2052148529406998,Low,61.56,0.5
+A01713,150,team,North America,ecommerce,0.4091059736865737,Medium,61.37,0.5
+A00512,450,team,North America,media,0.1360352974191401,Low,61.22,0.5
+A01017,300,team,North America,ecommerce,0.2027368985294816,Low,60.82,0.5
+A01869,300,team,North America,education,0.2025758160186964,Low,60.77,0.5
+A01571,450,team,Asia,real_estate,0.1348200388246893,Low,60.67,0.5
+A00815,150,team,North America,ecommerce,0.403898391292199,Medium,60.58,0.5
+A01392,300,team,Europe,ecommerce,0.2017106470024864,Low,60.51,0.5
+A00507,150,team,Asia,marketing_agency,0.4008117576532624,Medium,60.12,0.5
+A01274,300,team,North America,ecommerce,0.2000216265377535,Low,60.01,0.5
+A00749,120,team,North America,marketing_agency,0.4990261921352483,Medium,59.88,0.5
+A01321,300,team,North America,education,0.1977257597322317,Low,59.32,0.5
+A00023,180,team,North America,education,0.3289226672159695,Medium,59.21,0.5
+A00982,240,team,Europe,ecommerce,0.246285142256116,Low,59.11,0.5
+A00088,150,team,Europe,real_estate,0.3927348391611253,Medium,58.91,0.5
+A00823,300,team,North America,ecommerce,0.1949807953794498,Low,58.49,0.5
+A00745,180,team,Asia,ecommerce,0.3245135445346413,Medium,58.41,0.5
+A01579,120,team,North America,marketing_agency,0.4857948630654376,Medium,58.3,0.5
+A00171,180,team,North America,marketing_agency,0.3234581272693752,Medium,58.22,0.5
+A01921,180,team,Europe,education,0.322914058357903,Medium,58.12,0.5
+A00281,240,team,Asia,tech_startup,0.2421851321014741,Low,58.12,0.5
+A00271,150,team,North America,ecommerce,0.3857491852427737,Medium,57.86,0.5
+A00660,300,team,Latin America,media,0.1921484720461928,Low,57.64,0.5
+A00561,150,team,Europe,ecommerce,0.3839402707171917,Medium,57.59,0.5
+A00464,300,team,Latin America,tech_startup,0.1919254127742739,Low,57.58,0.5
+A01470,240,team,North America,media,0.2384245427046092,Low,57.22,0.5
+A00504,240,team,Europe,ecommerce,0.2362259784554144,Low,56.69,0.5
+A01480,300,team,North America,media,0.1883349221720448,Low,56.5,0.5
+A01456,240,team,Asia,education,0.2342066636749326,Low,56.21,0.5
+A00136,450,team,North America,real_estate,0.1246914006032211,Low,56.11,0.5
+A00869,90,team,Asia,media,0.6225284209516211,High,56.03,0.5
+A01381,300,team,Europe,real_estate,0.1866377539623143,Low,55.99,0.5
+A00530,120,team,North America,real_estate,0.4655697873678975,Medium,55.87,0.5
+A00717,150,team,Europe,real_estate,0.3724490957398389,Medium,55.87,0.5
+A00104,180,team,Europe,real_estate,0.3103399498374832,Medium,55.86,0.5
+A00390,90,team,Asia,marketing_agency,0.6181108106281891,High,55.63,0.5
+A01789,240,team,North America,tech_startup,0.2313375332727579,Low,55.52,0.5
+A01974,180,team,Europe,education,0.307841702451906,Medium,55.41,0.5
+A01839,90,team,North America,real_estate,0.6147694031847657,High,55.33,0.5
+A00946,120,team,North America,marketing_agency,0.4609706317736004,Medium,55.32,0.5
+A01030,300,team,North America,marketing_agency,0.1843059017434555,Low,55.29,0.5
+A00628,240,team,North America,tech_startup,0.2294419919484491,Low,55.07,0.5
+A01186,90,team,North America,ecommerce,0.6117734530719356,High,55.06,0.5
+A00927,180,team,Asia,tech_startup,0.3056070469446728,Medium,55.01,0.5
+A00426,300,team,North America,education,0.1833800094251883,Low,55.01,0.5
+A00577,450,team,North America,marketing_agency,0.1222226940776965,Low,55.0,0.5
+A01878,150,team,Asia,tech_startup,0.3666055168016536,Medium,54.99,0.5
+A00480,180,team,North America,real_estate,0.3046057510485025,Medium,54.83,0.5
+A00742,300,team,Asia,media,0.1824300699074403,Low,54.73,0.5
+A00830,90,team,Asia,ecommerce,0.607034546911677,High,54.63,0.5
+A00387,240,team,Asia,education,0.2274570922525192,Low,54.59,0.5
+A00576,240,team,Europe,real_estate,0.2271945558774633,Low,54.53,0.5
+A00875,180,team,North America,tech_startup,0.30234712491997,Medium,54.42,0.5
+A01731,300,team,North America,ecommerce,0.1812065734960706,Low,54.36,0.5
+A01459,180,team,Asia,education,0.301445222117926,Medium,54.26,0.5
+A00357,300,team,North America,tech_startup,0.1807392259105216,Low,54.22,0.5
+A00947,450,team,Europe,ecommerce,0.1203953025045605,Low,54.18,0.5
+A00548,150,team,North America,media,0.361114188553894,Medium,54.17,0.5
+A00306,450,team,North America,ecommerce,0.1203614204813228,Low,54.16,0.5
+A01156,240,team,North America,media,0.2246936741600071,Low,53.93,0.5
+A00819,120,team,Asia,education,0.4492085242215552,Medium,53.91,0.5
+A01013,300,team,Latin America,ecommerce,0.1794545663281816,Low,53.84,0.5
+A00894,300,team,Asia,tech_startup,0.178843476779479,Low,53.65,0.5
+A00417,240,team,North America,tech_startup,0.2232375437096515,Low,53.58,0.5
+A01086,150,team,Asia,ecommerce,0.356454546087104,Medium,53.47,0.5
+A00128,240,team,Europe,media,0.2213102461169307,Low,53.11,0.5
+A01725,300,team,North America,ecommerce,0.1766643203490847,Low,53.0,0.5
+A01068,180,team,Europe,tech_startup,0.2937528780809696,Medium,52.88,0.5
+A00531,300,team,Latin America,education,0.176279787475978,Low,52.88,0.5
+A01510,90,team,North America,tech_startup,0.5860133528442013,High,52.74,0.5
+A01302,240,team,Asia,marketing_agency,0.2196817088969856,Low,52.72,0.5
+A00475,120,team,North America,ecommerce,0.4380342625055254,Medium,52.56,0.5
+A01728,240,team,North America,education,0.2187621703220516,Low,52.5,0.5
+A00252,240,team,Europe,real_estate,0.2182037810110619,Low,52.37,0.5
+A00665,300,team,North America,tech_startup,0.1745747789627253,Low,52.37,0.5
+A00444,180,team,Asia,tech_startup,0.2894688020777902,Medium,52.1,0.5
+A01449,450,team,Europe,tech_startup,0.1155737643689336,Low,52.01,0.5
+A01818,120,team,North America,marketing_agency,0.4326415402839922,Medium,51.92,0.5
+A00587,240,team,Europe,media,0.2160296895099361,Low,51.85,0.5
+A01606,240,team,North America,education,0.21508701645604,Low,51.62,0.5
+A01231,450,team,Europe,media,0.1145208603143884,Low,51.53,0.5
+A00783,180,team,Asia,tech_startup,0.2862186980794249,Medium,51.52,0.5
+A01099,150,team,Latin America,ecommerce,0.3430925572543894,Medium,51.46,0.5
+A00959,300,team,Europe,marketing_agency,0.1713105532916036,Low,51.39,0.5
+A00138,150,team,Europe,media,0.3416201965348634,Medium,51.24,0.5
+A00070,150,team,Asia,real_estate,0.3402948450885744,Medium,51.04,0.5
+A00622,150,team,Europe,tech_startup,0.3386386778819106,Medium,50.8,0.5
+A00181,180,team,North America,ecommerce,0.2815701922810613,Medium,50.68,0.5
+A00906,120,team,North America,marketing_agency,0.4220660501738495,Medium,50.65,0.5
+A00547,120,team,Asia,tech_startup,0.4219271744836341,Medium,50.63,0.5
+A00850,300,team,North America,tech_startup,0.1685900343424713,Low,50.58,0.5
+A00318,150,team,Europe,marketing_agency,0.3344483334988061,Medium,50.17,0.5
+A01329,180,team,Europe,tech_startup,0.2785766959682684,Medium,50.14,0.5
+A01781,180,team,Europe,ecommerce,0.2782760865622613,Medium,50.09,0.5
+A01379,240,team,North America,media,0.2086724543342675,Low,50.08,0.5
+A00364,300,team,North America,real_estate,0.1665825735847226,Low,49.97,0.5
+A01065,180,team,North America,education,0.2767602484306391,Medium,49.82,0.5
+A00100,180,team,Asia,education,0.2767212637215926,Medium,49.81,0.5
+A00030,180,team,Asia,ecommerce,0.2760959644115704,Medium,49.7,0.5
+A00835,240,team,Europe,media,0.2065042175181539,Low,49.56,0.5
+A01513,180,team,Europe,tech_startup,0.2740482396704558,Medium,49.33,0.5
+A01991,240,team,North America,marketing_agency,0.2052983245721963,Low,49.27,0.5
+A01906,180,team,North America,real_estate,0.2734861279315299,Medium,49.23,0.5
+A01286,150,team,Europe,ecommerce,0.326659296041833,Medium,49.0,0.5
+A00273,300,team,Latin America,marketing_agency,0.1631849219741513,Low,48.96,0.5
+A01368,450,team,Europe,marketing_agency,0.1081812476111953,Low,48.68,0.5
+A01428,150,team,North America,tech_startup,0.3225798343630324,Medium,48.39,0.5
+A01252,180,team,Asia,ecommerce,0.2684408291948981,Medium,48.32,0.5
+A01950,180,team,North America,ecommerce,0.2680220449609662,Medium,48.24,0.5
+A01893,240,team,North America,ecommerce,0.2007646985397688,Low,48.18,0.5
+A01023,180,team,Asia,ecommerce,0.2667148702103517,Medium,48.01,0.5
+A00958,240,team,North America,marketing_agency,0.1996933791342509,Low,47.93,0.5
+A01766,240,team,Europe,education,0.1993015280438674,Low,47.83,0.5
+A01523,150,team,North America,ecommerce,0.3166023355288017,Medium,47.49,0.5
+A00200,300,team,Europe,real_estate,0.1578377477254719,Low,47.35,0.5
+A00926,120,team,North America,media,0.3939418411885354,Medium,47.27,0.5
+A00434,120,team,North America,education,0.391847360155166,Medium,47.02,0.5
+A01661,150,team,Europe,media,0.3129327845118543,Medium,46.94,0.5
+A01908,240,team,Europe,media,0.1956016671102505,Low,46.94,0.5
+A01266,180,team,Europe,tech_startup,0.2606593595569581,Medium,46.92,0.5
+A00451,300,team,North America,media,0.1561124286603968,Low,46.83,0.5
+A01645,240,team,North America,marketing_agency,0.1950471195273088,Low,46.81,0.5
+A00474,180,team,Europe,ecommerce,0.2564752122315226,Medium,46.17,0.5
+A00397,180,team,Europe,ecommerce,0.2558404628399411,Medium,46.05,0.5
+A00489,150,team,Latin America,media,0.3051190510680703,Medium,45.77,0.5
+A01779,150,team,Europe,ecommerce,0.3044939365357886,Medium,45.67,0.5
+A00068,120,team,Asia,marketing_agency,0.3799188378235306,Medium,45.59,0.5
+A01044,120,team,Asia,education,0.3768509478317275,Medium,45.22,0.5
+A00989,240,team,North America,ecommerce,0.1878120776743845,Low,45.07,0.5
+A00074,180,team,North America,marketing_agency,0.250030283246799,Medium,45.01,0.5
+A01235,240,team,Asia,real_estate,0.1863340412190905,Low,44.72,0.5
+A01926,240,team,Europe,media,0.1862406975337703,Low,44.7,0.5
+A01618,180,team,Europe,media,0.2477322400870347,Low,44.59,0.5
+A00645,240,team,North America,real_estate,0.1856811958424514,Low,44.56,0.5
+A00801,150,team,North America,education,0.2954224491991646,Medium,44.31,0.5
+A01901,120,team,Europe,ecommerce,0.3682625151833559,Medium,44.19,0.5
+A01663,120,team,North America,tech_startup,0.367422111919118,Medium,44.09,0.5
+A01169,120,team,North America,ecommerce,0.3665665194387376,Medium,43.99,0.5
+A00061,300,team,Latin America,tech_startup,0.1465148145504948,Low,43.95,0.5
+A00484,90,team,Europe,real_estate,0.4874510120693038,Medium,43.87,0.5
+A00616,240,team,Europe,tech_startup,0.1824628578269304,Low,43.79,0.5
+A01326,150,team,Asia,ecommerce,0.2912942341720324,Medium,43.69,0.5
+A01595,150,team,Latin America,tech_startup,0.2904371596800972,Medium,43.57,0.5
+A00800,180,team,North America,tech_startup,0.2419276359145217,Low,43.55,0.5
+A00857,450,team,Europe,real_estate,0.0964038366748473,Low,43.38,0.5
+A01132,180,team,Asia,education,0.2402108254925326,Low,43.24,0.5
+A01229,120,team,North America,ecommerce,0.3601920225591943,Medium,43.22,0.5
+A01806,240,team,North America,marketing_agency,0.1794974246556638,Low,43.08,0.5
+A00432,120,team,Europe,ecommerce,0.3566532355271373,Medium,42.8,0.5
+A01486,90,team,North America,marketing_agency,0.4746495079328016,Medium,42.72,0.5
+A00765,120,team,North America,ecommerce,0.3558824145012915,Medium,42.71,0.5
+A00352,150,team,Asia,education,0.2844442434593969,Medium,42.67,0.5
+A00238,240,team,Europe,real_estate,0.1778111779679007,Low,42.67,0.5
+A01299,150,team,North America,tech_startup,0.283621227109711,Medium,42.54,0.5
+A00643,240,team,North America,tech_startup,0.1755838102516198,Low,42.14,0.5
+A00112,240,team,Latin America,tech_startup,0.1754447623652974,Low,42.11,0.5
+A01526,120,team,North America,media,0.3507768288049032,Medium,42.09,0.5
+A00825,120,team,North America,ecommerce,0.3507264717384788,Medium,42.09,0.5
+A01811,450,team,North America,tech_startup,0.0933446809976551,Low,42.01,0.5
+A01667,450,team,North America,media,0.0932667992312612,Low,41.97,0.5
+A00188,300,team,North America,real_estate,0.1395792318160329,Low,41.87,0.5
+A00611,120,team,Asia,real_estate,0.3488557083268173,Medium,41.86,0.5
+A01573,300,team,North America,education,0.1391004553258583,Low,41.73,0.5
+A00896,90,team,North America,tech_startup,0.4627822154058912,Medium,41.65,0.5
+A00144,90,team,Asia,real_estate,0.4624676778513359,Medium,41.62,0.5
+A01328,240,team,North America,tech_startup,0.172919958844656,Low,41.5,0.5
+A01960,120,team,North America,media,0.3448936748562453,Medium,41.39,0.5
+A01202,180,team,North America,real_estate,0.2297973242064504,Low,41.36,0.5
+A00609,180,team,Latin America,marketing_agency,0.2290481099386483,Low,41.23,0.5
+A00562,180,team,North America,education,0.2287341045043394,Low,41.17,0.5
+A00649,120,team,North America,education,0.3427678640887365,Medium,41.13,0.5
+A01311,300,team,Europe,education,0.1366732064015979,Low,41.0,0.5
+A01296,120,team,North America,tech_startup,0.3413486887829745,Medium,40.96,0.5
+A00656,150,team,North America,tech_startup,0.2717119454562123,Medium,40.76,0.5
+A00099,120,team,North America,media,0.3384702311124838,Medium,40.62,0.5
+A01166,150,team,Europe,real_estate,0.2692262189396852,Medium,40.38,0.5
+A01464,240,team,North America,tech_startup,0.1680351269152913,Low,40.33,0.5
+A00410,150,team,Latin America,ecommerce,0.2679640271135649,Medium,40.19,0.5
+A01757,150,team,North America,education,0.2669998809819489,Medium,40.05,0.5
+A00632,180,team,North America,marketing_agency,0.2202313994188536,Low,39.64,0.5
+A00552,120,team,North America,tech_startup,0.3299342854997505,Medium,39.59,0.5
+A01976,60,team,North America,marketing_agency,0.6581711574904325,High,39.49,0.5
+A00445,120,team,North America,education,0.3276271146858061,Medium,39.32,0.5
+A01710,150,team,North America,real_estate,0.2616214119189245,Medium,39.24,0.5
+A00013,150,team,Latin America,ecommerce,0.2613979251143249,Medium,39.21,0.5
+A01562,90,team,North America,real_estate,0.4340543972985013,Medium,39.06,0.5
+A01558,60,team,Europe,marketing_agency,0.6469634078864286,High,38.82,0.5
+A01841,120,team,Europe,education,0.3234168677075479,Medium,38.81,0.5
+A00289,150,team,Europe,media,0.2585208575681303,Medium,38.78,0.5
+A00523,180,team,Asia,marketing_agency,0.2147712312192137,Low,38.66,0.5
+A00363,180,team,Europe,media,0.2146940090118855,Low,38.64,0.5
+A00256,120,team,Latin America,marketing_agency,0.3218189962439882,Medium,38.62,0.5
+A01685,450,team,North America,ecommerce,0.084548632043717,Low,38.05,0.5
+A00768,48,pro,Asia,media,0.7904904890609744,Critical,37.94,0.5
+A00508,48,pro,North America,real_estate,0.7900265343892489,Critical,37.92,0.5
+A01011,180,team,Europe,marketing_agency,0.2101491789567701,Low,37.83,0.5
+A01633,120,team,Europe,tech_startup,0.3148049508518452,Medium,37.78,0.5
+A01295,180,team,Europe,ecommerce,0.2086250092589344,Low,37.55,0.5
+A00607,48,pro,North America,tech_startup,0.7799739738599503,Critical,37.44,0.5
+A00375,120,team,North America,education,0.3098019227621821,Medium,37.18,0.5
+A01536,120,team,North America,marketing_agency,0.308561258127766,Medium,37.03,0.5
+A00368,180,team,Europe,media,0.2055214256944008,Low,36.99,0.5
+A00675,90,team,Asia,marketing_agency,0.4103338201892726,Medium,36.93,0.5
+A01776,48,pro,Latin America,ecommerce,0.7639192178380394,Critical,36.67,0.5
+A01278,120,team,Latin America,tech_startup,0.3047590906438578,Medium,36.57,0.5
+A01452,90,team,North America,ecommerce,0.403906383985086,Medium,36.35,0.5
+A01167,450,team,North America,media,0.0805784747464697,Low,36.26,0.5
+A00629,120,team,Europe,education,0.3014874650094656,Medium,36.18,0.5
+A01260,60,team,Asia,tech_startup,0.6018788019766539,High,36.11,0.5
+A01924,48,pro,Latin America,real_estate,0.7499642475620932,High,36.0,0.5
+A00897,60,team,Europe,marketing_agency,0.6000803968685356,High,36.0,0.5
+A01561,240,team,Europe,ecommerce,0.1497657649988059,Low,35.94,0.5
+A00234,240,team,North America,education,0.1496084592552233,Low,35.91,0.5
+A00798,300,team,North America,media,0.1194861813597059,Low,35.85,0.5
+A00661,48,pro,Asia,ecommerce,0.7433729841795578,High,35.68,0.5
+A00716,180,team,Latin America,marketing_agency,0.1976614726820742,Low,35.58,0.5
+A01140,150,team,Latin America,media,0.2369918754503763,Low,35.55,0.5
+A01619,90,team,Asia,tech_startup,0.394327645517302,Medium,35.49,0.5
+A00626,180,team,Europe,media,0.1960509378147803,Low,35.29,0.5
+A00588,120,team,Europe,ecommerce,0.2936707163989604,Medium,35.24,0.5
+A01918,240,team,Asia,marketing_agency,0.1459100127972716,Low,35.02,0.5
+A01344,120,team,Europe,media,0.2908052514571888,Medium,34.9,0.5
+A01453,120,team,North America,marketing_agency,0.2899678481094044,Medium,34.8,0.5
+A00770,180,team,North America,ecommerce,0.1933203267967987,Low,34.8,0.5
+A00058,180,team,Asia,real_estate,0.1925736051013656,Low,34.66,0.5
+A01287,90,team,Europe,tech_startup,0.3844232669974736,Medium,34.6,0.5
+A00454,48,pro,North America,ecommerce,0.718320991598302,High,34.48,0.5
+A00534,120,team,Asia,education,0.2864053994801197,Medium,34.37,0.5
+A01706,120,team,Latin America,education,0.2858250099149773,Medium,34.3,0.5
+A00701,150,team,Latin America,tech_startup,0.228226831500742,Low,34.23,0.5
+A01220,120,team,North America,media,0.2841076167502558,Medium,34.09,0.5
+A00339,120,team,Europe,media,0.2816681731752584,Medium,33.8,0.5
+A01112,90,team,North America,tech_startup,0.3740317010274641,Medium,33.66,0.5
+A01655,48,pro,Europe,marketing_agency,0.6970975209470394,High,33.46,0.5
+A00067,240,team,Europe,media,0.1394109919207834,Low,33.46,0.5
+A00618,90,team,North America,real_estate,0.3715503088309825,Medium,33.44,0.5
+A00327,120,team,Asia,tech_startup,0.2784790758905652,Medium,33.42,0.5
+A00446,48,pro,Europe,tech_startup,0.6941749690822603,High,33.32,0.5
+A00471,120,team,Europe,tech_startup,0.2775171933219196,Medium,33.3,0.5
+A01904,180,team,North America,marketing_agency,0.1845680006326682,Low,33.22,0.5
+A00082,180,team,Europe,media,0.1845222236874638,Low,33.21,0.5
+A00202,120,team,Latin America,media,0.2765524636844294,Medium,33.19,0.5
+A00974,90,team,Asia,education,0.3685752335819997,Medium,33.17,0.5
+A01899,90,team,North America,tech_startup,0.368171401936042,Medium,33.14,0.5
+A01937,48,pro,North America,real_estate,0.6857270504881607,High,32.91,0.5
+A01337,180,team,North America,education,0.1817360563186987,Low,32.71,0.5
+A01759,90,team,North America,real_estate,0.3588426962462142,Medium,32.3,0.5
+A00997,240,team,North America,tech_startup,0.1345536740166669,Low,32.29,0.5
+A00137,48,pro,North America,marketing_agency,0.6726034052848352,High,32.28,0.5
+A01463,48,pro,North America,education,0.6699213103041766,High,32.16,0.5
+A00308,48,pro,Asia,marketing_agency,0.663055939257157,High,31.83,0.5
+A01983,90,team,Asia,ecommerce,0.3493614704991923,Medium,31.44,0.5
+A00313,240,team,Asia,real_estate,0.1305532932898921,Low,31.33,0.5
+A01362,48,pro,North America,ecommerce,0.6510689160409773,High,31.25,0.5
+A00738,48,pro,Asia,tech_startup,0.6488280905305105,High,31.14,0.5
+A00036,180,team,Europe,marketing_agency,0.1728818808932037,Low,31.12,0.5
+A01738,180,team,Asia,ecommerce,0.1727467531626818,Low,31.09,0.5
+A01568,48,pro,North America,real_estate,0.6430275080689168,High,30.87,0.5
+A00732,90,team,Asia,tech_startup,0.3428686700464807,Medium,30.86,0.5
+A01888,180,team,Latin America,media,0.1711000085882856,Low,30.8,0.5
+A01503,90,team,Asia,marketing_agency,0.3414816722824785,Medium,30.73,0.5
+A00080,48,pro,North America,ecommerce,0.6389161578826478,High,30.67,0.5
+A00935,48,pro,Asia,media,0.6361116891473565,High,30.53,0.5
+A01307,90,team,Europe,ecommerce,0.3388507286003689,Medium,30.5,0.5
+A00103,180,team,North America,ecommerce,0.1694495062881364,Low,30.5,0.5
+A01208,48,pro,Asia,education,0.6351560112240803,High,30.49,0.5
+A00556,48,pro,North America,real_estate,0.6330274549183732,High,30.39,0.5
+A00270,90,team,North America,media,0.334207899605599,Medium,30.08,0.5
+A00670,48,pro,North America,ecommerce,0.6242196494596787,High,29.96,0.5
+A00108,90,team,North America,ecommerce,0.3328987146982984,Medium,29.96,0.5
+A00048,90,team,North America,marketing_agency,0.3309335606695783,Medium,29.78,0.5
+A01607,90,team,Latin America,ecommerce,0.3286296466950176,Medium,29.58,0.5
+A01535,120,team,Europe,tech_startup,0.2462052834493671,Low,29.54,0.5
+A01634,180,team,North America,ecommerce,0.1640841734296191,Low,29.54,0.5
+A01417,90,team,Asia,media,0.3275728490457592,Medium,29.48,0.5
+A01331,48,pro,North America,marketing_agency,0.6084703423324569,High,29.21,0.5
+A01546,90,team,North America,ecommerce,0.3217403269750893,Medium,28.96,0.5
+A00724,60,team,North America,real_estate,0.4791767594382982,Medium,28.75,0.5
+A00092,180,team,Latin America,marketing_agency,0.1597276056080102,Low,28.75,0.5
+A01313,90,team,North America,education,0.3182613253240747,Medium,28.64,0.5
+A01740,120,team,Asia,media,0.2382670867901514,Low,28.59,0.5
+A00350,48,pro,Europe,marketing_agency,0.5928546945607812,High,28.46,0.5
+A01569,48,pro,Europe,real_estate,0.5913260898988584,High,28.38,0.5
+A00980,90,team,Europe,marketing_agency,0.315278157360632,Medium,28.38,0.5
+A00336,48,pro,Asia,education,0.5868084291985838,High,28.17,0.5
+A00376,48,pro,North America,education,0.5855185357508104,High,28.1,0.5
+A00127,120,team,Latin America,ecommerce,0.2328479329378104,Low,27.94,0.5
+A00003,90,team,North America,media,0.3099125915676916,Medium,27.89,0.5
+A00704,60,team,Europe,ecommerce,0.4631266318476995,Medium,27.79,0.5
+A00131,90,team,Latin America,marketing_agency,0.308239757370841,Medium,27.74,0.5
+A01473,180,team,Asia,education,0.1537263253400076,Low,27.67,0.5
+A00834,48,pro,Asia,ecommerce,0.5761255949188966,High,27.65,0.5
+A00123,180,team,Europe,tech_startup,0.1533987397929108,Low,27.61,0.5
+A01180,90,team,North America,tech_startup,0.3064026654165371,Medium,27.58,0.5
+A00977,300,team,Europe,education,0.0917128825832016,Low,27.51,0.5
+A00492,48,pro,North America,real_estate,0.5727233574373158,High,27.49,0.5
+A00361,240,team,Europe,ecommerce,0.1142257751381212,Low,27.41,0.5
+A00143,240,team,Europe,marketing_agency,0.1141360827648405,Low,27.39,0.5
+A00421,48,pro,Europe,tech_startup,0.570306592554064,High,27.37,0.5
+A00133,48,pro,Asia,tech_startup,0.5701264595373634,High,27.37,0.5
+A01451,48,pro,North America,ecommerce,0.567215883637832,High,27.23,0.5
+A01975,90,team,North America,education,0.2996333120125471,Medium,26.97,0.5
+A00718,36,pro,Asia,marketing_agency,0.7477487508338936,High,26.92,0.5
+A01159,180,team,North America,tech_startup,0.1493059589127729,Low,26.88,0.5
+A00051,90,team,North America,ecommerce,0.2983923688391863,Medium,26.86,0.5
+A01952,48,pro,Asia,ecommerce,0.5574123688745867,High,26.76,0.5
+A01705,36,pro,Asia,tech_startup,0.7352695866936456,High,26.47,0.5
+A00490,90,team,Europe,education,0.2935372701362642,Medium,26.42,0.5
+A01113,48,pro,North America,media,0.5491633795112528,High,26.36,0.5
+A00634,36,pro,Asia,ecommerce,0.7315298628729727,High,26.34,0.5
+A01668,48,pro,North America,ecommerce,0.5488257252070458,High,26.34,0.5
+A00125,60,team,Latin America,ecommerce,0.4378742699404858,Medium,26.27,0.5
+A00035,90,team,North America,media,0.2915410989146129,Medium,26.24,0.5
+A01531,36,pro,North America,ecommerce,0.7282091803483927,High,26.22,0.5
+A00258,36,pro,North America,tech_startup,0.72744836182319,High,26.19,0.5
+A00285,240,team,Europe,education,0.1091171031081806,Low,26.19,0.5
+A00887,180,team,North America,ecommerce,0.1453826393811491,Low,26.17,0.5
+A00848,48,pro,North America,media,0.5445973019558815,High,26.14,0.5
+A01773,36,pro,North America,ecommerce,0.7248489360425593,High,26.09,0.5
+A00212,48,pro,North America,marketing_agency,0.542566321329307,High,26.04,0.5
+A00524,36,pro,North America,education,0.7208060540688999,High,25.95,0.5
+A01250,36,pro,Asia,marketing_agency,0.7167760092142389,High,25.8,0.5
+A00595,48,pro,North America,media,0.5364545563081021,High,25.75,0.5
+A00563,120,team,North America,ecommerce,0.2137785744333482,Low,25.65,0.5
+A01197,60,team,Asia,marketing_agency,0.427340205596102,Medium,25.64,0.5
+A00251,36,pro,Asia,real_estate,0.7109089770797955,High,25.59,0.5
+A01515,90,team,Asia,education,0.2833906115568531,Medium,25.51,0.5
+A01291,48,pro,North America,ecommerce,0.5309564857624035,High,25.49,0.5
+A01785,36,pro,Europe,real_estate,0.7067427575757123,High,25.44,0.5
+A00117,240,team,North America,marketing_agency,0.1059011227577113,Low,25.42,0.5
+A00871,36,pro,North America,real_estate,0.7041178048157568,High,25.35,0.5
+A00398,90,team,Europe,media,0.2816258223058727,Medium,25.35,0.5
+A00096,36,pro,Europe,media,0.7035445198147203,High,25.33,0.5
+A00179,60,team,North America,marketing_agency,0.4219468206562069,Medium,25.32,0.5
+A00810,36,pro,Europe,tech_startup,0.7011953224472335,High,25.24,0.5
+A00032,36,pro,Asia,education,0.6995046957076165,High,25.18,0.5
+A01203,36,pro,North America,tech_startup,0.6978580001948257,High,25.12,0.5
+A00477,48,pro,Latin America,ecommerce,0.5229502258765134,High,25.1,0.5
+A00711,90,team,Latin America,media,0.2777130446145796,Medium,24.99,0.5
+A00511,36,pro,Europe,real_estate,0.6925553327902421,High,24.93,0.5
+A01640,60,team,Asia,ecommerce,0.4137534710977181,Medium,24.83,0.5
+A00741,36,pro,North America,marketing_agency,0.6866820467869293,High,24.72,0.5
+A00600,36,pro,Europe,ecommerce,0.6843727924044455,High,24.64,0.5
+A01175,90,team,North America,education,0.2735282201702194,Medium,24.62,0.5
+A01884,36,pro,Asia,education,0.6819353918977461,High,24.55,0.5
+A01639,36,pro,Asia,ecommerce,0.6811257403156474,High,24.52,0.5
+A01258,36,pro,North America,ecommerce,0.6807166714638123,High,24.51,0.5
+A01560,60,team,Asia,real_estate,0.408302307644265,Medium,24.5,0.5
+A00276,36,pro,Asia,tech_startup,0.6791484186444505,High,24.45,0.5
+A00822,60,team,North America,ecommerce,0.4056585742493515,Medium,24.34,0.5
+A01627,48,pro,Asia,tech_startup,0.5062988802650935,High,24.3,0.5
+A01852,60,team,Europe,ecommerce,0.4032320792885041,Medium,24.19,0.5
+A00367,240,team,Latin America,ecommerce,0.1004450811994542,Low,24.11,0.5
+A01540,60,team,North America,media,0.3990435492903947,Medium,23.94,0.5
+A00053,48,pro,Europe,ecommerce,0.4984283710018755,Medium,23.92,0.5
+A00236,48,pro,Europe,real_estate,0.497208512009236,Medium,23.87,0.5
+A00900,36,pro,North America,real_estate,0.6625948609340384,High,23.85,0.5
+A01651,120,team,North America,real_estate,0.1984894784947742,Low,23.82,0.5
+A00050,60,team,Asia,tech_startup,0.3962463811530543,Medium,23.77,0.5
+A00412,36,pro,North America,media,0.6536270777923076,High,23.53,0.5
+A00746,60,team,Asia,marketing_agency,0.390133930978362,Medium,23.41,0.5
+A00105,48,pro,Europe,marketing_agency,0.4866530584935574,Medium,23.36,0.5
+A00666,36,pro,North America,tech_startup,0.6470957391264824,High,23.3,0.5
+A00635,60,team,Asia,ecommerce,0.3869593477151612,Medium,23.22,0.5
+A00938,60,team,Asia,tech_startup,0.3855797449654459,Medium,23.13,0.5
+A00566,48,pro,Asia,real_estate,0.4816269640788355,Medium,23.12,0.5
+A00929,48,pro,Latin America,real_estate,0.4815247122474558,Medium,23.11,0.5
+A00527,60,team,Asia,marketing_agency,0.384631684284083,Medium,23.08,0.5
+A00493,48,pro,North America,ecommerce,0.4802197009120776,Medium,23.05,0.5
+A01842,36,pro,Europe,marketing_agency,0.6391195403227057,High,23.01,0.5
+A00999,36,pro,Europe,ecommerce,0.635752206071116,High,22.89,0.5
+A00771,48,pro,North America,tech_startup,0.4758787547746924,Medium,22.84,0.5
+A00962,48,pro,Latin America,real_estate,0.4739766775398005,Medium,22.75,0.5
+A01820,48,pro,Asia,ecommerce,0.4738862609139657,Medium,22.75,0.5
+A01760,48,pro,Europe,education,0.4701275262243864,Medium,22.57,0.5
+A01006,90,team,Europe,marketing_agency,0.249688562824386,Low,22.47,0.5
+A01204,36,pro,Asia,education,0.622655757591776,High,22.42,0.5
+A01022,48,pro,North America,ecommerce,0.467106611289437,Medium,22.42,0.5
+A00272,36,pro,Europe,education,0.6225401993730647,High,22.41,0.5
+A00046,36,pro,Latin America,ecommerce,0.6201213233930891,High,22.32,0.5
+A01054,60,team,Europe,marketing_agency,0.3715090213542222,Medium,22.29,0.5
+A00709,48,pro,North America,marketing_agency,0.4633581016766184,Medium,22.24,0.5
+A01194,36,pro,North America,tech_startup,0.6175650268314071,High,22.23,0.5
+A00113,36,pro,Asia,ecommerce,0.6127578680063237,High,22.06,0.5
+A00590,36,pro,Europe,ecommerce,0.6095278032493752,High,21.94,0.5
+A00985,36,pro,North America,ecommerce,0.5991130987142242,High,21.57,0.5
+A00915,48,pro,Europe,education,0.4487050289556628,Medium,21.54,0.5
+A00620,36,pro,North America,media,0.5965988723892788,High,21.48,0.5
+A01032,60,team,Europe,media,0.3580589259825792,Medium,21.48,0.5
+A01548,36,pro,Europe,ecommerce,0.5947990758674712,High,21.41,0.5
+A00072,48,pro,Europe,ecommerce,0.4454413323768371,Medium,21.38,0.5
+A01200,48,pro,North America,media,0.4452194511542991,Medium,21.37,0.5
+A01587,60,team,North America,ecommerce,0.3560638891788674,Medium,21.36,0.5
+A01465,36,pro,North America,ecommerce,0.5929539153476653,High,21.35,0.5
+A00967,36,pro,North America,marketing_agency,0.5919788342044394,High,21.31,0.5
+A01338,90,team,Asia,media,0.2357523859810356,Low,21.22,0.5
+A00659,36,pro,Asia,ecommerce,0.5887828353548836,High,21.2,0.5
+A01879,48,pro,Europe,ecommerce,0.4417644042631764,Medium,21.2,0.5
+A01756,90,team,Latin America,tech_startup,0.2350492362314632,Low,21.15,0.5
+A01361,60,team,North America,ecommerce,0.351928943605075,Medium,21.12,0.5
+A01576,60,team,Europe,education,0.3506500079597144,Medium,21.04,0.5
+A01347,90,team,North America,education,0.2325691187167688,Low,20.93,0.5
+A01149,36,pro,North America,marketing_agency,0.5812361233234771,High,20.92,0.5
+A00740,60,team,North America,tech_startup,0.3468042213921677,Medium,20.81,0.5
+A01333,48,pro,North America,education,0.4325032888606053,Medium,20.76,0.5
+A01327,36,pro,Europe,education,0.5737937128293331,High,20.66,0.5
+A00248,48,pro,Asia,tech_startup,0.4276663269822208,Medium,20.53,0.5
+A01014,48,pro,Asia,real_estate,0.4275318671114909,Medium,20.52,0.5
+A00965,60,team,North America,real_estate,0.3399203336216265,Medium,20.4,0.5
+A00852,60,team,Asia,tech_startup,0.3398268275927342,Medium,20.39,0.5
+A01128,36,pro,North America,tech_startup,0.5654517563934398,High,20.36,0.5
+A01360,48,pro,North America,tech_startup,0.4220405861216768,Medium,20.26,0.5
+A00279,48,pro,Europe,education,0.4219295295351759,Medium,20.25,0.5
+A00126,60,team,North America,education,0.3365125707373029,Medium,20.19,0.5
+A01601,60,team,North America,tech_startup,0.3362601766862531,Medium,20.18,0.5
+A01168,60,team,North America,media,0.3350008056814364,Medium,20.1,0.5
+A00951,36,pro,Asia,tech_startup,0.5566579525504869,High,20.04,0.5
+A01678,48,pro,North America,tech_startup,0.4160093924235013,Medium,19.97,0.5
+A00342,60,team,Asia,ecommerce,0.3321914789295668,Medium,19.93,0.5
+A00355,48,pro,Europe,ecommerce,0.4149116631849681,Medium,19.92,0.5
+A00494,48,pro,North America,education,0.4142194775606662,Medium,19.88,0.5
+A01551,48,pro,Latin America,marketing_agency,0.4141200127605216,Medium,19.88,0.5
+A01907,48,pro,Asia,real_estate,0.4128568771253483,Medium,19.82,0.5
+A00223,48,pro,Asia,marketing_agency,0.4123805273056642,Medium,19.79,0.5
+A01793,48,pro,Europe,marketing_agency,0.4118704415476432,Medium,19.77,0.5
+A00182,60,team,North America,tech_startup,0.3289027016390641,Medium,19.73,0.5
+A00282,48,pro,North America,real_estate,0.40919894125453,Medium,19.64,0.5
+A00767,60,team,North America,marketing_agency,0.3273036736558793,Medium,19.64,0.5
+A00165,48,pro,Europe,marketing_agency,0.4088142476721092,Medium,19.62,0.5
+A00054,36,pro,Asia,marketing_agency,0.5447796376422106,High,19.61,0.5
+A01581,48,pro,Europe,education,0.4074334618873317,Medium,19.56,0.5
+A01264,48,pro,North America,ecommerce,0.4067120026879482,Medium,19.52,0.5
+A00268,48,pro,North America,marketing_agency,0.4063687024807446,Medium,19.51,0.5
+A00448,36,pro,North America,education,0.537916155414336,High,19.36,0.5
+A01644,36,pro,North America,tech_startup,0.5377023811010804,High,19.36,0.5
+A01890,48,pro,Europe,education,0.4032591016154532,Medium,19.36,0.5
+A00697,48,pro,Latin America,marketing_agency,0.4028348296969513,Medium,19.34,0.5
+A01566,48,pro,North America,tech_startup,0.4021428600117394,Medium,19.3,0.5
+A01304,48,pro,North America,media,0.4019248302196779,Medium,19.29,0.5
+A01048,60,team,Asia,media,0.3213400283565376,Medium,19.28,0.5
+A01863,48,pro,Europe,ecommerce,0.4001620115809738,Medium,19.21,0.5
+A00170,36,pro,Latin America,marketing_agency,0.5332302393627465,High,19.2,0.5
+A00730,48,pro,North America,tech_startup,0.3995920408992579,Medium,19.18,0.5
+A01942,36,pro,North America,real_estate,0.5324676708331325,High,19.17,0.5
+A00154,60,team,Asia,ecommerce,0.3192662378108084,Medium,19.16,0.5
+A01559,60,team,North America,ecommerce,0.3179884888143604,Medium,19.08,0.5
+A00644,48,pro,North America,education,0.3954893049576225,Medium,18.98,0.5
+A01669,48,pro,North America,ecommerce,0.3952889823786014,Medium,18.97,0.5
+A00107,48,pro,North America,real_estate,0.394764973266342,Medium,18.95,0.5
+A01481,36,pro,North America,tech_startup,0.5245123478295154,High,18.88,0.5
+A01445,48,pro,Asia,ecommerce,0.3932767436804652,Medium,18.88,0.5
+A01898,60,team,North America,ecommerce,0.3135867294283057,Medium,18.82,0.5
+A01367,36,pro,Asia,education,0.5225177208862458,High,18.81,0.5
+A00847,48,pro,North America,tech_startup,0.3918904246297399,Medium,18.81,0.5
+A01936,48,pro,Asia,ecommerce,0.3914751433840219,Medium,18.79,0.5
+A01923,36,pro,North America,tech_startup,0.5216236863601919,High,18.78,0.5
+A01743,48,pro,North America,education,0.3911391810486976,Medium,18.77,0.5
+A01472,60,team,Europe,education,0.311442423206927,Medium,18.69,0.5
+A00565,48,pro,North America,education,0.3886619964427397,Medium,18.66,0.5
+A01490,48,pro,Asia,marketing_agency,0.3882349304731023,Medium,18.64,0.5
+A00162,36,pro,Europe,tech_startup,0.515101580723541,High,18.54,0.5
+A00780,48,pro,North America,ecommerce,0.3862145883863849,Medium,18.54,0.5
+A00019,36,pro,Asia,tech_startup,0.5143509213900839,High,18.52,0.5
+A01350,24,pro,North America,education,0.7690005395057539,Critical,18.46,0.5
+A00808,48,pro,Europe,marketing_agency,0.3832638457007616,Medium,18.4,0.5
+A00184,90,team,North America,education,0.203614660105822,Low,18.33,0.5
+A00944,48,pro,Europe,media,0.3808860186828063,Medium,18.28,0.5
+A01031,36,pro,Europe,education,0.5066738661803658,High,18.24,0.5
+A00684,36,pro,Latin America,tech_startup,0.5042732475373788,High,18.15,0.5
+A00083,60,team,North America,marketing_agency,0.3019709666480494,Medium,18.12,0.5
+A00995,48,pro,North America,real_estate,0.3767029388223097,Medium,18.08,0.5
+A01632,48,pro,North America,tech_startup,0.3762385132349291,Medium,18.06,0.5
+A01427,48,pro,Asia,marketing_agency,0.3732805530585485,Medium,17.92,0.5
+A01877,48,pro,North America,tech_startup,0.372047895133598,Medium,17.86,0.5
+A01608,48,pro,Asia,real_estate,0.3719169546485858,Medium,17.85,0.5
+A00841,36,pro,Europe,marketing_agency,0.49528529769363,Medium,17.83,0.5
+A00525,48,pro,Asia,real_estate,0.3697796443640865,Medium,17.75,0.5
+A00002,36,pro,North America,ecommerce,0.4915078276040588,Medium,17.69,0.5
+A00748,60,team,North America,tech_startup,0.2947796527300058,Medium,17.69,0.5
+A00380,60,team,North America,tech_startup,0.294754270214236,Medium,17.69,0.5
+A01826,48,pro,North America,education,0.3673471163157411,Medium,17.63,0.5
+A00160,48,pro,North America,marketing_agency,0.3672730791928303,Medium,17.63,0.5
+A00779,60,team,North America,ecommerce,0.2938714227541382,Medium,17.63,0.5
+A01831,36,pro,Europe,education,0.4883674101753581,Medium,17.58,0.5
+A01285,60,team,Europe,ecommerce,0.292031959402328,Medium,17.52,0.5
+A01677,48,pro,Latin America,tech_startup,0.3626901790138377,Medium,17.41,0.5
+A00954,48,pro,North America,real_estate,0.3620479617523346,Medium,17.38,0.5
+A00328,48,pro,North America,tech_startup,0.3597985216789354,Medium,17.27,0.5
+A00578,24,pro,Europe,marketing_agency,0.7192365497002746,High,17.26,0.5
+A00664,36,pro,Asia,ecommerce,0.4793397344659847,Medium,17.26,0.5
+A01373,90,team,North America,tech_startup,0.1916301257787875,Low,17.25,0.5
+A00994,36,pro,North America,media,0.4779820573183382,Medium,17.21,0.5
+A00007,48,pro,North America,media,0.3574892317066484,Medium,17.16,0.5
+A01589,48,pro,Latin America,real_estate,0.3572577417411936,Medium,17.15,0.5
+A01487,48,pro,North America,marketing_agency,0.3556907725179893,Medium,17.07,0.5
+A01045,48,pro,North America,tech_startup,0.355579092809997,Medium,17.07,0.5
+A01855,24,pro,North America,ecommerce,0.7106592744708606,High,17.06,0.5
+A01254,24,pro,North America,real_estate,0.7089931034067419,High,17.02,0.5
+A01123,36,pro,North America,real_estate,0.4726795166344107,Medium,17.02,0.5
+A01497,48,pro,Europe,ecommerce,0.3532669640596758,Medium,16.96,0.5
+A01859,24,pro,North America,ecommerce,0.7064273073532572,High,16.95,0.5
+A00253,24,pro,North America,education,0.7060156851726881,High,16.94,0.5
+A01390,48,pro,North America,media,0.3526160006237863,Medium,16.93,0.5
+A01438,180,team,North America,media,0.0935153616896115,Low,16.83,0.5
+A01276,48,pro,Europe,real_estate,0.3503528901577978,Medium,16.82,0.5
+A00090,36,pro,Latin America,real_estate,0.4664822510450362,Medium,16.79,0.5
+A00420,48,pro,North America,marketing_agency,0.3498158950846304,Medium,16.79,0.5
+A01824,36,pro,North America,education,0.4661799408350766,Medium,16.78,0.5
+A00993,48,pro,Latin America,marketing_agency,0.3492866192920608,Medium,16.77,0.5
+A01610,24,pro,North America,ecommerce,0.6980367648391901,High,16.75,0.5
+A00371,48,pro,Europe,ecommerce,0.348899472981192,Medium,16.75,0.5
+A00298,36,pro,North America,media,0.4643385463405997,Medium,16.72,0.5
+A01251,48,pro,Asia,education,0.3481756252074162,Medium,16.71,0.5
+A01702,48,pro,Asia,media,0.3478432746017048,Medium,16.7,0.5
+A00537,48,pro,Europe,tech_startup,0.3477311583912985,Medium,16.69,0.5
+A01911,48,pro,North America,marketing_agency,0.3474718868525803,Medium,16.68,0.5
+A01686,36,pro,Europe,ecommerce,0.4627738605670878,Medium,16.66,0.5
+A01662,24,pro,Asia,marketing_agency,0.6934829968332202,High,16.64,0.5
+A00987,36,pro,Europe,ecommerce,0.4615247043052957,Medium,16.61,0.5
+A01987,48,pro,Europe,ecommerce,0.3450491398665058,Medium,16.56,0.5
+A01357,24,pro,Latin America,real_estate,0.6873806551670675,High,16.5,0.5
+A00148,36,pro,North America,ecommerce,0.4582939698745643,Medium,16.5,0.5
+A00415,36,pro,North America,marketing_agency,0.4568280616535241,Medium,16.45,0.5
+A01143,48,pro,Europe,tech_startup,0.3412789222997891,Medium,16.38,0.5
+A01422,48,pro,Europe,media,0.3410967705018982,Medium,16.37,0.5
+A01443,48,pro,Europe,tech_startup,0.3394088557803625,Medium,16.29,0.5
+A01958,48,pro,North America,ecommerce,0.3393811597174574,Medium,16.29,0.5
+A01741,48,pro,Latin America,marketing_agency,0.3393336424822635,Medium,16.29,0.5
+A00295,48,pro,Asia,ecommerce,0.3389371234613504,Medium,16.27,0.5
+A01625,60,team,North America,ecommerce,0.2708049213792884,Medium,16.25,0.5
+A00839,48,pro,North America,education,0.3381997762996832,Medium,16.23,0.5
+A00913,36,pro,Asia,tech_startup,0.4493702520231473,Medium,16.18,0.5
+A00157,48,pro,Europe,marketing_agency,0.3355229353090863,Medium,16.11,0.5
+A00403,24,pro,Asia,real_estate,0.6708051056278004,High,16.1,0.5
+A00736,36,pro,North America,real_estate,0.4458406662562967,Medium,16.05,0.5
+A01774,48,pro,North America,ecommerce,0.3342270797547874,Medium,16.04,0.5
+A01237,48,pro,Europe,tech_startup,0.3336921573714735,Medium,16.02,0.5
+A00457,60,team,North America,education,0.2657671527156883,Medium,15.95,0.5
+A01866,36,pro,Latin America,marketing_agency,0.4424107772410305,Medium,15.93,0.5
+A00522,36,pro,North America,education,0.4419436812711803,Medium,15.91,0.5
+A01318,48,pro,North America,marketing_agency,0.3300604790148276,Medium,15.84,0.5
+A01556,48,pro,North America,media,0.3291552607077712,Medium,15.8,0.5
+A00544,36,pro,North America,tech_startup,0.4372813252304009,Medium,15.74,0.5
+A01440,36,pro,North America,education,0.4370178162846432,Medium,15.73,0.5
+A00377,48,pro,Europe,marketing_agency,0.3262727032842267,Medium,15.66,0.5
+A00867,48,pro,Europe,media,0.3253910769893922,Medium,15.62,0.5
+A00540,48,pro,Europe,marketing_agency,0.3251972942616856,Medium,15.61,0.5
+A00699,24,pro,North America,marketing_agency,0.6500681968808267,High,15.6,0.5
+A01966,24,pro,North America,ecommerce,0.6495053305866011,High,15.59,0.5
+A00329,48,pro,Europe,tech_startup,0.3248276334640027,Medium,15.59,0.5
+A01929,36,pro,North America,education,0.4323579609836591,Medium,15.56,0.5
+A01061,48,pro,Asia,marketing_agency,0.3223367550674808,Medium,15.47,0.5
+A00975,36,pro,Europe,tech_startup,0.4289339160184663,Medium,15.44,0.5
+A01828,48,pro,Latin America,ecommerce,0.3204072936202387,Medium,15.38,0.5
+A00519,36,pro,Asia,tech_startup,0.4257297739311232,Medium,15.33,0.5
+A00190,60,team,Asia,education,0.255362686682665,Medium,15.32,0.5
+A00593,36,pro,Europe,media,0.4252827138347725,Medium,15.31,0.5
+A01406,36,pro,Asia,tech_startup,0.4250084197388583,Medium,15.3,0.5
+A00919,36,pro,Europe,ecommerce,0.4244024441574163,Medium,15.28,0.5
+A01542,48,pro,North America,education,0.3183374499736542,Medium,15.28,0.5
+A01293,24,pro,North America,media,0.6349945370622136,High,15.24,0.5
+A01586,36,pro,Europe,real_estate,0.4230147745759712,Medium,15.23,0.5
+A00988,48,pro,North America,marketing_agency,0.3173468484613793,Medium,15.23,0.5
+A01537,48,pro,Europe,ecommerce,0.3161899486317731,Medium,15.18,0.5
+A00360,24,pro,North America,media,0.6306468877542267,High,15.14,0.5
+A01746,48,pro,Latin America,education,0.3144124385282619,Medium,15.09,0.5
+A00943,24,pro,Europe,ecommerce,0.6280898738416376,High,15.07,0.5
+A00142,36,pro,North America,real_estate,0.4181111716715736,Medium,15.05,0.5
+A00293,48,pro,Europe,marketing_agency,0.3136142392111979,Medium,15.05,0.5
+A01873,48,pro,North America,tech_startup,0.3131429700338504,Medium,15.03,0.5
+A00453,36,pro,Europe,ecommerce,0.4162704144813476,Medium,14.99,0.5
+A00334,24,pro,Latin America,tech_startup,0.6236677961323378,High,14.97,0.5
+A00211,36,pro,North America,media,0.4157144619469072,Medium,14.97,0.5
+A01378,36,pro,North America,education,0.4152100103842333,Medium,14.95,0.5
+A01739,24,pro,Asia,ecommerce,0.6213872681125117,High,14.91,0.5
+A00358,48,pro,Europe,tech_startup,0.3104318589949604,Medium,14.9,0.5
+A01106,36,pro,Europe,tech_startup,0.4135278312764885,Medium,14.89,0.5
+A00406,60,team,Europe,ecommerce,0.2476610709893057,Low,14.86,0.5
+A00803,24,pro,North America,real_estate,0.6180185454825815,High,14.83,0.5
+A01080,36,pro,North America,ecommerce,0.4116971385198561,Medium,14.82,0.5
+A01509,36,pro,Europe,marketing_agency,0.4116150625974438,Medium,14.82,0.5
+A01393,36,pro,Latin America,tech_startup,0.411413531770218,Medium,14.81,0.5
+A01914,36,pro,Asia,tech_startup,0.4103786205411177,Medium,14.77,0.5
+A01623,48,pro,Europe,media,0.3064160628999667,Medium,14.71,0.5
+A00549,48,pro,North America,real_estate,0.3062524759350781,Medium,14.7,0.5
+A01697,60,team,Latin America,tech_startup,0.2450143449170123,Low,14.7,0.5
+A00802,36,pro,Asia,tech_startup,0.4080106557360129,Medium,14.69,0.5
+A00365,48,pro,North America,media,0.3060864351715341,Medium,14.69,0.5
+A01672,48,pro,North America,ecommerce,0.306017179357948,Medium,14.69,0.5
+A00594,48,pro,Europe,education,0.3058779580146835,Medium,14.68,0.5
+A00183,36,pro,North America,ecommerce,0.4075443923047154,Medium,14.67,0.5
+A01858,48,pro,North America,media,0.3044156042944161,Medium,14.61,0.5
+A00597,36,pro,North America,real_estate,0.4053104312191014,Medium,14.59,0.5
+A01764,48,pro,Europe,education,0.3040246337000574,Medium,14.59,0.5
+A00423,36,pro,North America,media,0.4048855033689463,Medium,14.58,0.5
+A01642,48,pro,Europe,marketing_agency,0.3035095813596559,Medium,14.57,0.5
+A01249,36,pro,North America,real_estate,0.4045770796954938,Medium,14.56,0.5
+A01751,36,pro,Asia,ecommerce,0.4042361203470612,Medium,14.55,0.5
+A01374,48,pro,Europe,marketing_agency,0.3032201158191595,Medium,14.55,0.5
+A01881,36,pro,Europe,education,0.4039330742110696,Medium,14.54,0.5
+A01070,24,pro,North America,marketing_agency,0.6050788472199189,High,14.52,0.5
+A00773,60,team,Europe,marketing_agency,0.2413158538629234,Low,14.48,0.5
+A00667,48,pro,North America,marketing_agency,0.300897934725205,Medium,14.44,0.5
+A01829,24,pro,North America,marketing_agency,0.6011406621305212,High,14.43,0.5
+A00373,48,pro,North America,education,0.3005413047114081,Medium,14.43,0.5
+A01160,36,pro,Asia,media,0.3991706435721793,Medium,14.37,0.5
+A01233,36,pro,North America,tech_startup,0.3988573597594585,Medium,14.36,0.5
+A00599,48,pro,Asia,ecommerce,0.2982950429307308,Medium,14.32,0.5
+A00076,24,pro,Europe,education,0.5961573652728235,High,14.31,0.5
+A00582,48,pro,Asia,tech_startup,0.2977526030454917,Medium,14.29,0.5
+A01512,48,pro,North America,media,0.2976159668939881,Medium,14.29,0.5
+A01671,36,pro,Asia,marketing_agency,0.3967790022005056,Medium,14.28,0.5
+A01041,24,pro,Europe,ecommerce,0.5929408398297193,High,14.23,0.5
+A01345,48,pro,Asia,marketing_agency,0.2961444460126849,Medium,14.21,0.5
+A00648,48,pro,Asia,media,0.2949552047680666,Medium,14.16,0.5
+A01314,36,pro,Asia,ecommerce,0.3925577713205711,Medium,14.13,0.5
+A00456,36,pro,Europe,ecommerce,0.3924439904577779,Medium,14.13,0.5
+A01241,48,pro,North America,ecommerce,0.2942681048277619,Medium,14.12,0.5
+A00349,36,pro,North America,education,0.3916788378395285,Medium,14.1,0.5
+A01256,48,pro,Latin America,education,0.2933689930922599,Medium,14.08,0.5
+A01047,36,pro,North America,real_estate,0.3899542765816168,Medium,14.04,0.5
+A00261,36,pro,North America,media,0.3893399161784043,Medium,14.02,0.5
+A01482,36,pro,Asia,media,0.3877924056315666,Medium,13.96,0.5
+A01917,48,pro,Europe,marketing_agency,0.2908132338217986,Medium,13.96,0.5
+A01800,36,pro,Latin America,media,0.387455125475746,Medium,13.95,0.5
+A01596,36,pro,North America,education,0.3868235002180906,Medium,13.93,0.5
+A01076,24,pro,Asia,tech_startup,0.5799885150864407,High,13.92,0.5
+A00101,36,pro,Europe,tech_startup,0.3865677618040039,Medium,13.92,0.5
+A01784,24,pro,Europe,ecommerce,0.5796894573243002,High,13.91,0.5
+A01805,60,team,Latin America,media,0.2309502309447419,Low,13.86,0.5
+A00186,36,pro,Asia,marketing_agency,0.3846019166037974,Medium,13.85,0.5
+A01679,48,pro,Asia,tech_startup,0.2872295049393302,Medium,13.79,0.5
+A00729,36,pro,North America,tech_startup,0.3825670410576888,Medium,13.77,0.5
+A00949,36,pro,North America,media,0.3824867384316889,Medium,13.77,0.5
+A01255,36,pro,Europe,marketing_agency,0.3817620835416777,Medium,13.74,0.5
+A00786,36,pro,Europe,tech_startup,0.3802796900846578,Medium,13.69,0.5
+A01262,36,pro,Europe,real_estate,0.3774202567809875,Medium,13.59,0.5
+A00478,24,pro,North America,ecommerce,0.5650809942972663,High,13.56,0.5
+A00791,48,pro,North America,ecommerce,0.2819632048031115,Medium,13.53,0.5
+A01676,48,pro,North America,media,0.2819124625521178,Medium,13.53,0.5
+A00077,48,pro,Europe,tech_startup,0.2798575326435709,Medium,13.43,0.5
+A01971,48,pro,Europe,education,0.2795889788642056,Medium,13.42,0.5
+A01478,36,pro,North America,ecommerce,0.3722204313859101,Medium,13.4,0.5
+A00299,36,pro,North America,real_estate,0.3717115969838721,Medium,13.38,0.5
+A00402,48,pro,North America,education,0.2787952258548541,Medium,13.38,0.5
+A00481,48,pro,Europe,ecommerce,0.2783716286029515,Medium,13.36,0.5
+A01843,24,pro,Europe,tech_startup,0.5558722882593408,High,13.34,0.5
+A01837,48,pro,Europe,marketing_agency,0.2778614812755021,Medium,13.34,0.5
+A00325,48,pro,Europe,ecommerce,0.2772663386192806,Medium,13.31,0.5
+A01612,36,pro,Latin America,education,0.3694763986589985,Medium,13.3,0.5
+A01872,60,team,North America,media,0.2215430015882744,Low,13.29,0.5
+A00022,36,pro,Asia,marketing_agency,0.3688435459856036,Medium,13.28,0.5
+A01315,36,pro,North America,real_estate,0.3678223741296048,Medium,13.24,0.5
+A01238,36,pro,North America,tech_startup,0.3674625620159821,Medium,13.23,0.5
+A01749,36,pro,Latin America,ecommerce,0.3657246784333007,Medium,13.17,0.5
+A00153,60,team,North America,media,0.2189950114141599,Low,13.14,0.5
+A00191,48,pro,North America,marketing_agency,0.2727098642614978,Medium,13.09,0.5
+A01857,36,pro,North America,marketing_agency,0.3634545919308459,Medium,13.08,0.5
+A00040,36,pro,North America,media,0.3633145353467334,Medium,13.08,0.5
+A01635,36,pro,Europe,tech_startup,0.3623260658106352,Medium,13.04,0.5
+A00787,24,pro,Asia,marketing_agency,0.5425707221818638,High,13.02,0.5
+A01732,48,pro,North America,ecommerce,0.2712640953313363,Medium,13.02,0.5
+A00203,60,team,Latin America,ecommerce,0.2169685092244099,Low,13.02,0.5
+A00624,48,pro,Europe,marketing_agency,0.2708177046562587,Medium,13.0,0.5
+A01408,48,pro,Asia,ecommerce,0.2690632932618878,Medium,12.92,0.5
+A00079,48,pro,Asia,tech_startup,0.2683125444515976,Medium,12.88,0.5
+A00065,48,pro,Europe,media,0.2678028294632773,Medium,12.85,0.5
+A00089,48,pro,North America,ecommerce,0.2677685441103274,Medium,12.85,0.5
+A01188,36,pro,North America,tech_startup,0.3565278935263648,Medium,12.84,0.5
+A00198,36,pro,North America,tech_startup,0.3558862677866142,Medium,12.81,0.5
+A01915,48,pro,Europe,media,0.2663032157900649,Medium,12.78,0.5
+A01386,24,pro,Asia,real_estate,0.5298268872658899,High,12.72,0.5
+A00473,48,pro,North America,tech_startup,0.264294267426728,Medium,12.69,0.5
+A00865,36,pro,Europe,media,0.3523466043723381,Medium,12.68,0.5
+A01085,36,pro,North America,tech_startup,0.350809870051261,Medium,12.63,0.5
+A01711,48,pro,North America,ecommerce,0.2630784979532668,Medium,12.63,0.5
+A00658,48,pro,Europe,marketing_agency,0.2619044665196185,Medium,12.57,0.5
+A01139,36,pro,Europe,tech_startup,0.3483692241836293,Medium,12.54,0.5
+A00863,24,pro,Europe,ecommerce,0.5217527173931847,High,12.52,0.5
+A00047,36,pro,Asia,real_estate,0.3464644163526376,Medium,12.47,0.5
+A01791,36,pro,Europe,marketing_agency,0.346165628650201,Medium,12.46,0.5
+A00910,48,pro,North America,ecommerce,0.2581379629255249,Medium,12.39,0.5
+A00584,48,pro,North America,media,0.2570367390464377,Medium,12.34,0.5
+A00116,48,pro,Asia,real_estate,0.2567956967996326,Medium,12.33,0.5
+A01267,36,pro,Europe,ecommerce,0.3422051925865404,Medium,12.32,0.5
+A00991,36,pro,North America,marketing_agency,0.3404456366373418,Medium,12.26,0.5
+A00222,48,pro,Europe,ecommerce,0.255085210217745,Medium,12.24,0.5
+A01583,48,pro,North America,ecommerce,0.2549045933249128,Medium,12.24,0.5
+A00114,36,pro,North America,tech_startup,0.3388840867890962,Medium,12.2,0.5
+A00066,36,pro,North America,tech_startup,0.3387315936598096,Medium,12.19,0.5
+A00750,24,pro,North America,marketing_agency,0.5070102829508153,High,12.17,0.5
+A01173,36,pro,North America,tech_startup,0.3374611947594657,Medium,12.15,0.5
+A00990,48,pro,North America,marketing_agency,0.2528458063786462,Medium,12.14,0.5
+A01525,24,pro,North America,tech_startup,0.5055878041545108,High,12.13,0.5
+A01148,48,pro,Europe,media,0.2513634009373009,Medium,12.07,0.5
+A00696,36,pro,Latin America,tech_startup,0.3343694825375282,Medium,12.04,0.5
+A01134,24,pro,Europe,marketing_agency,0.4994227212767614,Medium,11.99,0.5
+A01493,48,pro,Asia,tech_startup,0.2496705008419915,Low,11.98,0.5
+A00086,36,pro,North America,education,0.3322961492697541,Medium,11.96,0.5
+A01810,48,pro,Europe,tech_startup,0.2470911552408451,Low,11.86,0.5
+A01072,36,pro,Asia,real_estate,0.3272864851359511,Medium,11.78,0.5
+A01261,36,pro,North America,real_estate,0.3262842098370125,Medium,11.75,0.5
+A00158,24,pro,Asia,marketing_agency,0.4884558091007653,Medium,11.72,0.5
+A00237,24,pro,North America,ecommerce,0.4879290366746867,Medium,11.71,0.5
+A01182,24,pro,Latin America,ecommerce,0.4875169966669244,Medium,11.7,0.5
+A00955,36,pro,Asia,tech_startup,0.324657405642354,Medium,11.69,0.5
+A00657,36,pro,North America,tech_startup,0.32435290473968,Medium,11.68,0.5
+A00912,48,pro,Europe,ecommerce,0.2429291959140864,Low,11.66,0.5
+A01495,24,pro,Europe,ecommerce,0.485435388403063,Medium,11.65,0.5
+A00283,48,pro,Asia,marketing_agency,0.2419013301465876,Low,11.61,0.5
+A00844,24,pro,Asia,media,0.4830210987901904,Medium,11.59,0.5
+A00232,36,pro,North America,ecommerce,0.3203497265308755,Medium,11.53,0.5
+A01812,24,pro,Europe,ecommerce,0.4793447048662822,Medium,11.5,0.5
+A01074,48,pro,North America,tech_startup,0.2392068772725732,Low,11.48,0.5
+A00413,48,pro,North America,media,0.2390589567124504,Low,11.47,0.5
+A00625,48,pro,Latin America,tech_startup,0.2389777688242762,Low,11.47,0.5
+A01649,48,pro,Asia,tech_startup,0.238954883701036,Low,11.47,0.5
+A00603,48,pro,Europe,education,0.2386070979184296,Low,11.45,0.5
+A01425,48,pro,Latin America,marketing_agency,0.2376249475881344,Low,11.41,0.5
+A00439,24,pro,Latin America,marketing_agency,0.4743079895827584,Medium,11.38,0.5
+A00418,24,pro,North America,tech_startup,0.4737658399880513,Medium,11.37,0.5
+A01018,36,pro,North America,tech_startup,0.3158716292485024,Medium,11.37,0.5
+A01402,36,pro,Asia,real_estate,0.3158456411651395,Medium,11.37,0.5
+A01755,24,pro,North America,ecommerce,0.4735215833526247,Medium,11.36,0.5
+A01961,24,pro,North America,education,0.4705700419381903,Medium,11.29,0.5
+A00633,24,pro,Europe,tech_startup,0.4703642533804757,Medium,11.29,0.5
+A00539,48,pro,North America,tech_startup,0.2352702662533315,Low,11.29,0.5
+A00713,36,pro,Europe,marketing_agency,0.3125184264679133,Medium,11.25,0.5
+A01939,36,pro,North America,education,0.3117163248704019,Medium,11.22,0.5
+A01794,24,pro,North America,media,0.467009623629842,Medium,11.21,0.5
+A01174,24,pro,North America,education,0.4668123769259784,Medium,11.2,0.5
+A01257,48,pro,North America,education,0.2326413112516229,Low,11.17,0.5
+A00829,36,pro,North America,ecommerce,0.3089908007069955,Medium,11.12,0.5
+A00207,36,pro,North America,tech_startup,0.3087814319036842,Medium,11.12,0.5
+A01415,36,pro,Latin America,tech_startup,0.3082293945664652,Medium,11.1,0.5
+A01938,24,pro,North America,media,0.461372799707069,Medium,11.07,0.5
+A00416,48,pro,Latin America,education,0.2306170628611563,Low,11.07,0.5
+A00388,24,pro,Latin America,real_estate,0.4598571104827393,Medium,11.04,0.5
+A01807,48,pro,Asia,tech_startup,0.229998446502172,Low,11.04,0.5
+A01064,24,pro,North America,education,0.4597474301710298,Medium,11.03,0.5
+A00467,24,pro,North America,tech_startup,0.4570624794141449,Medium,10.97,0.5
+A01468,48,pro,North America,real_estate,0.228256671557772,Low,10.96,0.5
+A01605,36,pro,Asia,tech_startup,0.3041907875955179,Medium,10.95,0.5
+A00899,24,pro,Europe,real_estate,0.4556871318806568,Medium,10.94,0.5
+A00831,36,pro,Asia,ecommerce,0.3037396760124165,Medium,10.93,0.5
+A01501,48,pro,Asia,ecommerce,0.2273249761700304,Low,10.91,0.5
+A01109,48,pro,North America,tech_startup,0.2270435337891621,Low,10.9,0.5
+A01396,24,pro,Asia,marketing_agency,0.453854133661105,Medium,10.89,0.5
+A01334,24,pro,Latin America,marketing_agency,0.4530259339861194,Medium,10.87,0.5
+A01213,48,pro,Latin America,ecommerce,0.226373323246113,Low,10.87,0.5
+A01861,36,pro,North America,ecommerce,0.3017674370906392,Medium,10.86,0.5
+A00163,36,pro,North America,education,0.3017488066838278,Medium,10.86,0.5
+A01020,36,pro,Asia,marketing_agency,0.3014657871922588,Medium,10.85,0.5
+A00466,24,pro,North America,real_estate,0.4518323631938442,Medium,10.84,0.5
+A01035,48,pro,Europe,marketing_agency,0.2257623324132933,Low,10.84,0.5
+A01998,36,pro,Europe,tech_startup,0.3008507345652725,Medium,10.83,0.5
+A00052,24,pro,North America,ecommerce,0.4505966242584019,Medium,10.81,0.5
+A01617,36,pro,Europe,ecommerce,0.30037046317478,Medium,10.81,0.5
+A00441,24,pro,North America,tech_startup,0.4488724047509698,Medium,10.77,0.5
+A00673,36,pro,Europe,marketing_agency,0.2978420511104457,Medium,10.72,0.5
+A00409,36,pro,Latin America,media,0.2977210610980176,Medium,10.72,0.5
+A00560,48,pro,North America,ecommerce,0.2229673357911933,Low,10.7,0.5
+A01395,36,pro,Latin America,tech_startup,0.2959356853326653,Medium,10.65,0.5
+A01219,24,pro,North America,marketing_agency,0.4432772797730162,Medium,10.64,0.5
+A00081,36,pro,Europe,media,0.2953482214394757,Medium,10.63,0.5
+A01059,36,pro,North America,tech_startup,0.2945476664037003,Medium,10.6,0.5
+A01957,36,pro,Latin America,tech_startup,0.2941601120416676,Medium,10.59,0.5
+A00586,24,pro,North America,ecommerce,0.4408878216266298,Medium,10.58,0.5
+A01089,48,pro,Europe,tech_startup,0.2199353850696761,Low,10.56,0.5
+A00795,24,pro,Asia,tech_startup,0.4395361297033089,Medium,10.55,0.5
+A00996,48,pro,North America,tech_startup,0.2193507465542876,Low,10.53,0.5
+A01434,36,pro,Europe,education,0.2905493148277944,Medium,10.46,0.5
+A01104,36,pro,North America,real_estate,0.2902837227261647,Medium,10.45,0.5
+A01375,36,pro,Europe,tech_startup,0.2894783280695992,Medium,10.42,0.5
+A01545,24,pro,North America,ecommerce,0.4338292023617793,Medium,10.41,0.5
+A00832,36,pro,Asia,media,0.2889851117622886,Medium,10.4,0.5
+A00226,24,pro,North America,ecommerce,0.4322977227085088,Medium,10.38,0.5
+A00706,36,pro,Europe,marketing_agency,0.288198708339052,Medium,10.38,0.5
+A01796,24,pro,Asia,marketing_agency,0.4321081532544476,Medium,10.37,0.5
+A01483,24,pro,North America,tech_startup,0.4319136312516533,Medium,10.37,0.5
+A01891,48,pro,North America,media,0.2158432933947827,Low,10.36,0.5
+A01584,24,pro,North America,education,0.431000735695608,Medium,10.34,0.5
+A01280,36,pro,Asia,education,0.2873104125310471,Medium,10.34,0.5
+A00693,36,pro,North America,media,0.2868075662707302,Medium,10.33,0.5
+A01466,36,pro,North America,education,0.2867240881378369,Medium,10.32,0.5
+A00055,24,pro,Europe,media,0.4295974997177996,Medium,10.31,0.5
+A01095,36,pro,North America,tech_startup,0.2863310690783707,Medium,10.31,0.5
+A00185,36,pro,North America,tech_startup,0.2849925561323298,Medium,10.26,0.5
+A01867,36,pro,Asia,marketing_agency,0.284801938761676,Medium,10.25,0.5
+A00743,48,pro,North America,education,0.2129836828242921,Low,10.22,0.5
+A01400,36,pro,Europe,media,0.2822476919329706,Medium,10.16,0.5
+A01069,24,pro,Europe,education,0.4221537532536519,Medium,10.13,0.5
+A00608,24,pro,Europe,tech_startup,0.4213929679462305,Medium,10.11,0.5
+A01758,24,pro,Europe,ecommerce,0.4213477932874779,Medium,10.11,0.5
+A00166,24,pro,Europe,tech_startup,0.4208505825347436,Medium,10.1,0.5
+A01543,24,pro,North America,ecommerce,0.4204639942996852,Medium,10.09,0.5
+A00216,36,pro,Europe,education,0.2795005763776476,Medium,10.06,0.5
+A01154,24,pro,North America,ecommerce,0.4165624084254158,Medium,10.0,0.5
+A00861,24,pro,North America,education,0.4156645910112765,Medium,9.98,0.5
+A00465,24,pro,Asia,education,0.4147143969851043,Medium,9.95,0.5
+A00774,24,pro,North America,tech_startup,0.4138533364784477,Medium,9.93,0.5
+A01269,24,pro,Latin America,ecommerce,0.4126469612690022,Medium,9.9,0.5
+A01941,24,pro,North America,ecommerce,0.4115051735143574,Medium,9.88,0.5
+A01081,36,pro,Europe,tech_startup,0.2743274161811784,Medium,9.88,0.5
+A01240,48,pro,North America,real_estate,0.203744941798886,Low,9.78,0.5
+A01019,24,pro,Europe,real_estate,0.4067361033572068,Medium,9.76,0.5
+A00764,24,pro,Europe,marketing_agency,0.4060742638544296,Medium,9.75,0.5
+A00986,24,pro,North America,tech_startup,0.4051497078494264,Medium,9.72,0.5
+A01447,24,pro,North America,tech_startup,0.4048863211947947,Medium,9.72,0.5
+A01846,36,pro,Latin America,ecommerce,0.2689851415018999,Medium,9.68,0.5
+A00348,48,pro,North America,education,0.2015724071185937,Low,9.68,0.5
+A01275,36,pro,North America,marketing_agency,0.2680669605909371,Medium,9.65,0.5
+A00878,48,pro,North America,ecommerce,0.1999145676838675,Low,9.6,0.5
+A00778,36,pro,Europe,real_estate,0.2664484573148328,Medium,9.59,0.5
+A01692,36,pro,Latin America,tech_startup,0.2661979010841472,Medium,9.58,0.5
+A01102,36,pro,Latin America,media,0.2661751711415789,Medium,9.58,0.5
+A01477,12,pro,North America,real_estate,0.7972654113010313,Critical,9.57,0.5
+A00129,48,pro,North America,tech_startup,0.1991129037809031,Low,9.56,0.5
+A00244,24,pro,North America,ecommerce,0.3971780465365646,Medium,9.53,0.5
+A00739,24,pro,Latin America,education,0.3969729211902761,Medium,9.53,0.5
+A01484,36,pro,North America,tech_startup,0.2643725092896695,Medium,9.52,0.5
+A00374,24,pro,Europe,ecommerce,0.3948507461963223,Medium,9.48,0.5
+A00278,48,pro,Asia,ecommerce,0.1971012539982709,Low,9.46,0.5
+A01524,24,pro,North America,real_estate,0.3920292528107386,Medium,9.41,0.5
+A01603,36,pro,North America,tech_startup,0.2612218716241057,Medium,9.4,0.5
+A01875,36,pro,North America,tech_startup,0.2610296748709983,Medium,9.4,0.5
+A00245,24,pro,Europe,ecommerce,0.3887556875445375,Medium,9.33,0.5
+A00193,24,pro,North America,tech_startup,0.3882667526698266,Medium,9.32,0.5
+A00333,36,pro,Europe,education,0.2588410901084828,Medium,9.32,0.5
+A01590,48,pro,Latin America,education,0.1939169680668809,Low,9.31,0.5
+A01429,48,pro,Europe,tech_startup,0.1936623949773445,Low,9.3,0.5
+A01681,24,pro,Asia,ecommerce,0.3869827029632653,Medium,9.29,0.5
+A00760,36,pro,North America,tech_startup,0.2574438902407774,Medium,9.27,0.5
+A00602,24,pro,North America,real_estate,0.385425990713524,Medium,9.25,0.5
+A00956,24,pro,Asia,marketing_agency,0.3850451141312693,Medium,9.24,0.5
+A00640,24,pro,North America,marketing_agency,0.3845537644776241,Medium,9.23,0.5
+A00812,36,pro,Europe,ecommerce,0.2559918304208637,Medium,9.22,0.5
+A01557,12,pro,North America,real_estate,0.7678156459212924,Critical,9.21,0.5
+A00502,12,pro,North America,media,0.7672114356285743,Critical,9.21,0.5
+A00178,24,pro,Asia,media,0.3827233288387857,Medium,9.19,0.5
+A01989,24,pro,Asia,ecommerce,0.3797175287653888,Medium,9.11,0.5
+A01516,24,pro,Europe,marketing_agency,0.3790548154707031,Medium,9.1,0.5
+A00893,36,pro,North America,tech_startup,0.2528102268083267,Medium,9.1,0.5
+A00220,36,pro,North America,real_estate,0.2527088226433553,Medium,9.1,0.5
+A01675,36,pro,Asia,marketing_agency,0.2521142516447946,Medium,9.08,0.5
+A00109,48,pro,North America,ecommerce,0.1892666030065267,Low,9.08,0.5
+A01613,24,pro,Asia,real_estate,0.3765812567962517,Medium,9.04,0.5
+A00505,12,pro,North America,tech_startup,0.7497711224687208,High,9.0,0.5
+A01814,24,pro,North America,tech_startup,0.3724014828318551,Medium,8.94,0.5
+A01124,48,pro,Asia,media,0.186185529266264,Low,8.94,0.5
+A01489,12,pro,North America,real_estate,0.7431335794144613,High,8.92,0.5
+A01336,36,pro,North America,tech_startup,0.2475951349761946,Low,8.91,0.5
+A01978,24,pro,Asia,education,0.3698130697109261,Medium,8.88,0.5
+A00427,24,pro,Europe,ecommerce,0.3697979908825726,Medium,8.88,0.5
+A00973,24,pro,Asia,marketing_agency,0.3690526232445525,Medium,8.86,0.5
+A00301,36,pro,North America,ecommerce,0.2455183724480323,Low,8.84,0.5
+A00708,36,pro,Europe,ecommerce,0.2453721926704168,Low,8.83,0.5
+A00682,48,pro,North America,marketing_agency,0.1838561294614053,Low,8.83,0.5
+A01057,36,pro,North America,media,0.2448187799623819,Low,8.81,0.5
+A01832,12,pro,North America,ecommerce,0.7296484513293393,High,8.76,0.5
+A00833,24,pro,Europe,media,0.3651869904632981,Medium,8.76,0.5
+A01115,24,pro,North America,ecommerce,0.3639847836160256,Medium,8.74,0.5
+A00121,24,pro,Europe,media,0.3636353131985313,Medium,8.73,0.5
+A00585,24,pro,North America,marketing_agency,0.3623587232063607,Medium,8.7,0.5
+A01303,36,pro,Latin America,ecommerce,0.2415595777959058,Low,8.7,0.5
+A01723,12,pro,Europe,education,0.7240884681442312,High,8.69,0.5
+A01833,12,pro,North America,real_estate,0.7238445576217906,High,8.69,0.5
+A01121,24,pro,Europe,education,0.3612287129593943,Medium,8.67,0.5
+A00435,36,pro,North America,ecommerce,0.2401012558312364,Low,8.64,0.5
+A00605,36,pro,North America,ecommerce,0.2400716597885577,Low,8.64,0.5
+A00392,36,pro,Europe,education,0.2398329999715569,Low,8.63,0.5
+A00766,24,pro,Europe,ecommerce,0.3590336594211803,Medium,8.62,0.5
+A00727,24,pro,Latin America,ecommerce,0.3578346158659456,Medium,8.59,0.5
+A00017,24,pro,North America,real_estate,0.3574078900961728,Medium,8.58,0.5
+A00436,36,pro,Asia,media,0.2381225550307425,Low,8.57,0.5
+A00907,24,pro,North America,marketing_agency,0.3561096625668249,Medium,8.55,0.5
+A01787,24,pro,Asia,media,0.3560571908218226,Medium,8.55,0.5
+A01772,24,pro,Europe,ecommerce,0.3552601356634434,Medium,8.53,0.5
+A01499,24,pro,North America,education,0.3546287258869324,Medium,8.51,0.5
+A00056,36,pro,North America,real_estate,0.2352994803327823,Low,8.47,0.5
+A01403,24,pro,North America,education,0.3520953607795215,Medium,8.45,0.5
+A00737,36,pro,Europe,ecommerce,0.2346736721518341,Low,8.45,0.5
+A00569,24,pro,Latin America,real_estate,0.3511895446161242,Medium,8.43,0.5
+A00310,24,pro,Latin America,education,0.3496576416924797,Medium,8.39,0.5
+A00950,12,pro,North America,ecommerce,0.6984716923531835,High,8.38,0.5
+A01719,12,pro,Asia,marketing_agency,0.6982255006093432,High,8.38,0.5
+A00769,12,pro,Europe,marketing_agency,0.6962750401200801,High,8.36,0.5
+A01514,24,pro,Asia,marketing_agency,0.346562740116091,Medium,8.32,0.5
+A01301,24,pro,Europe,tech_startup,0.3460616041151629,Medium,8.31,0.5
+A01696,24,pro,Europe,education,0.3457860637661563,Medium,8.3,0.5
+A01087,48,pro,Asia,marketing_agency,0.1727584838021384,Low,8.29,0.5
+A00195,24,pro,Asia,media,0.344264033334186,Medium,8.26,0.5
+A00647,24,pro,North America,real_estate,0.3441562295882362,Medium,8.26,0.5
+A00514,24,pro,Asia,tech_startup,0.3440673850625592,Medium,8.26,0.5
+A01150,36,pro,North America,marketing_agency,0.2294871992564114,Low,8.26,0.5
+A00520,12,pro,Latin America,education,0.6878052277556077,High,8.25,0.5
+A01577,24,pro,North America,education,0.3437792583184988,Medium,8.25,0.5
+A00411,36,pro,Europe,tech_startup,0.229211922169678,Low,8.25,0.5
+A01754,24,pro,Europe,ecommerce,0.3429627445699337,Medium,8.23,0.5
+A01341,24,pro,Europe,marketing_agency,0.3424111430635379,Medium,8.22,0.5
+A01376,24,pro,North America,ecommerce,0.3412056163328469,Medium,8.19,0.5
+A01363,36,pro,North America,ecommerce,0.2258127698324861,Low,8.13,0.5
+A01297,24,pro,Europe,tech_startup,0.3375467053315363,Medium,8.1,0.5
+A00942,24,pro,Europe,marketing_agency,0.3354324199307694,Medium,8.05,0.5
+A01053,12,pro,North America,ecommerce,0.6691252435419618,High,8.03,0.5
+A01730,24,pro,Europe,tech_startup,0.3345827636510038,Medium,8.03,0.5
+A01114,24,pro,Asia,tech_startup,0.3338047934165287,Medium,8.01,0.5
+A00155,24,pro,Asia,marketing_agency,0.3323388489739137,Medium,7.98,0.5
+A00386,24,pro,Europe,ecommerce,0.3319342144501262,Medium,7.97,0.5
+A01934,24,pro,North America,tech_startup,0.3313848911916945,Medium,7.95,0.5
+A01699,24,pro,Europe,marketing_agency,0.3305502842690136,Medium,7.93,0.5
+A00826,24,pro,Europe,tech_startup,0.3303717556300629,Medium,7.93,0.5
+A01158,24,pro,North America,education,0.3290493138026479,Medium,7.9,0.5
+A01211,48,pro,North America,tech_startup,0.1646402905665648,Low,7.9,0.5
+A00399,12,pro,Asia,ecommerce,0.6571661994244594,High,7.89,0.5
+A01977,12,pro,North America,tech_startup,0.6570128131910292,High,7.88,0.5
+A00747,24,pro,North America,tech_startup,0.327963291674814,Medium,7.87,0.5
+A01993,24,pro,Latin America,tech_startup,0.3277920078284596,Medium,7.87,0.5
+A00247,48,pro,Europe,education,0.1636665981516585,Low,7.86,0.5
+A01935,12,pro,Europe,ecommerce,0.6541118863745209,High,7.85,0.5
+A01988,12,pro,Latin America,marketing_agency,0.6526652494005519,High,7.83,0.5
+A01435,12,pro,North America,marketing_agency,0.6520918180038165,High,7.83,0.5
+A00462,24,pro,North America,marketing_agency,0.3264261651908061,Medium,7.83,0.5
+A01498,24,pro,North America,tech_startup,0.3232956686581412,Medium,7.76,0.5
+A01753,24,pro,North America,ecommerce,0.3232839001209427,Medium,7.76,0.5
+A01263,24,pro,North America,education,0.3211503715888785,Medium,7.71,0.5
+A01882,24,pro,Europe,real_estate,0.3211361896956421,Medium,7.71,0.5
+A00461,24,pro,North America,education,0.3210828356490591,Medium,7.71,0.5
+A01075,12,pro,North America,ecommerce,0.6414375712591245,High,7.7,0.5
+A01792,24,pro,Asia,ecommerce,0.3208643650295452,Medium,7.7,0.5
+A01008,24,pro,Europe,marketing_agency,0.3207532098235544,Medium,7.7,0.5
+A01279,12,pro,North America,media,0.6405853456442417,High,7.69,0.5
+A01721,24,pro,North America,ecommerce,0.319427695448292,Medium,7.67,0.5
+A00630,12,pro,Europe,education,0.6376876853187292,High,7.65,0.5
+A00229,24,pro,Europe,marketing_agency,0.3183310263211149,Medium,7.64,0.5
+A00940,12,pro,North America,marketing_agency,0.6354301425096431,High,7.63,0.5
+A00817,36,pro,Europe,ecommerce,0.2119166881414895,Low,7.63,0.5
+A01024,12,pro,North America,tech_startup,0.6343058528603679,High,7.61,0.5
+A01694,24,pro,North America,ecommerce,0.3169670119379381,Medium,7.61,0.5
+A00828,12,pro,Asia,education,0.6305599832523042,High,7.57,0.5
+A01394,12,pro,Europe,real_estate,0.6305081061557519,High,7.57,0.5
+A01578,24,pro,North America,tech_startup,0.3143181455393604,Medium,7.54,0.5
+A01476,24,pro,North America,real_estate,0.3136027564619123,Medium,7.53,0.5
+A00495,12,pro,Asia,education,0.6263330303731944,High,7.52,0.5
+A01637,24,pro,Europe,ecommerce,0.3130510131312576,Medium,7.51,0.5
+A00753,24,pro,Europe,ecommerce,0.312513643351442,Medium,7.5,0.5
+A01737,36,pro,North America,media,0.2077110906647514,Low,7.48,0.5
+A01530,36,pro,North America,tech_startup,0.2069870959941721,Low,7.45,0.5
+A01997,24,pro,Asia,media,0.310192504503308,Medium,7.44,0.5
+A00757,24,pro,Latin America,marketing_agency,0.3096794999595078,Medium,7.43,0.5
+A01594,24,pro,North America,tech_startup,0.3078904017952282,Medium,7.39,0.5
+A00302,24,pro,Europe,media,0.3071093810645705,Medium,7.37,0.5
+A01310,36,pro,North America,media,0.2048158771187689,Low,7.37,0.5
+A01348,24,pro,North America,tech_startup,0.3067470099249419,Medium,7.36,0.5
+A00677,24,pro,North America,tech_startup,0.3058868586174452,Medium,7.34,0.5
+A00521,24,pro,Europe,ecommerce,0.3053664298689548,Medium,7.33,0.5
+A01021,24,pro,Europe,marketing_agency,0.3052909840068472,Medium,7.33,0.5
+A00345,24,pro,North America,education,0.3050467233096718,Medium,7.32,0.5
+A01004,12,pro,Europe,ecommerce,0.6069638364346707,High,7.28,0.5
+A01734,24,pro,Latin America,ecommerce,0.3024157026850014,Medium,7.26,0.5
+A01145,24,pro,Latin America,ecommerce,0.3023104571014337,Medium,7.26,0.5
+A00337,24,pro,North America,education,0.3022096147416389,Medium,7.25,0.5
+A00458,24,pro,Latin America,marketing_agency,0.3010319151911417,Medium,7.22,0.5
+A01244,12,pro,North America,media,0.6007427329340191,High,7.21,0.5
+A00759,24,pro,North America,ecommerce,0.3004640643786012,Medium,7.21,0.5
+A00192,12,pro,Asia,real_estate,0.5991605885091644,High,7.19,0.5
+A00391,36,pro,Asia,marketing_agency,0.199536103455657,Low,7.18,0.5
+A00062,24,pro,North America,tech_startup,0.2978457314189359,Medium,7.15,0.5
+A00860,12,pro,Latin America,real_estate,0.5945999173368994,High,7.14,0.5
+A01588,12,pro,North America,media,0.5935346326854617,High,7.12,0.5
+A00509,12,pro,Europe,tech_startup,0.5906480031543204,High,7.09,0.5
+A01215,24,pro,Latin America,tech_startup,0.2952419367782621,Medium,7.09,0.5
+A01798,24,pro,Europe,real_estate,0.2941665930862248,Medium,7.06,0.5
+A01659,24,pro,Europe,education,0.2927167208432508,Medium,7.03,0.5
+A00265,12,pro,Europe,marketing_agency,0.5837960119274056,High,7.01,0.5
+A01930,24,pro,North America,tech_startup,0.2911950766549164,Medium,6.99,0.5
+A01227,24,pro,Latin America,ecommerce,0.2908038350675151,Medium,6.98,0.5
+A00041,24,pro,Europe,real_estate,0.2896334668961265,Medium,6.95,0.5
+A01342,24,pro,Europe,tech_startup,0.2889663179389776,Medium,6.94,0.5
+A01575,48,pro,Asia,ecommerce,0.144647444255301,Low,6.94,0.5
+A00324,24,pro,Asia,media,0.2887669086695045,Medium,6.93,0.5
+A01247,12,pro,Asia,ecommerce,0.5770388015033757,High,6.92,0.5
+A00119,12,pro,Europe,tech_startup,0.5744220979553923,High,6.89,0.5
+A01401,12,pro,North America,marketing_agency,0.5665338685882977,High,6.8,0.5
+A01897,36,pro,North America,media,0.1884589571578478,Low,6.78,0.5
+A00224,12,pro,Europe,marketing_agency,0.5643463599654737,High,6.77,0.5
+A00703,12,pro,North America,media,0.5640152967036847,High,6.77,0.5
+A01782,36,pro,North America,education,0.1875741730860687,Low,6.75,0.5
+A01823,36,pro,Asia,tech_startup,0.1873181211269764,Low,6.74,0.5
+A00146,24,pro,Europe,tech_startup,0.277020265815331,Medium,6.65,0.5
+A00300,24,pro,Asia,tech_startup,0.2766719634002859,Medium,6.64,0.5
+A00971,24,pro,Latin America,media,0.2753578251875229,Medium,6.61,0.5
+A01216,36,pro,North America,tech_startup,0.1834023870893455,Low,6.6,0.5
+A00315,12,pro,North America,education,0.5487209278080805,High,6.58,0.5
+A00663,24,pro,North America,education,0.2742792523204078,Medium,6.58,0.5
+A01979,36,pro,North America,ecommerce,0.1815713329766871,Low,6.54,0.5
+A01629,48,pro,Europe,media,0.1359805007184555,Low,6.53,0.5
+A01799,24,pro,Asia,ecommerce,0.2715288187386111,Medium,6.52,0.5
+A00837,24,pro,North America,media,0.2703446638745606,Medium,6.49,0.5
+A00021,24,pro,North America,real_estate,0.2701656540734087,Medium,6.48,0.5
+A01654,12,pro,North America,ecommerce,0.5371845618358819,High,6.45,0.5
+A00106,24,pro,North America,media,0.2679642724247625,Medium,6.43,0.5
+A00351,12,pro,North America,ecommerce,0.5345687374879632,High,6.41,0.5
+A00208,24,pro,North America,education,0.266523895545202,Medium,6.4,0.5
+A01736,48,pro,Europe,tech_startup,0.1329710381770281,Low,6.38,0.5
+A01282,48,pro,Europe,real_estate,0.132786173015752,Low,6.37,0.5
+A01902,24,pro,North America,media,0.2651802887180698,Medium,6.36,0.5
+A01931,24,pro,North America,tech_startup,0.2641564100584038,Medium,6.34,0.5
+A00294,24,pro,Europe,marketing_agency,0.2627955755951314,Medium,6.31,0.5
+A00859,24,pro,Asia,education,0.2626815746221602,Medium,6.3,0.5
+A00140,12,pro,Asia,ecommerce,0.5236173361076072,High,6.28,0.5
+A00903,24,pro,Europe,tech_startup,0.2615179263635199,Medium,6.28,0.5
+A00168,12,pro,North America,marketing_agency,0.5216013595498562,High,6.26,0.5
+A01205,24,pro,Asia,tech_startup,0.2606104163563005,Medium,6.25,0.5
+A01191,24,pro,Asia,tech_startup,0.2603006920739673,Medium,6.25,0.5
+A01161,24,pro,Asia,marketing_agency,0.2601794611444239,Medium,6.24,0.5
+A00655,24,pro,Asia,marketing_agency,0.2593788441985139,Medium,6.23,0.5
+A00642,24,pro,North America,marketing_agency,0.2587782311027264,Medium,6.21,0.5
+A00513,24,pro,Europe,ecommerce,0.2587195612597688,Medium,6.21,0.5
+A01265,12,pro,Europe,marketing_agency,0.5150929861636089,High,6.18,0.5
+A00366,24,pro,North America,real_estate,0.2574861549406345,Medium,6.18,0.5
+A01097,36,pro,Latin America,real_estate,0.1717229936653127,Low,6.18,0.5
+A00592,12,pro,North America,ecommerce,0.5128908679404167,High,6.15,0.5
+A00382,12,pro,North America,marketing_agency,0.511613821674951,High,6.14,0.5
+A01673,24,pro,Asia,ecommerce,0.2553107660748873,Medium,6.13,0.5
+A00173,24,pro,North America,ecommerce,0.2530386562477525,Medium,6.07,0.5
+A01405,24,pro,Europe,marketing_agency,0.2519580762271862,Medium,6.05,0.5
+A01646,24,pro,Asia,tech_startup,0.2513922838820148,Medium,6.03,0.5
+A00934,24,pro,North America,education,0.2511672494702265,Medium,6.03,0.5
+A01153,36,pro,North America,marketing_agency,0.1674375746334949,Low,6.03,0.5
+A00486,12,pro,Asia,marketing_agency,0.4954495215436761,Medium,5.95,0.5
+A01886,12,pro,Europe,ecommerce,0.4949547867521751,Medium,5.94,0.5
+A00122,24,pro,North America,tech_startup,0.2456013544090008,Low,5.89,0.5
+A00751,24,pro,North America,media,0.2454538470360797,Low,5.89,0.5
+A01955,12,pro,Latin America,tech_startup,0.4880622405235401,Medium,5.86,0.5
+A01630,24,pro,Latin America,media,0.2424090287289928,Low,5.82,0.5
+A00009,12,pro,Latin America,tech_startup,0.4842010262017355,Medium,5.81,0.5
+A01193,24,pro,North America,marketing_agency,0.2420726697641331,Low,5.81,0.5
+A01096,12,pro,Europe,ecommerce,0.4829400549140027,Medium,5.8,0.5
+A00016,12,pro,Asia,marketing_agency,0.4822750633777894,Medium,5.79,0.5
+A01437,24,pro,Europe,media,0.240932599534506,Low,5.78,0.5
+A00928,12,pro,North America,tech_startup,0.4812359257734757,Medium,5.77,0.5
+A01040,24,pro,Latin America,tech_startup,0.2401377275634472,Low,5.76,0.5
+A01727,12,pro,North America,ecommerce,0.4755754631226703,Medium,5.71,0.5
+A00889,24,pro,North America,education,0.2372147204718848,Low,5.69,0.5
+A01225,12,pro,North America,marketing_agency,0.4736511338817456,Medium,5.68,0.5
+A01137,12,pro,North America,tech_startup,0.4727816360052957,Medium,5.67,0.5
+A00557,12,pro,North America,education,0.4725772117815838,Medium,5.67,0.5
+A00763,12,pro,North America,marketing_agency,0.4720864984554107,Medium,5.67,0.5
+A00788,24,pro,Europe,education,0.2359507011204638,Low,5.66,0.5
+A00892,12,pro,Europe,media,0.4699432953958227,Medium,5.64,0.5
+A00789,36,pro,North America,education,0.1564395017362597,Low,5.63,0.5
+A00372,12,pro,North America,marketing_agency,0.4687198125518884,Medium,5.62,0.5
+A00085,36,pro,Europe,media,0.1562005448277602,Low,5.62,0.5
+A00159,12,pro,North America,education,0.4675761677850474,Medium,5.61,0.5
+A00685,24,pro,Latin America,real_estate,0.2337146058868635,Low,5.61,0.5
+A01424,24,pro,Asia,real_estate,0.2333121088121502,Low,5.6,0.5
+A00797,24,pro,North America,education,0.2332228719178904,Low,5.6,0.5
+A01956,12,pro,North America,marketing_agency,0.4651469654770889,Medium,5.58,0.5
+A01538,24,pro,Europe,tech_startup,0.2324453778553415,Low,5.58,0.5
+A01650,12,pro,Latin America,marketing_agency,0.4640870870618517,Medium,5.57,0.5
+A00564,24,pro,Asia,tech_startup,0.2318877552349035,Low,5.57,0.5
+A01043,12,pro,North America,ecommerce,0.463067032442839,Medium,5.56,0.5
+A01050,12,pro,North America,marketing_agency,0.4530527380651282,Medium,5.44,0.5
+A00873,12,pro,North America,education,0.4508412105251906,Medium,5.41,0.5
+A00469,24,pro,Asia,tech_startup,0.2252465893216658,Low,5.41,0.5
+A00447,24,pro,Europe,tech_startup,0.2234015991397485,Low,5.36,0.5
+A00762,12,pro,North America,media,0.4413129782656507,Medium,5.3,0.5
+A00909,12,pro,North America,marketing_agency,0.4385214648113818,Medium,5.26,0.5
+A00840,24,pro,Asia,marketing_agency,0.2187314951181149,Low,5.25,0.5
+A00712,12,pro,Asia,marketing_agency,0.4364622290508524,Medium,5.24,0.5
+A00882,12,pro,Latin America,ecommerce,0.4361623388152324,Medium,5.23,0.5
+A00240,12,pro,North America,ecommerce,0.4359830007643848,Medium,5.23,0.5
+A00984,12,pro,North America,marketing_agency,0.4354964631129562,Medium,5.23,0.5
+A01253,12,pro,North America,education,0.435431119408778,Medium,5.23,0.5
+A00914,36,pro,North America,ecommerce,0.1436105660198593,Low,5.17,0.5
+A00846,12,pro,North America,education,0.428194146692423,Medium,5.14,0.5
+A00414,12,pro,North America,marketing_agency,0.4281890661280229,Medium,5.14,0.5
+A01170,12,pro,Europe,tech_startup,0.4280924384421996,Medium,5.14,0.5
+A01270,36,pro,Europe,marketing_agency,0.1413971872499501,Low,5.09,0.5
+A01176,12,pro,Europe,ecommerce,0.4235502042491241,Medium,5.08,0.5
+A00733,12,pro,Europe,marketing_agency,0.4190860159907786,Medium,5.03,0.5
+A01533,12,pro,North America,marketing_agency,0.4181962973545656,Medium,5.02,0.5
+A00535,12,pro,North America,media,0.4180785962738472,Medium,5.02,0.5
+A01259,12,pro,North America,real_estate,0.4178524249562599,Medium,5.01,0.5
+A01980,12,pro,North America,ecommerce,0.4173936923491791,Medium,5.01,0.5
+A01036,12,pro,North America,ecommerce,0.4139939770004312,Medium,4.97,0.5
+A01242,24,pro,Latin America,ecommerce,0.2071683570948558,Low,4.97,0.5
+A01834,24,pro,North America,education,0.2064880817055108,Low,4.96,0.5
+A01467,12,pro,Asia,education,0.4124193124211863,Medium,4.95,0.5
+A01248,48,pro,Latin America,media,0.1029564092944669,Low,4.94,0.5
+A00613,12,pro,North America,marketing_agency,0.4097940870271391,Medium,4.92,0.5
+A01222,12,pro,North America,tech_startup,0.4097431177966214,Medium,4.92,0.5
+A00404,24,pro,North America,marketing_agency,0.2049722873666019,Low,4.92,0.5
+A01413,12,pro,Asia,real_estate,0.4083051773857674,Medium,4.9,0.5
+A01830,12,pro,North America,real_estate,0.4071193213319796,Medium,4.89,0.5
+A01412,24,pro,North America,marketing_agency,0.2027823388955201,Low,4.87,0.5
+A01330,12,pro,North America,tech_startup,0.404041045241471,Medium,4.85,0.5
+A01190,12,pro,Europe,media,0.4029346358320239,Medium,4.84,0.5
+A01058,12,pro,Asia,ecommerce,0.4009874536603472,Medium,4.81,0.5
+A01294,12,pro,North America,ecommerce,0.3981051583577534,Medium,4.78,0.5
+A01683,24,pro,Europe,tech_startup,0.1993053777514764,Low,4.78,0.5
+A01599,24,pro,Latin America,media,0.1984591443377347,Low,4.76,0.5
+A01928,24,pro,North America,tech_startup,0.1974313378770426,Low,4.74,0.5
+A00169,12,pro,North America,education,0.3909488231983287,Medium,4.69,0.5
+A00438,24,pro,Europe,ecommerce,0.1954939536876906,Low,4.69,0.5
+A01726,12,pro,North America,ecommerce,0.3890419828660685,Medium,4.67,0.5
+A01927,12,pro,Europe,ecommerce,0.3881118641062579,Medium,4.66,0.5
+A01964,12,pro,Europe,marketing_agency,0.3875482208125336,Medium,4.65,0.5
+A00978,24,pro,North America,marketing_agency,0.1939383721406082,Low,4.65,0.5
+A01471,12,pro,North America,real_estate,0.38615291729201,Medium,4.63,0.5
+A01864,12,pro,Asia,real_estate,0.3858906899172281,Medium,4.63,0.5
+A01228,12,pro,Asia,real_estate,0.385727089967309,Medium,4.63,0.5
+A00201,12,pro,Europe,ecommerce,0.3854245933885615,Medium,4.63,0.5
+A00854,12,pro,Asia,marketing_agency,0.3850716733090049,Medium,4.62,0.5
+A00933,12,pro,North America,real_estate,0.3846920529604838,Medium,4.62,0.5
+A00805,12,pro,Asia,ecommerce,0.3846173115868864,Medium,4.62,0.5
+A00651,12,pro,Asia,ecommerce,0.3838112690694055,Medium,4.61,0.5
+A01411,24,pro,North America,tech_startup,0.1914348290247196,Low,4.59,0.5
+A01508,12,pro,Europe,ecommerce,0.3808102075039548,Medium,4.57,0.5
+A01239,12,pro,Europe,media,0.3791039748890636,Medium,4.55,0.5
+A00866,12,pro,Europe,ecommerce,0.3781015576372621,Medium,4.54,0.5
+A01804,12,pro,North America,education,0.3745753980800249,Medium,4.49,0.5
+A00400,12,pro,North America,ecommerce,0.374406819876455,Medium,4.49,0.5
+A00623,12,pro,North America,marketing_agency,0.3737396433813141,Medium,4.48,0.5
+A01895,24,pro,Latin America,media,0.1857845081248,Low,4.46,0.5
+A00071,24,pro,North America,marketing_agency,0.1840916907846694,Low,4.42,0.5
+A01885,12,pro,North America,marketing_agency,0.3670744424730597,Medium,4.4,0.5
+A01009,12,pro,North America,tech_startup,0.3668719809023491,Medium,4.4,0.5
+A00936,24,pro,Asia,tech_startup,0.1832436943943632,Low,4.4,0.5
+A01762,24,pro,Asia,marketing_agency,0.1822425671415128,Low,4.37,0.5
+A01943,12,pro,Europe,media,0.3622237940017411,Medium,4.35,0.5
+A00001,12,pro,Asia,tech_startup,0.3607958980006421,Medium,4.33,0.5
+A00553,12,pro,Asia,tech_startup,0.3605196788563835,Medium,4.33,0.5
+A01963,12,pro,North America,ecommerce,0.3576903980432874,Medium,4.29,0.5
+A00307,12,pro,North America,real_estate,0.3576736955756319,Medium,4.29,0.5
+A00615,12,pro,Europe,real_estate,0.355677275906169,Medium,4.27,0.5
+A01652,12,pro,North America,ecommerce,0.355077319923406,Medium,4.26,0.5
+A00515,12,pro,Europe,marketing_agency,0.3540740672398227,Medium,4.25,0.5
+A01790,12,pro,North America,education,0.3525858794489511,Medium,4.23,0.5
+A00669,12,pro,Asia,ecommerce,0.3517874140078516,Medium,4.22,0.5
+A00793,12,pro,Europe,marketing_agency,0.3511227839054696,Medium,4.21,0.5
+A01125,12,pro,North America,ecommerce,0.3508575616122561,Medium,4.21,0.5
+A01889,24,pro,Europe,education,0.174675788913122,Low,4.19,0.5
+A00758,12,pro,North America,real_estate,0.348314573301195,Medium,4.18,0.5
+A00636,12,pro,Asia,media,0.347053205833964,Medium,4.16,0.5
+A01670,12,pro,Europe,marketing_agency,0.3467326156922024,Medium,4.16,0.5
+A01597,12,pro,Europe,real_estate,0.3462679336102182,Medium,4.16,0.5
+A01925,24,pro,North America,media,0.1734468994595808,Low,4.16,0.5
+A01615,12,pro,North America,marketing_agency,0.3438862284312089,Medium,4.13,0.5
+A00091,24,pro,Europe,real_estate,0.1722141814102405,Low,4.13,0.5
+A00118,12,pro,North America,tech_startup,0.3423605112243535,Medium,4.11,0.5
+A01674,12,pro,Europe,tech_startup,0.3419036996640337,Medium,4.1,0.5
+A00287,12,pro,Asia,tech_startup,0.3401556826530813,Medium,4.08,0.5
+A01003,12,pro,North America,ecommerce,0.3391428936530387,Medium,4.07,0.5
+A01185,12,pro,North America,marketing_agency,0.338706883508049,Medium,4.06,0.5
+A00177,12,pro,North America,tech_startup,0.3355774669027928,Medium,4.03,0.5
+A01770,12,pro,Europe,real_estate,0.3326024093269986,Medium,3.99,0.5
+A00059,12,pro,North America,education,0.3315744152783507,Medium,3.98,0.5
+A01162,12,pro,Europe,media,0.3311460928915669,Medium,3.97,0.5
+A01300,12,pro,North America,ecommerce,0.3305881223692318,Medium,3.97,0.5
+A01397,12,pro,North America,ecommerce,0.3304264721042135,Medium,3.97,0.5
+A00499,24,pro,Asia,ecommerce,0.1652995313029057,Low,3.97,0.5
+A00011,12,pro,North America,education,0.3297764800484835,Medium,3.96,0.5
+A01056,12,pro,Asia,real_estate,0.328586416420872,Medium,3.94,0.5
+A00921,12,pro,Asia,ecommerce,0.327172740980937,Medium,3.93,0.5
+A00196,12,pro,North America,real_estate,0.3262076054548227,Medium,3.91,0.5
+A01565,12,pro,Asia,media,0.3239847744516383,Medium,3.89,0.5
+A01416,12,pro,Asia,ecommerce,0.3224705412244521,Medium,3.87,0.5
+A00668,12,pro,Europe,marketing_agency,0.3220101631150522,Medium,3.86,0.5
+A00135,12,pro,Europe,marketing_agency,0.3217650435538655,Medium,3.86,0.5
+A00235,12,pro,North America,tech_startup,0.3176786642155509,Medium,3.81,0.5
+A00227,12,pro,Asia,tech_startup,0.3175262756596781,Medium,3.81,0.5
+A00482,12,pro,Europe,ecommerce,0.314437233354594,Medium,3.77,0.5
+A00843,12,pro,North America,media,0.3139976235958754,Medium,3.77,0.5
+A01454,24,pro,North America,marketing_agency,0.1557681853262093,Low,3.74,0.5
+A00006,12,pro,North America,ecommerce,0.3073220167405537,Medium,3.69,0.5
+A01372,12,pro,North America,tech_startup,0.3070731631889862,Medium,3.68,0.5
+A01641,12,pro,North America,marketing_agency,0.3057588897984042,Medium,3.67,0.5
+A01046,12,pro,Europe,media,0.3022888094559607,Medium,3.63,0.5
+A00378,12,pro,Asia,media,0.300279430253576,Medium,3.6,0.5
+A00259,12,pro,North America,ecommerce,0.3000285366279825,Medium,3.6,0.5
+A01485,12,pro,North America,ecommerce,0.3000109317415251,Medium,3.6,0.5
+A00551,12,pro,North America,ecommerce,0.299762739363807,Medium,3.6,0.5
+A01469,12,pro,North America,tech_startup,0.2966724553146441,Medium,3.56,0.5
+A00098,12,pro,Latin America,tech_startup,0.2963701118518209,Medium,3.56,0.5
+A01521,12,pro,North America,tech_startup,0.2955855209067552,Medium,3.55,0.5
+A00139,12,pro,Asia,real_estate,0.2952802656131268,Medium,3.54,0.5
+A01567,12,pro,Latin America,education,0.2926464565218232,Medium,3.51,0.5
+A00555,12,pro,Asia,marketing_agency,0.2919043995807237,Medium,3.5,0.5
+A01343,12,pro,North America,ecommerce,0.289884203016208,Medium,3.48,0.5
+A01210,12,pro,North America,marketing_agency,0.2860370717486636,Medium,3.43,0.5
+A01933,12,pro,Europe,real_estate,0.2842990471155309,Medium,3.41,0.5
+A01288,12,pro,North America,ecommerce,0.2832046041393111,Medium,3.4,0.5
+A00437,12,pro,North America,education,0.282451684114778,Medium,3.39,0.5
+A00031,12,pro,North America,tech_startup,0.2793977377282014,Medium,3.35,0.5
+A00354,12,pro,Europe,ecommerce,0.2762672082303347,Medium,3.32,0.5
+A01593,12,pro,Europe,tech_startup,0.2759428047657752,Medium,3.31,0.5
+A00961,12,pro,Europe,ecommerce,0.2755283033074199,Medium,3.31,0.5
+A01005,12,pro,North America,tech_startup,0.2700470459066992,Medium,3.24,0.5
+A00205,12,pro,North America,marketing_agency,0.268212037830274,Medium,3.22,0.5
+A00836,12,pro,Europe,real_estate,0.2679488847369825,Medium,3.22,0.5
+A01821,12,pro,North America,ecommerce,0.2678856414536212,Medium,3.21,0.5
+A00845,12,pro,North America,ecommerce,0.2673632897713595,Medium,3.21,0.5
+A00213,12,pro,North America,real_estate,0.2654706675161918,Medium,3.19,0.5
+A00550,12,pro,Europe,tech_startup,0.2625513287850947,Medium,3.15,0.5
+A00976,12,pro,Latin America,marketing_agency,0.2615220497054418,Medium,3.14,0.5
+A00813,12,pro,Europe,real_estate,0.2558040451000137,Medium,3.07,0.5
+A00533,12,pro,North America,education,0.2535098748183302,Medium,3.04,0.5
+A01825,12,pro,North America,education,0.2520165665135294,Medium,3.02,0.5
+A01750,12,pro,North America,tech_startup,0.250493594918992,Medium,3.01,0.5
+A00262,12,pro,North America,real_estate,0.2502404587308773,Medium,3.0,0.5
+A01813,12,pro,Asia,tech_startup,0.2495417783190431,Low,2.99,0.5
+A01012,12,pro,North America,education,0.2494471521882895,Low,2.99,0.5
+A00567,12,pro,Europe,real_estate,0.249133488275085,Low,2.99,0.5
+A00874,12,pro,Europe,tech_startup,0.2465699126926096,Low,2.96,0.5
+A01715,12,pro,Latin America,marketing_agency,0.2461350289432224,Low,2.95,0.5
+A01865,12,pro,North America,marketing_agency,0.2409997813293862,Low,2.89,0.5
+A00459,12,pro,Asia,media,0.236285307762259,Low,2.84,0.5
+A01849,12,pro,North America,education,0.2329944782072843,Low,2.8,0.5
+A00483,12,pro,Europe,ecommerce,0.2320859314575003,Low,2.79,0.5
+A01458,12,pro,Latin America,education,0.2248329244929911,Low,2.7,0.5
+A00174,12,pro,North America,marketing_agency,0.2233929365193522,Low,2.68,0.5
+A01870,12,pro,Asia,ecommerce,0.2194769000232184,Low,2.63,0.5
+A01354,12,pro,North America,ecommerce,0.2191495994769642,Low,2.63,0.5
+A00631,12,pro,North America,ecommerce,0.2173019987712552,Low,2.61,0.5
+A01474,12,pro,Europe,ecommerce,0.2097668684058857,Low,2.52,0.5
+A00573,12,pro,Europe,ecommerce,0.209604066190727,Low,2.52,0.5
+A01985,12,pro,North America,real_estate,0.2078341520424718,Low,2.49,0.5
+A00379,12,pro,North America,ecommerce,0.2064759192459972,Low,2.48,0.5
+A01666,12,pro,North America,education,0.1992575772809293,Low,2.39,0.5
+A00470,12,pro,North America,education,0.1978536790525769,Low,2.37,0.5
+A00024,12,pro,Asia,real_estate,0.1933778469174487,Low,2.32,0.5
+A00389,12,pro,North America,tech_startup,0.188585782634552,Low,2.26,0.5
+A00004,12,pro,North America,ecommerce,0.183040384996772,Low,2.2,0.5
+A00705,12,pro,North America,ecommerce,0.1743483814102557,Low,2.09,0.5
+A01442,12,pro,North America,media,0.1667835918629636,Low,2.0,0.5
+A01359,12,pro,Europe,ecommerce,0.1647753774934444,Low,1.98,0.5
+A01355,12,pro,Europe,marketing_agency,0.1576427477397737,Low,1.89,0.5
+A00506,12,pro,Latin America,real_estate,0.1486983218220477,Low,1.78,0.5
+A01120,12,pro,Europe,marketing_agency,0.147218659951428,Low,1.77,0.5
+A00811,12,pro,Europe,education,0.1458465900029381,Low,1.75,0.5
+A00922,12,pro,Latin America,real_estate,0.1452157637532125,Low,1.74,0.5
+A00532,12,pro,Europe,media,0.1367115387643762,Low,1.64,0.5
+A00408,0,free,Asia,education,0.1054844152933831,Low,0.0,0.5
+A00772,0,free,North America,media,0.1020525885592948,Low,0.0,0.5
+A01116,0,free,Latin America,education,0.0933655056912435,Low,0.0,0.5
+A01871,0,free,North America,ecommerce,0.0832029331588509,Low,0.0,0.5
+A00554,0,free,Asia,tech_startup,0.0683912142048538,Low,0.0,0.5
+A00008,0,free,Europe,ecommerce,0.048634673365339,Low,0.0,0.5
+A01733,0,free,North America,real_estate,0.0479180131572389,Low,0.0,0.5
+A01986,0,free,Latin America,real_estate,0.0445388716955093,Low,0.0,0.5
+A01007,0,free,North America,tech_startup,0.0365146227408406,Low,0.0,0.5
+A00488,0,free,North America,education,0.0336624908750123,Low,0.0,0.5
+A01126,0,free,North America,education,0.0330302422665338,Low,0.0,0.5
+A00145,0,free,Europe,tech_startup,0.0327284077464439,Low,0.0,0.5
+A00239,0,free,North America,tech_startup,0.0319975080957116,Low,0.0,0.5
+A01695,0,free,Latin America,education,0.0316779292613154,Low,0.0,0.5
+A01707,0,free,North America,tech_startup,0.0305581387698794,Low,0.0,0.5
+A00731,0,free,Asia,media,0.0305550990648987,Low,0.0,0.5
+A00583,0,free,North America,ecommerce,0.0303779396747027,Low,0.0,0.5
+A01325,0,free,North America,real_estate,0.0300072945169647,Low,0.0,0.5
+A01426,0,free,Europe,marketing_agency,0.0298751432948703,Low,0.0,0.5
+A01946,0,free,Asia,ecommerce,0.0296567680680614,Low,0.0,0.5
+A00782,0,free,Europe,real_estate,0.0294341783055841,Low,0.0,0.5
+A00650,0,free,North America,education,0.0294118315234265,Low,0.0,0.5
+A00876,0,free,Latin America,tech_startup,0.029072953756294,Low,0.0,0.5
+A01322,0,free,Latin America,media,0.0287115069598289,Low,0.0,0.5
+A01500,0,free,Europe,media,0.02867853338639,Low,0.0,0.5
+A01184,0,free,North America,tech_startup,0.0286399141667409,Low,0.0,0.5
+A00816,0,free,North America,education,0.0279470813388714,Low,0.0,0.5
+A01944,0,free,North America,marketing_agency,0.0276739847675958,Low,0.0,0.5
+A01954,0,free,North America,education,0.0269065227400266,Low,0.0,0.5
+A01105,0,free,North America,ecommerce,0.0268649925116313,Low,0.0,0.5
+A01382,0,free,Europe,ecommerce,0.0265760888337903,Low,0.0,0.5
+A00589,0,free,Asia,tech_startup,0.0265194305535457,Low,0.0,0.5
+A00314,0,free,Europe,ecommerce,0.0263022672479267,Low,0.0,0.5
+A00241,0,free,North America,real_estate,0.0261690528796967,Low,0.0,0.5
+A01141,0,free,Asia,marketing_agency,0.025222979669581,Low,0.0,0.5
+A00317,0,free,North America,ecommerce,0.025196218597024,Low,0.0,0.5
+A00042,0,free,North America,tech_startup,0.024616182096152,Low,0.0,0.5
+A01346,0,free,North America,education,0.0246102267440955,Low,0.0,0.5
+A00646,0,free,Europe,tech_startup,0.0245467032064228,Low,0.0,0.5
+A00431,0,free,North America,ecommerce,0.0242872969208579,Low,0.0,0.5
+A00785,0,free,Europe,media,0.0238825338739391,Low,0.0,0.5
+A00939,0,free,North America,media,0.0235655138277518,Low,0.0,0.5
+A01592,0,free,North America,real_estate,0.0227523226622896,Low,0.0,0.5
+A01996,0,free,Europe,ecommerce,0.0227062937330731,Low,0.0,0.5
+A00672,0,free,North America,ecommerce,0.0222006977390733,Low,0.0,0.5
+A00720,0,free,Europe,ecommerce,0.0220055954882717,Low,0.0,0.5
+A00735,0,free,Latin America,real_estate,0.0219523233284088,Low,0.0,0.5
+A01223,0,free,North America,media,0.0218865264255625,Low,0.0,0.5
+A00359,0,free,North America,media,0.0216352747408519,Low,0.0,0.5
+A00450,0,free,North America,ecommerce,0.0216229987363637,Low,0.0,0.5
+A01845,0,free,Europe,marketing_agency,0.0213396867164338,Low,0.0,0.5
+A01066,0,free,North America,tech_startup,0.0203203156272046,Low,0.0,0.5
+A01658,0,free,North America,media,0.0201616685134583,Low,0.0,0.5
+A00221,0,free,North America,media,0.0201274833227841,Low,0.0,0.5
+A01430,0,free,North America,marketing_agency,0.0200621077245622,Low,0.0,0.5
+A00538,0,free,North America,tech_startup,0.0200561203125145,Low,0.0,0.5
+A01136,0,free,North America,education,0.0199174355351954,Low,0.0,0.5
+A01026,0,free,Europe,education,0.0199092342488913,Low,0.0,0.5
+A01092,0,free,North America,media,0.0196823891155712,Low,0.0,0.5
+A00932,0,free,North America,tech_startup,0.019351123090884,Low,0.0,0.5
+A00343,0,free,Latin America,marketing_agency,0.0192055571025863,Low,0.0,0.5
+A00026,0,free,North America,real_estate,0.01855518687784,Low,0.0,0.5
+A00881,0,free,North America,education,0.0185255621200444,Low,0.0,0.5
+A01520,0,free,Europe,real_estate,0.0185144935648275,Low,0.0,0.5
+A01701,0,free,North America,ecommerce,0.0183921314214496,Low,0.0,0.5
+A01708,0,free,Latin America,marketing_agency,0.0181484660014665,Low,0.0,0.5
+A00384,0,free,North America,marketing_agency,0.0180365974841756,Low,0.0,0.5
+A01648,0,free,Europe,media,0.018024559674333,Low,0.0,0.5
+A01894,0,free,North America,media,0.0180233800274813,Low,0.0,0.5
+A00149,0,free,Asia,marketing_agency,0.017969564428304,Low,0.0,0.5
+A00460,0,free,Latin America,marketing_agency,0.0177097438068502,Low,0.0,0.5
+A00992,0,free,North America,media,0.0171710463572852,Low,0.0,0.5
+A01664,0,free,North America,ecommerce,0.017170015526422,Low,0.0,0.5
+A01622,0,free,Latin America,education,0.0167600527821976,Low,0.0,0.5
+A00679,0,free,North America,marketing_agency,0.0160049274293849,Low,0.0,0.5
+A01127,0,free,Asia,marketing_agency,0.0158603931259826,Low,0.0,0.5
+A01970,0,free,Europe,marketing_agency,0.0156353229454236,Low,0.0,0.5
+A00707,0,free,Asia,tech_startup,0.0155487118206296,Low,0.0,0.5
+A01110,0,free,Latin America,media,0.0155081566973565,Low,0.0,0.5
+A00087,0,free,Europe,real_estate,0.0154428006200724,Low,0.0,0.5
+A00197,0,free,Europe,tech_startup,0.0151406811557859,Low,0.0,0.5
+A00246,0,free,North America,media,0.0148598563994194,Low,0.0,0.5
+A01101,0,free,North America,education,0.0145278965257359,Low,0.0,0.5
+A00761,0,free,North America,tech_startup,0.0142684868683287,Low,0.0,0.5
+A00176,0,free,North America,ecommerce,0.0142649181146826,Low,0.0,0.5
+A01339,0,free,Europe,education,0.0138960211628975,Low,0.0,0.5
+A01117,0,free,North America,marketing_agency,0.013530304196339,Low,0.0,0.5
+A00702,0,free,Asia,tech_startup,0.0125855418585351,Low,0.0,0.5
+A00381,0,free,North America,tech_startup,0.0123509754408576,Low,0.0,0.5
+A00754,0,free,Europe,marketing_agency,0.0121932880036068,Low,0.0,0.5
+A01147,0,free,North America,tech_startup,0.0121707295417785,Low,0.0,0.5
+A00690,0,free,Asia,tech_startup,0.0121072900408681,Low,0.0,0.5
+A01555,0,free,North America,marketing_agency,0.0119604301071592,Low,0.0,0.5
+A01682,0,free,North America,ecommerce,0.011932835165692,Low,0.0,0.5
+A01948,0,free,Europe,real_estate,0.011566188361115,Low,0.0,0.5
+A01063,0,free,North America,tech_startup,0.0113536176778711,Low,0.0,0.5
+A00150,0,free,North America,ecommerce,0.0113412758402115,Low,0.0,0.5
+A00110,0,free,Asia,tech_startup,0.0113156883859453,Low,0.0,0.5
+A01585,0,free,Europe,ecommerce,0.0111040018991861,Low,0.0,0.5
+A01038,0,free,North America,media,0.0110765397746926,Low,0.0,0.5
+A01853,0,free,North America,real_estate,0.0110535025001435,Low,0.0,0.5
+A00627,0,free,Asia,ecommerce,0.0109962418156512,Low,0.0,0.5
+A01309,0,free,Europe,marketing_agency,0.010946395319491,Low,0.0,0.5
+A01854,0,free,Europe,tech_startup,0.0109185561952705,Low,0.0,0.5
+A01407,0,free,North America,tech_startup,0.0108775028411979,Low,0.0,0.5
+A00855,0,free,North America,real_estate,0.0108693375974175,Low,0.0,0.5
+A01034,0,free,Europe,real_estate,0.0108627210113985,Low,0.0,0.5
+A00794,0,free,North America,ecommerce,0.0106162975384041,Low,0.0,0.5
+A01564,0,free,North America,ecommerce,0.0106162975384041,Low,0.0,0.5
+A01920,0,free,North America,tech_startup,0.0101225207980602,Low,0.0,0.5
+A00568,0,free,North America,education,0.0099671202535596,Low,0.0,0.5
+A01534,0,free,North America,ecommerce,0.0099599703786013,Low,0.0,0.5
+A01912,0,free,Europe,media,0.0098528294165302,Low,0.0,0.5
+A00744,0,free,North America,media,0.0098504032210582,Low,0.0,0.5
+A01868,0,free,Asia,marketing_agency,0.0097588277636184,Low,0.0,0.5
+A01000,0,free,Europe,marketing_agency,0.0097313722461882,Low,0.0,0.5
+A01572,0,free,Asia,real_estate,0.0096924243244245,Low,0.0,0.5
+A00575,0,free,North America,ecommerce,0.0096223265725463,Low,0.0,0.5
+A00792,0,free,Latin America,education,0.0096007951694374,Low,0.0,0.5
+A01522,0,free,Asia,education,0.0095097978402715,Low,0.0,0.5
+A00695,0,free,North America,ecommerce,0.0093339808043019,Low,0.0,0.5
+A01439,0,free,Latin America,media,0.0092951715756135,Low,0.0,0.5
+A00274,0,free,North America,education,0.0092855294920605,Low,0.0,0.5
+A00217,0,free,North America,real_estate,0.0092439126350948,Low,0.0,0.5
+A00908,0,free,Asia,real_estate,0.0092424743570509,Low,0.0,0.5
+A01224,0,free,North America,marketing_agency,0.0091267343898144,Low,0.0,0.5
+A00015,0,free,North America,ecommerce,0.0089556672969638,Low,0.0,0.5
+A01709,0,free,Latin America,tech_startup,0.0089349386121882,Low,0.0,0.5
+A01084,0,free,North America,real_estate,0.0088863564204716,Low,0.0,0.5
+A00923,0,free,Asia,ecommerce,0.0088234902383504,Low,0.0,0.5
+A00904,0,free,North America,media,0.0088149409857191,Low,0.0,0.5
+A01177,0,free,Asia,education,0.0087505097026242,Low,0.0,0.5
+A01860,0,free,North America,marketing_agency,0.0087025835653394,Low,0.0,0.5
+A00269,0,free,Latin America,ecommerce,0.0086376319203389,Low,0.0,0.5
+A01479,0,free,Europe,marketing_agency,0.0086261021796873,Low,0.0,0.5
+A00654,0,free,North America,media,0.008621143686141,Low,0.0,0.5
+A01103,0,free,North America,real_estate,0.0086073284501035,Low,0.0,0.5
+A01580,0,free,Europe,real_estate,0.0085864921088987,Low,0.0,0.5
+A01292,0,free,North America,tech_startup,0.0085332648695636,Low,0.0,0.5
+A01079,0,free,Latin America,tech_startup,0.008481480003547,Low,0.0,0.5
+A00102,0,free,North America,tech_startup,0.0082066660572708,Low,0.0,0.5
+A01506,0,free,Asia,tech_startup,0.0082047647796848,Low,0.0,0.5
+A01488,0,free,North America,tech_startup,0.0081743129535059,Low,0.0,0.5
+A00872,0,free,North America,real_estate,0.0081154786178656,Low,0.0,0.5
+A00674,0,free,Latin America,education,0.0081006748465858,Low,0.0,0.5
+A01214,0,free,Europe,marketing_agency,0.0080901932392853,Low,0.0,0.5
+A01135,0,free,North America,real_estate,0.0080670353396373,Low,0.0,0.5
+A01152,0,free,Asia,tech_startup,0.0080103843811203,Low,0.0,0.5
+A01643,0,free,Europe,education,0.007962726325637,Low,0.0,0.5
+A01418,0,free,Asia,media,0.0079216831740151,Low,0.0,0.5
+A00396,0,free,Europe,marketing_agency,0.0077981969767884,Low,0.0,0.5
+A00167,0,free,North America,ecommerce,0.0077959780543262,Low,0.0,0.5
+A00924,0,free,North America,marketing_agency,0.0077551865410723,Low,0.0,0.5
+A01399,0,free,North America,tech_startup,0.0077270407853386,Low,0.0,0.5
+A01945,0,free,Asia,tech_startup,0.0076478668047416,Low,0.0,0.5
+A01720,0,free,Asia,ecommerce,0.00759585531809,Low,0.0,0.5
+A00983,0,free,Latin America,ecommerce,0.0075262932711149,Low,0.0,0.5
+A00442,0,free,Asia,marketing_agency,0.0074823730724492,Low,0.0,0.5
+A00230,0,free,Asia,tech_startup,0.0074064322495096,Low,0.0,0.5
+A01647,0,free,Europe,marketing_agency,0.007380701516477,Low,0.0,0.5
+A00491,0,free,Asia,marketing_agency,0.0073369395066199,Low,0.0,0.5
+A01230,0,free,Asia,marketing_agency,0.0072692676951156,Low,0.0,0.5
+A00060,0,free,Europe,ecommerce,0.0072314431462532,Low,0.0,0.5
+A00260,0,free,North America,media,0.0070579653095362,Low,0.0,0.5
+A01221,0,free,Asia,education,0.0070567438028689,Low,0.0,0.5
+A01550,0,free,North America,tech_startup,0.0070009132203175,Low,0.0,0.5
+A00968,0,free,North America,ecommerce,0.0069692094289581,Low,0.0,0.5
+A00638,0,free,North America,ecommerce,0.0068886375755946,Low,0.0,0.5
+A00044,0,free,Europe,marketing_agency,0.0068763276560056,Low,0.0,0.5
+A01767,0,free,North America,real_estate,0.0068448246202852,Low,0.0,0.5
+A01763,0,free,Asia,education,0.0064855535172038,Low,0.0,0.5
+A01433,0,free,Asia,tech_startup,0.0064799317529272,Low,0.0,0.5
+A01748,0,free,Latin America,ecommerce,0.0064372670807453,Low,0.0,0.5
+A01999,0,free,North America,marketing_agency,0.0064221450229737,Low,0.0,0.5
+A01090,0,free,Europe,real_estate,0.0064050195621255,Low,0.0,0.5
+A01916,0,free,Asia,real_estate,0.0063985273743364,Low,0.0,0.5
+A00346,0,free,Latin America,marketing_agency,0.0063371858239694,Low,0.0,0.5
+A01067,0,free,Europe,education,0.0062900713402729,Low,0.0,0.5
+A00331,0,free,Asia,ecommerce,0.006285322041058,Low,0.0,0.5
+A01909,0,free,Europe,tech_startup,0.0062692917845639,Low,0.0,0.5
+A00891,0,free,North America,tech_startup,0.0062521634413339,Low,0.0,0.5
+A00614,0,free,Europe,marketing_agency,0.0062047428434839,Low,0.0,0.5
+A00175,0,free,North America,real_estate,0.006148677996901,Low,0.0,0.5
+A01496,0,free,Latin America,ecommerce,0.0061410125986106,Low,0.0,0.5
+A00010,0,free,Europe,ecommerce,0.0061310997940874,Low,0.0,0.5
+A00422,0,free,Latin America,tech_startup,0.0060478929465769,Low,0.0,0.5
+A00856,0,free,Asia,real_estate,0.0060328817797789,Low,0.0,0.5
+A00151,0,free,North America,marketing_agency,0.0060251595034028,Low,0.0,0.5
+A00194,0,free,Asia,marketing_agency,0.0059860925776862,Low,0.0,0.5
+A00558,0,free,Asia,marketing_agency,0.0059798001039786,Low,0.0,0.5
+A01130,0,free,North America,tech_startup,0.0059443247735084,Low,0.0,0.5
+A01940,0,free,Asia,tech_startup,0.0058682727671031,Low,0.0,0.5
+A00394,0,free,North America,tech_startup,0.0057191522762951,Low,0.0,0.5
+A01281,0,free,North America,tech_startup,0.0056595580110497,Low,0.0,0.5
+A01761,0,free,Europe,marketing_agency,0.0055843955317601,Low,0.0,0.5
+A01887,0,free,Asia,ecommerce,0.0054993852805542,Low,0.0,0.5
+A00487,0,free,North America,education,0.0054228446389496,Low,0.0,0.5
+A01752,0,free,Europe,marketing_agency,0.0054179651865244,Low,0.0,0.5
+A00895,0,free,Asia,education,0.0053848720207115,Low,0.0,0.5
+A00075,0,free,Europe,ecommerce,0.0053743975883701,Low,0.0,0.5
+A01039,0,free,North America,marketing_agency,0.0053629540058285,Low,0.0,0.5
+A00297,0,free,Europe,tech_startup,0.0053400065792565,Low,0.0,0.5
+A01217,0,free,North America,real_estate,0.0052883929650531,Low,0.0,0.5
+A00752,0,free,Latin America,tech_startup,0.0052857545154205,Low,0.0,0.5
+A01905,0,free,Latin America,media,0.0052853784371321,Low,0.0,0.5
+A00606,0,free,Asia,ecommerce,0.0052209364082167,Low,0.0,0.5
+A00543,0,free,Europe,marketing_agency,0.0052044979919678,Low,0.0,0.5
+A01432,0,free,North America,real_estate,0.0051770806301437,Low,0.0,0.5
+A01083,0,free,North America,tech_startup,0.0051681740897982,Low,0.0,0.5
+A00901,0,free,North America,real_estate,0.0051644722841604,Low,0.0,0.5
+A00057,0,free,Latin America,marketing_agency,0.0051475182034386,Low,0.0,0.5
+A00498,0,free,Asia,media,0.0051225633865729,Low,0.0,0.5
+A01992,0,free,North America,ecommerce,0.0050827868138306,Low,0.0,0.5
+A01388,0,free,North America,ecommerce,0.0050296803739714,Low,0.0,0.5
+A01352,0,free,Latin America,tech_startup,0.005019630163118,Low,0.0,0.5
+A01768,0,free,North America,ecommerce,0.005019630163118,Low,0.0,0.5
+A01358,0,free,Europe,media,0.0049867859806114,Low,0.0,0.5
+A00916,0,free,North America,education,0.0049559519835824,Low,0.0,0.5
+A01364,0,free,Asia,marketing_agency,0.0049409231127408,Low,0.0,0.5
+A01461,0,free,North America,ecommerce,0.0049110105523465,Low,0.0,0.5
+A00809,0,free,North America,ecommerce,0.0048890463105291,Low,0.0,0.5
+A01972,0,free,North America,tech_startup,0.004876884426853,Low,0.0,0.5
+A01391,0,free,North America,tech_startup,0.0048568155777817,Low,0.0,0.5
+A01717,0,free,North America,marketing_agency,0.0047868752368998,Low,0.0,0.5
+A00734,0,free,Asia,real_estate,0.0047545597043278,Low,0.0,0.5
+A00018,0,free,Asia,tech_startup,0.0047083690255933,Low,0.0,0.5
+A01446,0,free,Europe,marketing_agency,0.0047082032720847,Low,0.0,0.5
+A01192,0,free,Asia,tech_startup,0.0046871244528735,Low,0.0,0.5
+A01968,0,free,Asia,ecommerce,0.0046611709625074,Low,0.0,0.5
+A01835,0,free,Europe,marketing_agency,0.0046558110350822,Low,0.0,0.5
+A00776,0,free,Latin America,media,0.0046447933058573,Low,0.0,0.5
+A01718,0,free,Europe,tech_startup,0.0045818025751072,Low,0.0,0.5
+A01777,0,free,North America,ecommerce,0.0045700418535065,Low,0.0,0.5
+A01387,0,free,North America,ecommerce,0.0045446878418635,Low,0.0,0.5
+A00806,0,free,North America,ecommerce,0.0045196145785824,Low,0.0,0.5
+A00219,0,free,North America,marketing_agency,0.0044801227055067,Low,0.0,0.5
+A01656,0,free,Europe,marketing_agency,0.0044648506898077,Low,0.0,0.5
+A01621,0,free,Europe,education,0.0044254552776374,Low,0.0,0.5
+A01323,0,free,North America,media,0.0043980016979403,Low,0.0,0.5
+A01611,0,free,Asia,ecommerce,0.0043870864165097,Low,0.0,0.5
+A00204,0,free,Asia,tech_startup,0.0043740096093692,Low,0.0,0.5
+A01742,0,free,Asia,ecommerce,0.0043671959252069,Low,0.0,0.5
+A01745,0,free,Asia,tech_startup,0.0043671959252069,Low,0.0,0.5
+A01073,0,free,Europe,tech_startup,0.0043430559050175,Low,0.0,0.5
+A00316,0,free,North America,media,0.0043319768273147,Low,0.0,0.5
+A01620,0,free,Europe,ecommerce,0.0043124233775281,Low,0.0,0.5
+A01570,0,free,Asia,marketing_agency,0.0043034288001206,Low,0.0,0.5
+A01689,0,free,North America,ecommerce,0.0042979735198462,Low,0.0,0.5
+A01369,0,free,North America,media,0.0042638940386437,Low,0.0,0.5
+A00676,0,free,North America,tech_startup,0.0042299285930491,Low,0.0,0.5
+A01965,0,free,North America,marketing_agency,0.0042220048377916,Low,0.0,0.5
+A00214,0,free,North America,tech_startup,0.0042075802813749,Low,0.0,0.5
+A00161,0,free,North America,marketing_agency,0.0041776791245096,Low,0.0,0.5
+A00078,0,free,North America,marketing_agency,0.0041700216708827,Low,0.0,0.5
+A00430,0,free,Latin America,media,0.0040881206283683,Low,0.0,0.5
+A01060,0,free,Asia,media,0.0040881206283683,Low,0.0,0.5
+A00851,0,free,Latin America,ecommerce,0.0040655534941249,Low,0.0,0.5
+A01384,0,free,North America,media,0.0038917272417313,Low,0.0,0.5
+A00579,0,free,Latin America,media,0.0038413852484652,Low,0.0,0.5
+A01981,0,free,North America,media,0.0038328670728904,Low,0.0,0.5
+A00455,0,free,Europe,media,0.0037876475376475,Low,0.0,0.5
+A01108,0,free,Europe,media,0.0037876475376475,Low,0.0,0.5
+A01100,0,free,North America,ecommerce,0.003780239507542,Low,0.0,0.5
+A01851,0,free,Europe,media,0.0037161044973544,Low,0.0,0.5
+A00824,0,free,Latin America,real_estate,0.0035972523762153,Low,0.0,0.5
+A00941,0,free,Europe,media,0.0035088823763522,Low,0.0,0.5
+A01563,0,free,Europe,ecommerce,0.0033512861312206,Low,0.0,0.5
+A01990,0,free,North America,tech_startup,0.0033333333333333,Low,0.0,0.5
+A00005,0,free,North America,education,0.0033085049089468,Low,0.0,0.5
+A01272,0,free,Asia,education,0.0032629902448735,Low,0.0,0.5
+A01553,0,free,Europe,ecommerce,0.0031276150099679,Low,0.0,0.5
+A00321,0,free,Europe,media,0.0030663928815879,Low,0.0,0.5
+A00542,0,free,Europe,tech_startup,0.0030663928815879,Low,0.0,0.5
+A01892,0,free,Latin America,tech_startup,0.0030408780231335,Low,0.0,0.5
+A01848,0,free,Europe,education,0.00298,Low,0.0,0.5
+A00319,0,free,Europe,ecommerce,0.0029688888888888,Low,0.0,0.5
+A00617,0,free,North America,ecommerce,0.0029666666666666,Low,0.0,0.5
+A01172,0,free,North America,marketing_agency,0.0029666666666666,Low,0.0,0.5
+A01492,0,free,Latin America,tech_startup,0.0028209993674889,Low,0.0,0.5
+A00472,0,free,North America,education,0.0028150021070375,Low,0.0,0.5
+A01582,0,free,Latin America,ecommerce,0.0027940712708924,Low,0.0,0.5
+A01055,0,free,Europe,education,0.0027743501151694,Low,0.0,0.5
+A00249,0,free,North America,real_estate,0.0027538280329799,Low,0.0,0.5
+A01528,0,free,Latin America,tech_startup,0.0027524856096284,Low,0.0,0.5
+A00680,0,free,Asia,tech_startup,0.0027472132326501,Low,0.0,0.5
+A01680,0,free,North America,education,0.0027272727272727,Low,0.0,0.5
+A00242,0,free,Asia,marketing_agency,0.0027053140096618,Low,0.0,0.5
+A01144,0,free,Asia,media,0.0027053140096618,Low,0.0,0.5
+A00187,0,free,North America,tech_startup,0.0026795580110497,Low,0.0,0.5
+A00886,0,free,North America,tech_startup,0.0026795580110497,Low,0.0,0.5
+A00284,0,free,Europe,marketing_agency,0.002676282051282,Low,0.0,0.5
+A00546,0,free,North America,ecommerce,0.002676282051282,Low,0.0,0.5
+A01093,0,free,North America,ecommerce,0.002676282051282,Low,0.0,0.5
+A01797,0,free,Europe,tech_startup,0.0026654669066186,Low,0.0,0.5
+A00930,0,free,North America,ecommerce,0.0026403823178016,Low,0.0,0.5
+A01703,0,free,Asia,marketing_agency,0.0026255574946674,Low,0.0,0.5
+A00393,0,free,Europe,education,0.0025505918289423,Low,0.0,0.5
+A00130,0,free,Latin America,tech_startup,0.002526790750141,Low,0.0,0.5
+A00141,0,free,North America,ecommerce,0.0025197740112994,Low,0.0,0.5
+A00330,0,free,North America,media,0.0025046347793845,Low,0.0,0.5
+A00335,0,free,North America,media,0.0025046347793845,Low,0.0,0.5
+A00598,0,free,North America,media,0.0025046347793845,Low,0.0,0.5
+A00641,0,free,North America,media,0.0025046347793845,Low,0.0,0.5
+A00804,0,free,North America,media,0.0025046347793845,Low,0.0,0.5
+A01444,0,free,North America,media,0.0025046347793845,Low,0.0,0.5
+A01771,0,free,North America,media,0.0025046347793845,Low,0.0,0.5
+A00979,0,free,Latin America,tech_startup,0.002495375508694,Low,0.0,0.5
+A01226,0,free,North America,education,0.002495375508694,Low,0.0,0.5
+A00963,0,free,North America,ecommerce,0.0024818891711355,Low,0.0,0.5
+A01062,0,free,North America,tech_startup,0.0024818891711355,Low,0.0,0.5
+A00401,0,free,North America,marketing_agency,0.0024587458745874,Low,0.0,0.5
+A00305,0,free,Europe,media,0.0024496889864617,Low,0.0,0.5
+A00885,0,free,Europe,marketing_agency,0.0024496889864617,Low,0.0,0.5
+A01195,0,free,North America,marketing_agency,0.0024496889864617,Low,0.0,0.5
+A01951,0,free,Latin America,ecommerce,0.0024272197962154,Low,0.0,0.5
+A00073,0,free,North America,real_estate,0.0023830093592512,Low,0.0,0.5
+A00888,0,free,Asia,real_estate,0.0023830093592512,Low,0.0,0.5
+A01091,0,free,Asia,real_estate,0.0023830093592512,Low,0.0,0.5
+A00124,0,free,Europe,ecommerce,0.0023395445134575,Low,0.0,0.5
+A00323,0,free,North America,ecommerce,0.0023395445134575,Low,0.0,0.5
+A01421,0,free,Latin America,education,0.0023395445134575,Low,0.0,0.5
+A01212,0,free,Latin America,marketing_agency,0.0023235445646573,Low,0.0,0.5
+A01199,0,free,North America,marketing_agency,0.0023220191470844,Low,0.0,0.5
+A01133,0,free,North America,ecommerce,0.0023125,Low,0.0,0.5
+A01218,0,free,North America,tech_startup,0.002286782195039,Low,0.0,0.5
+A01283,0,free,Europe,tech_startup,0.002286782195039,Low,0.0,0.5
+A01450,0,free,Latin America,tech_startup,0.002286782195039,Low,0.0,0.5
+A01547,0,free,Asia,tech_startup,0.002286782195039,Low,0.0,0.5
+A00255,0,free,Latin America,real_estate,0.0022764227642276,Low,0.0,0.5
+A00353,0,free,North America,tech_startup,0.0022764227642276,Low,0.0,0.5
+A00428,0,free,North America,real_estate,0.0022764227642276,Low,0.0,0.5
+A00756,0,free,Europe,education,0.0022764227642276,Low,0.0,0.5
+A01142,0,free,North America,tech_startup,0.0022764227642276,Low,0.0,0.5
+A01206,0,free,North America,marketing_agency,0.0022764227642276,Low,0.0,0.5
+A01624,0,free,Latin America,ecommerce,0.0022764227642276,Low,0.0,0.5
+A01822,0,free,Europe,education,0.0022764227642276,Low,0.0,0.5
+A00662,0,free,Latin America,marketing_agency,0.0022661263086795,Low,0.0,0.5
+A00726,0,free,North America,media,0.0022356091030789,Low,0.0,0.5
+A00911,0,free,Europe,tech_startup,0.0022356091030789,Low,0.0,0.5
+A00356,0,free,North America,education,0.0022255588922255,Low,0.0,0.5
+A00267,0,free,North America,media,0.0021428571428571,Low,0.0,0.5
+A00039,0,free,Latin America,education,0.0021259469696969,Low,0.0,0.5
+A00683,0,free,Asia,education,0.0021259469696969,Low,0.0,0.5
+A00671,0,free,North America,tech_startup,0.0021203528670447,Low,0.0,0.5
+A00796,0,free,North America,marketing_agency,0.0021008469880471,Low,0.0,0.5
+A00292,0,free,Asia,tech_startup,0.0020872274143302,Low,0.0,0.5
+A00303,0,free,North America,tech_startup,0.0020872274143302,Low,0.0,0.5
+A01385,0,free,Europe,tech_startup,0.0020872274143302,Low,0.0,0.5
+A01122,0,free,North America,media,0.0020817786069651,Low,0.0,0.5
+A01290,0,free,Europe,media,0.0020817369093231,Low,0.0,0.5
+A01305,0,free,North America,media,0.0020655534941249,Low,0.0,0.5
+A01704,0,free,Europe,media,0.0020283882783882,Low,0.0,0.5
+A00814,0,free,North America,ecommerce,0.0020178970917225,Low,0.0,0.5
+A00964,0,free,Europe,tech_startup,0.0020178970917225,Low,0.0,0.5
+A01410,0,free,North America,tech_startup,0.0020178970917225,Low,0.0,0.5
+A00025,0,free,North America,education,0.0020024198427102,Low,0.0,0.5
+A00864,0,free,Latin America,marketing_agency,0.0020024198427102,Low,0.0,0.5
+A01027,0,free,Latin America,media,0.0020024198427102,Low,0.0,0.5
+A01409,0,free,North America,ecommerce,0.0019568452380952,Low,0.0,0.5
+A01527,0,free,Europe,ecommerce,0.0019568452380952,Low,0.0,0.5
+A01383,0,free,Europe,marketing_agency,0.001936370209689,Low,0.0,0.5
+A01001,0,free,Asia,tech_startup,0.0019139577298573,Low,0.0,0.5
+A01517,0,free,Europe,media,0.0019084406294706,Low,0.0,0.5
+A01441,0,free,Latin America,tech_startup,0.0018995510662177,Low,0.0,0.5
+A00037,0,free,Europe,ecommerce,0.0018933669185558,Low,0.0,0.5
+A01002,0,free,North America,marketing_agency,0.0018449880569969,Low,0.0,0.5
+A01370,0,free,Asia,media,0.0018385525400139,Low,0.0,0.5
+A01549,0,free,Europe,tech_startup,0.0018099486347661,Low,0.0,0.5
+A01196,0,free,Europe,ecommerce,0.0017928073000536,Low,0.0,0.5
+A01423,0,free,North America,real_estate,0.0017759126032507,Low,0.0,0.5
+A00452,0,free,Europe,media,0.0017592592592592,Low,0.0,0.5
+A00517,0,free,North America,media,0.0017592592592592,Low,0.0,0.5
+A01151,0,free,Latin America,media,0.0017592592592592,Low,0.0,0.5
+A01319,0,free,Europe,media,0.0017592592592592,Low,0.0,0.5
+A01735,0,free,Europe,media,0.0017592592592592,Low,0.0,0.5
+A01856,0,free,North America,media,0.0017592592592592,Low,0.0,0.5
+A01922,0,free,Asia,media,0.0017592592592592,Low,0.0,0.5
+A00496,0,free,Europe,tech_startup,0.0016817724068479,Low,0.0,0.5
+A00574,0,free,North America,education,0.0016817724068479,Low,0.0,0.5
+A01324,0,free,Asia,ecommerce,0.0016817724068479,Low,0.0,0.5
+A01876,0,free,North America,tech_startup,0.0015951359084406,Low,0.0,0.5
+A00637,0,free,North America,education,0.001544630404463,Low,0.0,0.5
+A00326,0,free,North America,tech_startup,0.0012732732732732,Low,0.0,0.5
+A00572,0,free,Latin America,marketing_agency,0.0012732732732732,Low,0.0,0.5
+A00953,0,free,Europe,ecommerce,0.0012732732732732,Low,0.0,0.5
+A01049,0,free,Europe,media,0.0012732732732732,Low,0.0,0.5
+A02000,0,free,Latin America,education,0.0012732732732732,Low,0.0,0.5
+A00807,0,free,North America,tech_startup,0.0009716335180958,Low,0.0,0.5
+A01129,0,free,Europe,real_estate,0.0009716335180958,Low,0.0,0.5
+A00312,0,free,North America,real_estate,0.0009462915601023,Low,0.0,0.5
+A01420,0,free,Asia,ecommerce,0.0009462915601023,Low,0.0,0.5
+A00012,0,free,North America,media,0.0,Low,0.0,0.5
+A00020,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00028,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00033,0,free,North America,education,0.0,Low,0.0,0.5
+A00034,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A00038,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A00043,0,free,Europe,real_estate,0.0,Low,0.0,0.5
+A00045,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A00084,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00093,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00094,0,free,North America,media,0.0,Low,0.0,0.5
+A00097,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00111,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00115,0,free,North America,education,0.0,Low,0.0,0.5
+A00120,0,free,Latin America,real_estate,0.0,Low,0.0,0.5
+A00147,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00152,0,free,North America,education,0.0,Low,0.0,0.5
+A00156,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00164,0,free,North America,media,0.0,Low,0.0,0.5
+A00209,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A00215,0,free,Europe,education,0.0,Low,0.0,0.5
+A00225,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00228,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A00275,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A00280,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00290,0,free,Asia,tech_startup,0.0,Low,0.0,0.5
+A00304,0,free,Europe,media,0.0,Low,0.0,0.5
+A00309,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A00320,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00322,0,free,North America,education,0.0,Low,0.0,0.5
+A00347,0,free,Asia,marketing_agency,0.0,Low,0.0,0.5
+A00385,0,free,North America,media,0.0,Low,0.0,0.5
+A00395,0,free,Europe,real_estate,0.0,Low,0.0,0.5
+A00407,0,free,North America,media,0.0,Low,0.0,0.5
+A00424,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00425,0,free,Latin America,ecommerce,0.0,Low,0.0,0.5
+A00449,0,free,North America,media,0.0,Low,0.0,0.5
+A00468,0,free,Asia,media,0.0,Low,0.0,0.5
+A00476,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A00485,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A00497,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A00501,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A00503,0,free,North America,education,0.0,Low,0.0,0.5
+A00510,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00516,0,free,Asia,education,0.0,Low,0.0,0.5
+A00518,0,free,Asia,marketing_agency,0.0,Low,0.0,0.5
+A00528,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00529,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A00545,0,free,Europe,real_estate,0.0,Low,0.0,0.5
+A00570,0,free,Europe,education,0.0,Low,0.0,0.5
+A00571,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A00580,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00591,0,free,North America,education,0.0,Low,0.0,0.5
+A00601,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00610,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A00612,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00621,0,free,Latin America,tech_startup,0.0,Low,0.0,0.5
+A00652,0,free,North America,education,0.0,Low,0.0,0.5
+A00653,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A00678,0,free,Asia,marketing_agency,0.0,Low,0.0,0.5
+A00686,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00687,0,free,Europe,media,0.0,Low,0.0,0.5
+A00689,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A00691,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A00692,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A00700,0,free,Latin America,real_estate,0.0,Low,0.0,0.5
+A00714,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00715,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00721,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00722,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A00725,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00728,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00777,0,free,Asia,education,0.0,Low,0.0,0.5
+A00781,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00818,0,free,North America,media,0.0,Low,0.0,0.5
+A00827,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00838,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00853,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A00880,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00884,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A00890,0,free,North America,education,0.0,Low,0.0,0.5
+A00898,0,free,Latin America,ecommerce,0.0,Low,0.0,0.5
+A00902,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A00905,0,free,Asia,tech_startup,0.0,Low,0.0,0.5
+A00917,0,free,Asia,education,0.0,Low,0.0,0.5
+A00918,0,free,North America,education,0.0,Low,0.0,0.5
+A00920,0,free,Asia,marketing_agency,0.0,Low,0.0,0.5
+A00931,0,free,Latin America,tech_startup,0.0,Low,0.0,0.5
+A00937,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A00948,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00952,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00957,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A00969,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A00970,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A00998,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01016,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A01025,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01029,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01033,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01042,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01052,0,free,Europe,education,0.0,Low,0.0,0.5
+A01071,0,free,North America,media,0.0,Low,0.0,0.5
+A01094,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A01098,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01107,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01119,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A01138,0,free,Latin America,media,0.0,Low,0.0,0.5
+A01164,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01171,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A01179,0,free,Europe,media,0.0,Low,0.0,0.5
+A01181,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01183,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01187,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01201,0,free,Latin America,ecommerce,0.0,Low,0.0,0.5
+A01207,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01209,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01232,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A01236,0,free,Asia,education,0.0,Low,0.0,0.5
+A01245,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01271,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A01273,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01277,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01284,0,free,Latin America,ecommerce,0.0,Low,0.0,0.5
+A01306,0,free,North America,education,0.0,Low,0.0,0.5
+A01308,0,free,Europe,real_estate,0.0,Low,0.0,0.5
+A01316,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A01320,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A01332,0,free,North America,real_estate,0.0,Low,0.0,0.5
+A01335,0,free,Latin America,real_estate,0.0,Low,0.0,0.5
+A01340,0,free,Asia,tech_startup,0.0,Low,0.0,0.5
+A01351,0,free,Latin America,tech_startup,0.0,Low,0.0,0.5
+A01353,0,free,Europe,education,0.0,Low,0.0,0.5
+A01356,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A01377,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01414,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01419,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A01431,0,free,Asia,education,0.0,Low,0.0,0.5
+A01455,0,free,Latin America,real_estate,0.0,Low,0.0,0.5
+A01457,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A01502,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A01505,0,free,Europe,real_estate,0.0,Low,0.0,0.5
+A01507,0,free,Asia,marketing_agency,0.0,Low,0.0,0.5
+A01511,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01518,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A01519,0,free,North America,education,0.0,Low,0.0,0.5
+A01539,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01541,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01544,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A01552,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01591,0,free,North America,education,0.0,Low,0.0,0.5
+A01598,0,free,North America,real_estate,0.0,Low,0.0,0.5
+A01602,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01614,0,free,Latin America,marketing_agency,0.0,Low,0.0,0.5
+A01616,0,free,Latin America,media,0.0,Low,0.0,0.5
+A01626,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01631,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A01636,0,free,Latin America,tech_startup,0.0,Low,0.0,0.5
+A01638,0,free,North America,education,0.0,Low,0.0,0.5
+A01665,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01687,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A01691,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01716,0,free,Latin America,tech_startup,0.0,Low,0.0,0.5
+A01729,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01744,0,free,Europe,marketing_agency,0.0,Low,0.0,0.5
+A01769,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01783,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01788,0,free,Asia,real_estate,0.0,Low,0.0,0.5
+A01801,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01803,0,free,Europe,media,0.0,Low,0.0,0.5
+A01809,0,free,North America,real_estate,0.0,Low,0.0,0.5
+A01815,0,free,Asia,ecommerce,0.0,Low,0.0,0.5
+A01816,0,free,Europe,ecommerce,0.0,Low,0.0,0.5
+A01827,0,free,Asia,tech_startup,0.0,Low,0.0,0.5
+A01838,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01844,0,free,North America,real_estate,0.0,Low,0.0,0.5
+A01850,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
+A01862,0,free,Europe,media,0.0,Low,0.0,0.5
+A01874,0,free,Asia,real_estate,0.0,Low,0.0,0.5
+A01880,0,free,Asia,marketing_agency,0.0,Low,0.0,0.5
+A01883,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01896,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01900,0,free,Latin America,ecommerce,0.0,Low,0.0,0.5
+A01903,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01910,0,free,North America,real_estate,0.0,Low,0.0,0.5
+A01913,0,free,North America,real_estate,0.0,Low,0.0,0.5
+A01949,0,free,Asia,real_estate,0.0,Low,0.0,0.5
+A01953,0,free,North America,ecommerce,0.0,Low,0.0,0.5
+A01959,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01967,0,free,North America,tech_startup,0.0,Low,0.0,0.5
+A01973,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01984,0,free,North America,marketing_agency,0.0,Low,0.0,0.5
+A01994,0,free,Europe,tech_startup,0.0,Low,0.0,0.5
